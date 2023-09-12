@@ -1,0 +1,570 @@
+{
+  "question": [
+    {
+      "id": 0,
+      "group": "HTML",
+      "type": 0,
+      "title": "HTML là từ viết tắt của từ gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Hyper Text Model Language"
+        },
+        {
+          "id": 2,
+          "_name": "Hi Text Module Language"
+        },
+        {
+          "id": 3,
+          "_name": "Hi Text Markup Language"
+        },
+        {
+          "id": 4,
+          "_name": "Hyper Text Markup Language"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "group": "HTML",
+      "type": 1,
+      "title": "Các ưu điểm của HTMl",
+      "answer": [
+        {
+          "_name": "Kho tài nguyễn khổng lồ với cộng đồng người dùng rộng lớn",
+          "id": 1
+        },
+        {
+          "id": 2,
+          "_name": "Sử dụng mã nguồn mở nên người dùng có thể sử dụng miễn phí"
+        },
+        {
+          "id": 3,
+          "_name": "Hoạt động mượt mà trên hầu hết các trình duyệt"
+        },
+        {
+          "_name": "Cách thức hoạt động đơn giản nên người học có thể dễ dàng nắm bắt được kiến thức để triển khai cho website của mình",
+          "id": 4
+        },
+        {
+          "_name": "Có thể tích hợp với nhiều ngôn ngữ khác nhau",
+          "id": 5
+        },
+        {
+          "_name": "Sử dụng các markup ngắn gọn và có tính đồng nhất cao",
+          "id": 6
+        },
+        {
+          "_name": "Tính tương các với người dùng cao",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các nhược điểm của HTML",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Chỉ áp dụng được cho web tĩnh, không có sự tương tác với người dùng."
+        },
+        {
+          "id": 2,
+          "_name": "Một số trình duyệt còn cập nhật chậm để hỗ trợ các phiên bản mới của HTML, đặc biệt là HTML5"
+        },
+        {
+          "id": 3,
+          "_name": "Việc kiểm soát cách đọc và hiển thị file HTML của trình duyệt khó thực hiện"
+        },
+        {
+          "id": 4,
+          "_name": "Chỉ áp dụng với cấu trúc nhất định, không có khả năng sáng tạo"
+        },
+        {
+          "id": 5,
+          "_name": "Chỉ có thể sử dụng ngôn ngữ javascript để xây dựng các tính năng"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các loại HTMl phổ biến hiện tại ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "HTML 1.0"
+        },
+        {
+          "id": 2,
+          "_name": "HTML 2.0"
+        },
+        {
+          "id": 3,
+          "_name": "HTML 3.2"
+        },
+        {
+          "id": 4,
+          "_name": "HTML 4.01"
+        },
+        {
+          "id": 5,
+          "_name": "XHTML"
+        },
+        {
+          "id": 6,
+          "_name": "HTML 5"
+        },
+        {
+          "id": 7,
+          "_name": "HTML 6"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "HTML",
+      "type": 0,
+      "title": "Ưu điểm XHTML so với HTML",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Yêu cầu mọi phần tử được đóng bằng thẻ đóng hoặc cú pháp tự đóng riêng và phân biệt được chữ in hoa hoặc chữ in thường"
+        },
+        {
+          "id": 2,
+          "_name": "Có thể sử dụng nhiều ngôn ngữ để tạo các chức năng linh hoạt"
+        },
+        {
+          "id": 3,
+          "_name": "Cộng đồng sử dụng lớn ,dễ học ,tìm hiểu và phát triển"
+        },
+        {
+          "id": 4,
+          "_name": "Được các ông lớn trong ngày chống lưng"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các ưu điểm của HTML5 so với HTML4",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Có cú pháp và quy tắc nghiêm ngặt hơn"
+        },
+        {
+          "id": 2,
+          "_name": "Hỗ trợ Video và Audio"
+        },
+        {
+          "id": 3,
+          "_name": "cho phép vẽ đồ hoạ trực tiếp trên trang web bằng JS"
+        },
+        {
+          "id": 4,
+          "_name": "Cung cấp localStorage và sessionStorage để lưu dữ liêu trên máy khách"
+        },
+        {
+          "id": 5,
+          "_name": "Cho phép trang web truy vẫn vị trí địa lý người dùng"
+        },
+        {
+          "id": 6,
+          "_name": "Được hỗ trợ tao ra các trang web thích nghi với các kích thước màn hình khác nhau"
+        },
+        {
+          "id": 7,
+          "_name": "Cho phép tạo các ứng dụng ngoại tuyến"
+        },
+        {
+          "id": 8,
+          "_name": "Cung cấp các công nghệ tạo kết nô thời gian thực giữa máy khách và máy chủ"
+        },
+        {
+          "id": 9,
+          "_name": "Tính tương thích , hỗ trợ và thực thi các tính năng HTML trên các trình duyệt cao"
+        },
+        {
+          "id": 10,
+          "_name": "Các cú pháp , tính năng dễ tiếp cận , không cần các kiến thức sâu "
+        },
+        {
+          "id": 11,
+          "_name": "Tải trang nhanh chóng , ít tốn tài nguyên "
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "HTML",
+      "type": 0,
+      "title": "Thẻ Meta được dùng để làm gì trong hmtl?",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Thẻ Meta trong html được  sử dụng để báo cho trình duyệt về mô tả trang, tác giả, tập ký tự, các từ khóa và nhiều thứ khác."
+        },
+        {
+          "id": 2,
+          "_name": "Thẻ Meta được sử dụng cho việc tối ưu hóa công cụ tìm kiếm để nói cho công cụ tìm kiếm về nội dung trang."
+        },
+        {
+          "id": 3,
+          "_name": "Thẻ <meta> có thể cải thiện SEO mà không cần nội dung chất lượng"
+        },
+        {
+          "id": 4,
+          "_name": " Thẻ <meta> dùng để cho trang web xuất hiện trên các công cụ tìm kiếm"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "HTML",
+      "type": 0,
+      "title": "tác dụng của thẻ iframe",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Là một văn bản Html, được nhúng vào một trang Html khác"
+        },
+        {
+          "id": 2,
+          "_name": "Là một thẻ tối ưu hoá SEO"
+        },
+        {
+          "id": 3,
+          "_name": "Là một thẻ văn bản bình thường của Html"
+        },
+        {
+          "id": 4,
+          "_name": "Là thẻ để dùng code các frame đặc biệt"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "HTML",
+      "type": 1,
+      "title": "Mục đích của thuộc tính alt trong thẻ img?",
+      "answer": [
+        {
+          "_name": "Cung cấp thông tin về ảnh trong trường hợp người dùng không xem được ảnh",
+          "id": 1
+        },
+        {
+          "id": 2,
+          "_name": "Cung cấp hình ảnh dự phong trong trường hợp người dùng không xem được ảnh"
+        },
+        {
+          "id": 3,
+          "_name": "Cung cấp thông tin phụ về ảnh khi nguời dùng xem ảnh"
+        },
+        {
+          "_name": "Cung cấp hiệu ứng khi người dùng xem ảnh",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "HTML",
+      "type": 0,
+      "title": "cách để định nghĩa 1 color trong html",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Hex (color: #FFFFFF) "
+        },
+        {
+          "id": 2,
+          "_name": "Name (color: red) "
+        },
+        {
+          "id": 3,
+          "_name": "RGB(0,0,225)"
+        },
+        {
+          "id": 4,
+          "_name": "tag( color :red)"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các thẻ thể hiện danh sách ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "ui,oi,dl,di"
+        },
+        {
+          "id": 2,
+          "_name": "ul,ol,dl,dt,dd"
+        },
+        {
+          "id": 3,
+          "_name": "li,al,dl"
+        },
+        {
+          "id": 4,
+          "_name": "ul,li,la"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "group": "HTML",
+      "type": 0,
+      "title": "Sự khác biệt giữa các phần tử span và div",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "2 thẻ có cách sử dụng và tác động giống nhau"
+        },
+        {
+          "id": 2,
+          "_name": "thẻ span là thẻ đặc biệt dùng để hiển thị liểu văn bản đặc biệt ,còn div thì dùng để thể hiện các khối phần tử chính trong trang web"
+        },
+        {
+          "id": 3,
+          "_name": "span là thẻ tạo các khối phần tử trong trang web , còn div tạo các phần tử , vùng lớn trong trang web"
+        },
+        {
+          "id": 4,
+          "_name": "span thường được sử dụng để định dạng , css cho văn bản , hoặc sử lỹ mã js .Còn div thường được sử dụng để tạo các khối hoặc phần tử lớn trên trang web"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group": "HTML",
+      "type": 0,
+      "title": "CSS  có vai trò gì trong HTML?",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "CSS dùng để tạo tính tương tác với trang web"
+        },
+        {
+          "id": 2,
+          "_name": "CSS là thẻ cơ bản trong HTML"
+        },
+        {
+          "id": 3,
+          "_name": "Css dùng để định dạng và trình bày trang web"
+        },
+        {
+          "id": 4,
+          "_name": "CSS dùng để cấu hình các thông tin SEO"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group": "HTML",
+      "type": 0,
+      "title": "Javascrip có vai trò gì trong HTMl",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Là ngôn ngữ lập trình dùng để tạo tính tương tác và động trong trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Là ngôn ngữ siêu văn bản để tạo tính tương tác và động trong trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Là ngôn ngữ dùng để tạo nên phong cách cho trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Là ngôn ngữ lập trình để tạo nên phong cách cho trang web"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các thẻ được dùng để tạo bảng trong HTML",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "<table>,<tr>,<td>/<th>,</tr>,</table>"
+        },
+        {
+          "id": 2,
+          "_name": "<table>,<td>,<tr>/<th>,</td>,</table>"
+        },
+        {
+          "id": 3,
+          "_name": "<table>,<th>,<td>/<tr>,</th>,</table>"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group": "HTML",
+      "type": 1,
+      "title": "Để tạo một trang web có khả năng hoạt động offline sử dụng HTML5 có thể sử dụng tính năng nào",
+      "answer": [
+        {
+          "_name": "Application Cache",
+          "id": 1
+        },
+        {
+          "id": 2,
+          "_name": "Local Storage"
+        },
+        {
+          "id": 3,
+          "_name": "Session Storage"
+        },
+        {
+          "_name": "Cookie",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các thẻ được dùng thế nào để tạo một trang web sử dụng multiple languages và mã hóa ký tự?",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "lang, meta"
+        },
+        {
+          "id": 2,
+          "_name": "meta span"
+        },
+        {
+          "id": 3,
+          "_name": "span p"
+        },
+        {
+          "id": 4,
+          "_name": "lang span"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "group": "HTML",
+      "type": 0,
+      "title": "DOM viết tắt của gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Document Object Module"
+        },
+        {
+          "id": 2,
+          "_name": "Document Object Model"
+        },
+        {
+          "id": 3,
+          "_name": "Display Object Module"
+        },
+        {
+          "id": 4,
+          "_name": "Display Object Model"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "group": "HTML",
+      "type": 0,
+      "title": "Mục tiêu chính của DOM là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Cung cấp một cách tiện lợi để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Document Object Model"
+        },
+        {
+          "id": 3,
+          "_name": "Display Object Module"
+        },
+        {
+          "id": 4,
+          "_name": "Display Object Model"
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "id": 0,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "answer": [
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "answer": [
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "answer": [
+        {
+          "id": 2
+        }
+      ]
+    }
+  ]
+}

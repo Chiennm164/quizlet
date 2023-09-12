@@ -1,8 +1,9 @@
 import {Component} from "@angular/core";
-
+import {BaseComponent} from "../shared/components/base.component";
 interface Menu {
   id: Number,
   name: string,
+  routerLink: string,
   active: boolean
 }
 
@@ -11,42 +12,50 @@ interface Menu {
   templateUrl: "features.component.html",
   styleUrls: ["features.component.scss"]
 })
-export class FeaturesComponent {
+export class FeaturesComponent extends BaseComponent{
 
-  avatar: string = "https://firebasestorage.googleapis.com/v0/b/my-data-game.appspot.com/o/IMG20191128161057.jpg?alt=media&token=72020974-f083-4c1b-bf41-d82f6afefa31"
-  logo: string = "https://firebasestorage.googleapis.com/v0/b/my-data-game.appspot.com/o/logo_q.png?alt=media&token=4e7a7207-a96c-427b-acb9-2d48eddb1706"
+  avatar: string = "https://firebasestorage.googleapis.com/v0/b/my-data-game.appspot.com/o/78322333_2359335727648960_620076828094103552_n.jpg?alt=media&token=59437669-7de9-4e29-b000-43f103c4538d"
+  logo: string = "https://firebasestorage.googleapis.com/v0/b/my-data-game.appspot.com/o/pngwing.com.png?alt=media&token=cbc2482b-9fbb-4162-8d41-438730fbcfb6"
 
   listMenu: Menu[] = [
     {
       id: 1,
       name: "HTML",
+      routerLink: "q-html",
       active: false,
     },
     {
       id: 2,
-      name: "CSS",
+      name: "CSS", routerLink: "q-css",
+
       active: false,
     },
     {
       id: 3,
-      name: "VanillaJS",
+      name: "VanillaJS", routerLink: "q-vanilla",
+
       active: false,
     },
     {
       id: 4,
-      name: "ReactJS",
+      name: "ReactJS", routerLink: "q-react",
+
       active: false,
     },
     {
       id: 4,
-      name: "VueJS",
+      name: "VueJS", routerLink: "q-vue",
+
       active: false,
     },
     {
       id: 5,
-      name: "Angular2",
+      name: "Angular2", routerLink: "q-angular",
       active: false,
     }
   ]
 
+  switchPage(link : string) {
+    this.router.navigate([`dashboard/${link}`]).then();
+  }
 }

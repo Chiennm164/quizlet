@@ -1,1 +1,29 @@
-<p>question works!</p>
+<div class="wrap-q">
+  <h3>Câu hỏi số {{data.stt! < 10 ? "0" + data.stt : data.stt}} : {{ data.title}} ?</h3>
+  <br>
+  <ul *ngIf="_data.length" class="q-list">
+    <li class="q-item d-flex align-items-center pb-3 px-4" *ngFor="let i of _data">
+      <input *ngIf="data.type! ===0"
+             [disabled]="isEndTest"
+             type="radio"
+             name="gr-radio"
+             class="p-2 item"
+             [checked]="i.checked"
+             (click)="handlerSelectedAnswerOnly(i.data)"
+      >
+      <input
+        *ngIf="data.type"
+        [disabled]="isEndTest"
+        type="checkbox"
+        class="p-2 item"
+        [(ngModel)]="i.checked"
+        (change)="handlerSelectedAnswerMany()"
+      >
+      <label class="m-0 px-3">{{i.data._name}}</label>
+    </li>
+  </ul>
+
+</div>
+
+
+

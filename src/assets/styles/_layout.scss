@@ -1,0 +1,84 @@
+@import "variable";
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+  font-size: $body;
+}
+body {
+  font-family: 'SF Pro Text', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif,
+  'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  font-size: $body;
+  color: $primary-alternative-dark;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  margin: 0;
+  min-height: 100%;
+  background-color: $white;
+}
+ul, ol {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1.5rem 0 1rem 0;
+  font-family: inherit;
+  font-weight: 600;
+  line-height: 1.2;
+  color: inherit;
+}
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+hr {
+  border-top: solid rgba(145, 153, 169, 0.3);
+  border-width: 1px 0 0 0;
+  margin: 1rem 0;
+}
+p {
+  margin: 0 0 1rem 0;
+  line-height: 1.5;
+}
+

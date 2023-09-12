@@ -1,19 +1,20 @@
 <div id="header">
-  <div class="container d-flex align-items-center justify-content-between">
+  <div class="container d-flex align-items-center justify-content-between ">
     <div class="logo">
-      <img [ngSrc]="logo"  width="60" height="60" alt="logo">
+      <img [ngSrc]="logo" width="60" height="60" alt="logo">
     </div>
     <ul class="nav">
-      <li *ngFor="let menu of listMenu">{{menu.name}}</li>
-
+      <li *ngFor="let menu of listMenu" (click)="switchPage(menu.routerLink)">{{menu.name}}</li>
     </ul>
     <div class="avatar">
-      <img [ngSrc]="avatar"  width="45" height="45" alt="avatar">
+      <img [ngSrc]="avatar" width="45" height="45" alt="avatar">
     </div>
   </div>
 </div>
-<router-outlet></router-outlet>
 
+<div id="content" class="position-relative">
+  <router-outlet></router-outlet>
+</div>
 <div id="footer">
   <div class="container">
   </div>

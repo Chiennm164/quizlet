@@ -1,9 +1,11 @@
 //color
-$height-header : 60px;
+$height-header : 80px;
 
 $white : #fff;
 $gray-f8 : #f8f8f8;
 $gray-c : #ccc;
+$primary-alternative-dark: #083761 !default;
+
 
 $header-bg: #ffc0a8;
 //height
@@ -14,4 +16,5 @@ $height-header: 60px;
 
 $box-shadow-header : 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 
-// border
+/* Text-size styles */
+$body: 16px !default;
