@@ -5,6 +5,10 @@ export interface Answer {
   _name: string
 }
 
+export interface answerSelected {
+  id: number
+}
+
 export interface Question {
   id?: number,
   stt?: number,
@@ -12,5 +16,6 @@ export interface Question {
   group?: string,
   type?: TYPE_ANSWER,
   title?: string,
-  answer?: Answer[]
+  answer?: Answer[],
+  answerSelected?: answerSelected[]
 }

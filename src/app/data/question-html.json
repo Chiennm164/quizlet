@@ -27,8 +27,8 @@
     {
       "id": 1,
       "group": "HTML",
-      "type": 1,
-      "title": "Các ưu điểm của HTMl",
+      "type": 0,
+      "title": "Câu nào dưới đây không phải là câu thể hiện ưu điểm của HTMl",
       "answer": [
         {
           "_name": "Kho tài nguyễn khổng lồ với cộng đồng người dùng rộng lớn",
@@ -59,12 +59,11 @@
           "id": 7
         }
       ]
-    },
-    {
+    }, {
       "id": 2,
       "group": "HTML",
       "type": 0,
-      "title": "Các nhược điểm của HTML",
+      "title": "Câu nào dưới đây không đúng khi nói về các nhược điểm của HTML",
       "answer": [
         {
           "id": 1,
@@ -87,11 +86,121 @@
           "_name": "Chỉ có thể sử dụng ngôn ngữ javascript để xây dựng các tính năng"
         }
       ]
+    }
+  ],
+  "answer": [
+    {
+      "id": 0,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "answer": [
+        {
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "answer": [
+        {
+          "id": 5
+        }
+      ]
     },
     {
       "id": 3,
+      "answer": [
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "answer": [
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "answer": [
+        {
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "question2 ": [
+    {
+      "id": 3,
       "group": "HTML",
-      "type": 0,
+      "type": 1,
       "title": "Các loại HTMl phổ biến hiện tại ",
       "answer": [
         {
@@ -127,8 +236,8 @@
     {
       "id": 4,
       "group": "HTML",
-      "type": 0,
-      "title": "Ưu điểm XHTML so với HTML",
+      "type": 1,
+      "title": "Các ưu điểm XHTML so với HTML",
       "answer": [
         {
           "id": 1,
@@ -141,18 +250,14 @@
         {
           "id": 3,
           "_name": "Cộng đồng sử dụng lớn ,dễ học ,tìm hiểu và phát triển"
-        },
-        {
-          "id": 4,
-          "_name": "Được các ông lớn trong ngày chống lưng"
         }
       ]
     },
     {
       "id": 5,
       "group": "HTML",
-      "type": 0,
-      "title": "Các ưu điểm của HTML5 so với HTML4",
+      "type": 1,
+      "title": "Câu nào dưới đây là sai khi nói về các ưu điểm của HTML5 so với HTML4",
       "answer": [
         {
           "id": 1,
@@ -203,16 +308,16 @@
     {
       "id": 6,
       "group": "HTML",
-      "type": 0,
+      "type": 1,
       "title": "Thẻ Meta được dùng để làm gì trong hmtl?",
       "answer": [
         {
           "id": 1,
-          "_name": "Thẻ Meta trong html được  sử dụng để báo cho trình duyệt về mô tả trang, tác giả, tập ký tự, các từ khóa và nhiều thứ khác."
+          "_name": "Thẻ <meta> trong html được  sử dụng để báo cho trình duyệt về mô tả trang, tác giả, tập ký tự, các từ khóa và nhiều thứ khác."
         },
         {
           "id": 2,
-          "_name": "Thẻ Meta được sử dụng cho việc tối ưu hóa công cụ tìm kiếm để nói cho công cụ tìm kiếm về nội dung trang."
+          "_name": "Thẻ <meta> được sử dụng cho việc tối ưu hóa công cụ tìm kiếm để nói cho công cụ tìm kiếm về nội dung trang."
         },
         {
           "id": 3,
@@ -220,7 +325,7 @@
         },
         {
           "id": 4,
-          "_name": " Thẻ <meta> dùng để cho trang web xuất hiện trên các công cụ tìm kiếm"
+          "_name": "Thẻ <meta> dùng để cho trang web xuất hiện trên các công cụ tìm kiếm"
         }
       ]
     },
@@ -260,14 +365,14 @@
         },
         {
           "id": 2,
-          "_name": "Cung cấp hình ảnh dự phong trong trường hợp người dùng không xem được ảnh"
+          "_name": "Cung cấp hình ảnh dự phòng trong trường hợp người dùng không xem được ảnh"
         },
         {
           "id": 3,
           "_name": "Cung cấp thông tin phụ về ảnh khi nguời dùng xem ảnh"
         },
         {
-          "_name": "Cung cấp hiệu ứng khi người dùng xem ảnh",
+          "_name": "Cung cấp hiệu ứng khi người dùng không xem được ảnh",
           "id": 4
         }
       ]
@@ -276,7 +381,7 @@
       "id": 9,
       "group": "HTML",
       "type": 0,
-      "title": "cách để định nghĩa 1 color trong html",
+      "title": "Tìm câu sai khi nói về cách để định nghĩa 1 color trong html",
       "answer": [
         {
           "id": 1,
@@ -300,7 +405,7 @@
       "id": 10,
       "group": "HTML",
       "type": 0,
-      "title": "Các thẻ thể hiện danh sách ",
+      "title": "Các thẻ thể hiện danh sách trong HTMl ",
       "answer": [
         {
           "id": 1,
@@ -308,7 +413,7 @@
         },
         {
           "id": 2,
-          "_name": "ul,ol,dl,dt,dd"
+          "_name": "ul,ol,dl"
         },
         {
           "id": 3,
@@ -492,77 +597,571 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Cung cấp một cách tiện lợi để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
         },
         {
           "id": 2,
-          "_name": "Document Object Model"
+          "_name": "Tạo tính tương tác trong 1 trang web"
         },
         {
           "id": 3,
-          "_name": "Display Object Module"
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
         },
         {
           "id": 4,
-          "_name": "Display Object Model"
-        }
-      ]
-    }
-  ],
-  "answer": [
-    {
-      "id": 0,
-      "answer": [
-        {
-          "id": 4
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
     {
-      "id": 1,
+      "id": 19,
+      "group": "HTML",
+      "type": 0,
+      "title": "Cookies trong html có tác dụng gì",
       "answer": [
         {
-          "id": 4
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 20,
+      "group": "HTML",
+      "type": 0,
+      "title": "Session storage trong HTML5 có tác dụng gì",
       "answer": [
         {
-          "id": 4
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
     {
-      "id": 3,
+      "id": 21,
+      "group": "HTML",
+      "type": 0,
+      "title": "LocalStorage trong HTML có tác dụng gì",
       "answer": [
         {
-          "id": 1
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
     {
-      "id": 4,
+      "id": 22,
+      "group": "HTML",
+      "type": 0,
+      "title": "Định nghĩa về HTML Templates",
       "answer": [
         {
-          "id": 3
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
     {
-      "id": 5,
+      "id": 23,
+      "group": "HTML",
+      "type": 0,
+      "title": "HTML Drag and Drop API là gì",
       "answer": [
         {
-          "id": 3
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
     {
-      "id": 6,
+      "id": 24,
+      "group": "HTML",
+      "type": 0,
+      "title": "Cách hoạt động của Content Security Policy (CSP) trong HTML",
       "answer": [
         {
-          "id": 2
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "group": "HTML",
+      "type": 0,
+      "title": "lý do tại sao  Content Security Policy (CSP) trong HTML quan trọng.",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+        },
+        {
+          "id": 2,
+          "_name": "Tạo tính tương tác trong 1 trang web"
+        },
+        {
+          "id": 3,
+          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+        },
+        {
+          "id": 4,
+          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "group": "HTML",
+      "type": 0,
+      "title": " khái niệm Cross-Origin Resource Sharing (CORS) trong HTML ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "group": "HTML",
+      "type": 0,
+      "title": "Làm thế nào để xử lý vấn đề CORS.",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "group": "HTML",
+      "type": 0,
+      "title": "Web Workers là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "group": "HTML",
+      "type": 0,
+      "title": "làm thế nào để sử dụng Web Worker để tăng hiệu suất trong ứng dụng web",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "group": "HTML",
+      "type": 0,
+      "title": "Web sockets trong HTML là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "group": "HTML",
+      "type": 0,
+      "title": "Cách dùng web socket để tạo kết nối thời gian thực giữa máy chủ và máy khách",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các thẻ section , header, footer có tác dụng gì quan trọng ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "group": "HTML",
+      "type": 0,
+      "title": "Cross-Site Scripting (XSS) là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "group": "HTML",
+      "type": 0,
+      "title": "Cách tránh bị Cross-Site Scripting (XSS) ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "group": "HTML",
+      "type": 0,
+      "title": "Progressive Web Apps (PWA)  là gì ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "group": "HTML",
+      "type": 0,
+      "title": "Phân biệt giữa HTTP và HTTPS",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "group": "HTML",
+      "type": 0,
+      "title": "Sự khác nhau giữa id và css trong phần tử ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "group": "HTML",
+      "type": 0,
+      "title": "Các cách nhúng CSS trong trang web",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "group": "HTML",
+      "type": 0,
+      "title": "HTML Forms là gì ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "group": "HTML",
+      "type": 0,
+      "title": "Thẻ <form> trong HTML có tác dụng gì  ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "group": "HTML",
+      "type": 0,
+      "title": "Thẻ <form> trong HTML có tác dụng gì  ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
         }
       ]
     }

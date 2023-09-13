@@ -12,8 +12,11 @@ export enum GROUP_ANSWER {
   VanillaJs = "VANILLAJS"
 }
 
-export enum TYPE_RESULT{
+export enum TYPE_BUTTON{
   Empty ="empty",
+  Selected = "selected",
+  CurrentSelect ="curentselect",
   True = "true",
-  False ="false"
+  False ="false",
+  Missing = "missing",
 }

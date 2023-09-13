@@ -4,13 +4,14 @@
       class="btn pointer-event px-3 py-2 m-2 item-btn"
       *ngFor="let ls  of listQuestion"
       [ngClass]="checkResult(ls.ds!)"
+      [class.btn-current-select] = "ls.id === _data.id"
       (click)="navigateQuestion(ls.stt!)"
     >
       {{ls.stt! < 10 ? "0" + ls.stt : ls.stt}}
     </button>
   </div>
-  <mcn-question [data]="_data" (answerSelectedOnly)="dataSendOnly($event)"
-                (answerSelectedMany)="dataSendMany($event)" [isEndTest]=isEndTest></mcn-question>
+  <mcn-question [data]="_data"  (answerSelectedOnly)="dataSend($event)"
+                (answerSelectedMany)="dataSend($event)"  ></mcn-question>
   <div class="d-flex w-100 justify-content-between bottom-0">
     <button [disabled]="_data.stt ===1" type="button" class="btn btn-primary" (click)="handlerBtnPrevious(_data.stt!)">
       Previous

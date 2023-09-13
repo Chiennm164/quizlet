@@ -3,13 +3,13 @@
   <br>
   <ul *ngIf="_data.length" class="q-list">
     <li class="q-item d-flex align-items-center pb-3 px-4" *ngFor="let i of _data">
-      <input *ngIf="data.type! ===0"
+      <input *ngIf="data.type! === 0"
              [disabled]="isEndTest"
              type="radio"
              name="gr-radio"
              class="p-2 item"
              [checked]="i.checked"
-             (click)="handlerSelectedAnswerOnly(i.data)"
+             (click)="handlerSelectedAnswerOnly(i.data.id)"
       >
       <input
         *ngIf="data.type"

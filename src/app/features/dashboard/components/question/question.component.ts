@@ -14,7 +14,7 @@ interface DataChecked {
 export class QuestionComponent implements OnInit, OnChanges {
 
   @Input() data: Question = {}
-  @Input() isEndTest: boolean = true;
+  @Input() isEndTest: boolean = false;
   @Output() answerSelectedOnly = new EventEmitter<any>()
   @Output() answerSelectedMany = new EventEmitter<any>()
 
@@ -27,50 +27,36 @@ export class QuestionComponent implements OnInit, OnChanges {
   }
 
   ngOnChanges(changes: SimpleChanges) {
+
     this._data = [...this.data.answer!.map((e: Answer) => {
-      return {data: e, checked: false}
+      let isChecked = false
+      this.data.answerSelected?.forEach((for2: any) => {
+        if (for2.id === e.id) {
+          isChecked = true
+        }
+      })
+      return {data: e, checked: isChecked}
     })]
-    this.checkLocalStorage()
   }
 
-  handlerSelectedAnswerOnly(data: any) {
+  handlerSelectedAnswerOnly(ans: any) {
     this.answerSelectedOnly.emit({
       id: this.data.id,
-      answer: [data]
+      answer: [{id: ans}]
     })
   }
 
   handlerSelectedAnswerMany() {
     const dataSend = this._data.filter((res: DataChecked) => res.checked)
-    if (dataSend.length > 0) {
-      this.answerSelectedMany.emit({
-        id: this.data.id,
-        answer: [...dataSend.map((e: DataChecked) => {
-          return {
-            id: e.data.id,
-            _name: e.data._name
-          }
-        })]
-      })
-    }
+    this.answerSelectedMany.emit({
+      id: this.data.id,
+      answer: [...dataSend.map((e: DataChecked) => {
+        return {
+          id: e.data.id,
+        }
+      })]
+    })
+
   }
 
-  checkLocalStorage() {
-    const _allListAnswer = JSON.parse(localStorage.getItem("allListAnswer")!)
-    if (_allListAnswer) {
-      const check = _allListAnswer.find((e: any) => {
-        return e.id === this.data.id
-      })
-      if (check) {
-        check.answer.forEach((ch: any) => {
-          const selected = this._data.find((sel) => {
-            return ch.id === sel.data.id
-          })
-          if (selected) {
-            selected.checked = true
-          }
-        })
-      }
-    }
-  }
 }
