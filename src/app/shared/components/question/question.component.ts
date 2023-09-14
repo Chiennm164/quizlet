@@ -1,5 +1,5 @@
 import {Component, OnInit, Input, OnChanges, SimpleChanges, Output, EventEmitter} from '@angular/core';
-import {Answer, Question} from "../../../../core/models/question";
+import {Answer, AnswerSelected, Question} from "../../../core/models/question";
 
 interface DataChecked {
   checked: boolean,
@@ -28,9 +28,9 @@ export class QuestionComponent implements OnInit, OnChanges {
 
   ngOnChanges(changes: SimpleChanges) {
 
-    this._data = [...this.data.answer!.map((e: Answer) => {
+    this._data = [...this.data.answer!.map((e: Answer): DataChecked => {
       let isChecked = false
-      this.data.answerSelected?.forEach((for2: any) => {
+      this.data.answerSelected?.forEach((for2: AnswerSelected): void => {
         if (for2.id === e.id) {
           isChecked = true
         }
@@ -39,14 +39,14 @@ export class QuestionComponent implements OnInit, OnChanges {
     })]
   }
 
-  handlerSelectedAnswerOnly(ans: any) {
+  handlerSelectedAnswerOnly(ans: number): void {
     this.answerSelectedOnly.emit({
       id: this.data.id,
       answer: [{id: ans}]
     })
   }
 
-  handlerSelectedAnswerMany() {
+  handlerSelectedAnswerMany(): void {
     const dataSend = this._data.filter((res: DataChecked) => res.checked)
     this.answerSelectedMany.emit({
       id: this.data.id,
@@ -56,7 +56,5 @@ export class QuestionComponent implements OnInit, OnChanges {
         }
       })]
     })
-
   }
-
 }

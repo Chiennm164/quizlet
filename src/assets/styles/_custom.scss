@@ -28,6 +28,19 @@
 
 }
 
+
+
+.btn-selected {
+  border-color: #EF681C !important;
+  background-color: #EF681C !important;
+
+}
+
+.btn-current-select {
+  border-color: #0048ff !important;
+  background-color: #0048ff !important;
+  color: #fff !important;
+}
 .btn-answer-true {
   background-color: green !important;
   border-color: green !important;
@@ -43,16 +56,3 @@
   border-color: #ffc107 !important;
 }
 
-
-
-.btn-selected {
-  border-color: #EF681C !important;
-  background-color: #EF681C !important;
-
-}
-
-.btn-current-select {
-  border-color: #0048ff !important;
-  background-color: #0048ff !important;
-  color: #fff !important;
-}

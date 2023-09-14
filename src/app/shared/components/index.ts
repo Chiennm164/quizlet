@@ -1,2 +1,4 @@
 import {BaseComponent} from "./base.component";
-export const  components =[BaseComponent]
+import {QuestionComponent} from "./question/question.component";
+
+export const components = [BaseComponent, QuestionComponent]

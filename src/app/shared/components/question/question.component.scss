@@ -9,9 +9,11 @@ input[type="checkbox"] {
     color: red;
   }
 }
+
 input[type="radio"] {
   accent-color: red;
   &:checked + label {
     color: red;
   }
 }
+

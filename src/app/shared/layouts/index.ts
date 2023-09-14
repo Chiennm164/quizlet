@@ -1,2 +1,4 @@
 import {NotFoundComponent} from "./not-found/not-found.component";
-export const layouts = [NotFoundComponent]
+import {LayoutQuestionComponent} from "./layout-question/layout-question.component";
+
+export const layouts = [NotFoundComponent, LayoutQuestionComponent]

@@ -3,14 +3,14 @@ import {CommonModule} from '@angular/common';
 import {pages} from "./pages";
 import {components} from "./components";
 import {DashboardRoutingModule} from './dashboard-routing.module';
-import {FormsModule} from "@angular/forms";
+import {SharedModule} from "../../shared/shared.module";
 
 @NgModule({
   declarations: [
     ...pages, ...components],
-    imports: [
-        CommonModule, DashboardRoutingModule, FormsModule
-    ]
+  imports: [
+    CommonModule, DashboardRoutingModule, SharedModule
+  ]
 })
 export class DashboardModule {
 }

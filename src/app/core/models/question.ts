@@ -5,7 +5,7 @@ export interface Answer {
   _name: string
 }
 
-export interface answerSelected {
+export interface AnswerSelected {
   id: number
 }
 
@@ -17,5 +17,5 @@ export interface Question {
   type?: TYPE_ANSWER,
   title?: string,
   answer?: Answer[],
-  answerSelected?: answerSelected[]
+  answerSelected?: AnswerSelected[]
 }

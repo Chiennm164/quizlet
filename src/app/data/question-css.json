@@ -1,0 +1,813 @@
+{
+  "question": [
+    {
+      "id": 0,
+      "group": "CSS",
+      "type": 0,
+      "title": "CSS là viết tắt của cụm từ gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Cascading Style Sheets"
+        },
+        {
+          "id": 2,
+          "_name": "Creative Style Sheets"
+        },
+        {
+          "id": 3,
+          "_name": "Computer Style Sheets"
+        },
+        {
+          "id": 4,
+          "_name": "Colorful Style Sheets"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "group": "CSS",
+      "type": 0,
+      "title": "HTML chính xác để tham chiếu tới file css bên ngoài là",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">"
+        },
+        {
+          "id": 2,
+          "_name": "<style src=\"mystyle.css\">"
+        },
+        {
+          "id": 3,
+          "_name": " <stylesheet>mystyle.css</stylesheet>"
+        },
+        {
+          "id": 4,
+          "_name": "<style href=\"mystyle.css\""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "CSS",
+      "type": 0,
+      "title": "Vị trí nào chính xác để tham chiếu đến file css bbeen ngoài",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "In the <head> section"
+        },
+        {
+          "id": 2,
+          "_name": "At the end of the document"
+        },
+        {
+          "id": 3,
+          "_name": "In the <body> section"
+        },
+        {
+          "id": 4,
+          "_name": "In the <footer> tag"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "CSS",
+      "type": 0,
+      "title": "Muốn css trong file Html thì cần thẻ nào",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "style"
+        },
+        {
+          "id": 2,
+          "_name": "script"
+        },
+        {
+          "id": 3,
+          "_name": "p"
+        },
+        {
+          "id": 4,
+          "_name": "a"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "CSS",
+      "type": 0,
+      "title": "Thuộc tính nào dưới đây dùng để xác định dùng css kiểu nội tuyến",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "style"
+        },
+        {
+          "id": 2,
+          "_name": "styles"
+        },
+        {
+          "id": 3,
+          "_name": "class"
+        },
+        {
+          "id": 4,
+          "_name": "font"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "CSS",
+      "type": 0,
+      "title": "Tìm cú pháp đúng của css dưới đây",
+      "answer": [
+        {
+          "id": 1,
+          "_name": " body {color: black;}"
+        },
+        {
+          "id": 2,
+          "_name": " body:color=black;"
+        },
+        {
+          "id": 3,
+          "_name": " {body;color:black;}"
+        },
+        {
+          "id": 4,
+          "_name": " {body:color=black;}"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "CSS",
+      "type": 0,
+      "title": "Cú pháp đúng khi comment trong file css",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "// ghi chú"
+        },
+        {
+          "id": 2,
+          "_name": "<*  ghi chú*>"
+        },
+        {
+          "id": 3,
+          "_name": "/*  ghi chú */"
+        },
+        {
+          "id": 4,
+          "_name": "//  ghi chú //"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "CSS",
+      "type": 0,
+      "title": "CSS có tác dụng gì trong phát triển web",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "CSS đóng vai trò quan trọng trong việc định dạng và trình bày giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+        },
+        {
+          "id": 2,
+          "_name": "CSS đóng vai trò quan trọng trong việc cấu trúc ,phân tích giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+        },
+        {
+          "id": 3,
+          "_name": "CSS đóng vai trò quan trọng trong việc phân tích và định dạng giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+        },
+        {
+          "id": 4,
+          "_name": "CSS đóng vai trò quan trọng trong việc cấu tạo và chỉnh sửa giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "CSS",
+      "type": 0,
+      "title": "CSS Selector là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một phần quan trọng trong CSS, cho phép bạn xác định các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+        },
+        {
+          "id": 2,
+          "_name": "là một phần quan trọng trong CSS, cho phép bạn tuỳ chỉnh các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+        },
+        {
+          "id": 3,
+          "_name": "là một phần quan trọng trong CSS, cho phép bạn cấu trúc các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+        },
+        {
+          "id": 4,
+          "_name": "là một phần quan trọng trong CSS, cho phép bạn thêm mới các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "CSS",
+      "type": 1,
+      "title": "Một số selector phổ biến",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Dựa trên tên thẻ"
+        },
+        {
+          "id": 2,
+          "_name": "Dựa trên class"
+        },
+        {
+          "id": 3,
+          "_name": "Dựa trên ID"
+        },
+        {
+          "id": 4,
+          "_name": "Kết hợp nhiều selector"
+        },
+        {
+          "id": 5,
+          "_name": "Dựa trên thuộc tính"
+        },
+        {
+          "id": 6,
+          "_name": "Pseudo-classes và pseudo-elements"
+        },
+        {
+          "id": 7,
+          "_name": "Selector kết hợp"
+        },
+        {
+          "id": 8,
+          "_name": "Selector root"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "CSS",
+      "type": 0,
+      "title": "Sự khác nhau của ID và class trong CSS",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Classd được bắt đầu bằng dấu chấm (.), nó có thể gán cho nhiều phần tử HTML khác nhau , nhiều phần tử có thể chứa nhiều class , ID được bắt đầu bằng #. mỗi ID chỉ nên được sử dụng cho một phần tử duy nhất "
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "group": "CSS",
+      "type": 0,
+      "title": "CSS Box Model( Mô hình hộp CSS ) ",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-padding-border-margin "
+        },
+        {
+          "id": 2,
+          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-border-padding "
+        },
+        {
+          "id": 3,
+          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-border-padding-margin "
+        },
+        {
+          "id": 4,
+          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-padding-border "
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "group": "CSS",
+      "type": 0,
+      "title": "",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    }
+  ],
+  "answer" : []
+}
