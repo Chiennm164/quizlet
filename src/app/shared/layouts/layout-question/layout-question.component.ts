@@ -71,7 +71,7 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
   }
 
   checkAnswer(): void {
-    this.pageHtmlServices.checkanwser(this.group).subscribe({
+    this.pageHtmlServices.getListAnwser(this.group).subscribe({
       next: result => {
         result.forEach((for1: any) => {
           this.listQuestion.forEach((for2: Question) => {

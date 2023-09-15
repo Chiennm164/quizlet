@@ -2,9 +2,9 @@
   "question": [
     {
       "id": 0,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS là viết tắt của cụm từ gì",
+      "title": "JavaScript là viết tắt của cụm từ gì",
       "answer": [
         {
           "id": 1,
@@ -26,33 +26,33 @@
     },
     {
       "id": 1,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "HTML chính xác để tham chiếu tới file css bên ngoài là",
+      "title": "HTML chính xác để tham chiếu tới file JavaScript bên ngoài là",
       "answer": [
         {
           "id": 1,
-          "_name": "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">"
+          "_name": "<link rel=\"stylesheet\" type=\"text/JavaScript\" href=\"mystyle.JavaScript\">"
         },
         {
           "id": 2,
-          "_name": "<style src=\"mystyle.css\">"
+          "_name": "<style src=\"mystyle.JavaScript\">"
         },
         {
           "id": 3,
-          "_name": " <stylesheet>mystyle.css</stylesheet>"
+          "_name": " <stylesheet>mystyle.JavaScript</stylesheet>"
         },
         {
           "id": 4,
-          "_name": "<style href=\"mystyle.css\""
+          "_name": "<style href=\"mystyle.JavaScript\""
         }
       ]
     },
     {
       "id": 2,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Vị trí nào chính xác để tham chiếu đến file css bbeen ngoài",
+      "title": "Vị trí nào chính xác để tham chiếu đến file JavaScript bbeen ngoài",
       "answer": [
         {
           "id": 1,
@@ -74,9 +74,9 @@
     },
     {
       "id": 3,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Muốn css trong file Html thì cần thẻ nào",
+      "title": "Muốn JavaScript trong file Html thì cần thẻ nào",
       "answer": [
         {
           "id": 1,
@@ -98,9 +98,9 @@
     },
     {
       "id": 4,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Thuộc tính nào dưới đây dùng để xác định dùng css kiểu nội tuyến",
+      "title": "Thuộc tính nào dưới đây dùng để xác định dùng JavaScript kiểu nội tuyến",
       "answer": [
         {
           "id": 1,
@@ -122,9 +122,9 @@
     },
     {
       "id": 5,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Tìm cú pháp đúng của css dưới đây",
+      "title": "Tìm cú pháp đúng của JavaScript dưới đây",
       "answer": [
         {
           "id": 1,
@@ -146,9 +146,9 @@
     },
     {
       "id": 6,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Cú pháp đúng khi comment trong file css",
+      "title": "Cú pháp đúng khi comment trong file JavaScript",
       "answer": [
         {
           "id": 1,
@@ -170,55 +170,55 @@
     },
     {
       "id": 7,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS có tác dụng gì trong phát triển web",
+      "title": "JavaScript có tác dụng gì trong phát triển web",
       "answer": [
         {
           "id": 1,
-          "_name": "CSS đóng vai trò quan trọng trong việc định dạng và trình bày giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "JavaScript đóng vai trò quan trọng trong việc định dạng và trình bày giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
         },
         {
           "id": 2,
-          "_name": "CSS đóng vai trò quan trọng trong việc cấu trúc ,phân tích giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "JavaScript đóng vai trò quan trọng trong việc cấu trúc ,phân tích giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
         },
         {
           "id": 3,
-          "_name": "CSS đóng vai trò quan trọng trong việc phân tích và định dạng giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "JavaScript đóng vai trò quan trọng trong việc phân tích và định dạng giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
         },
         {
           "id": 4,
-          "_name": "CSS đóng vai trò quan trọng trong việc cấu tạo và chỉnh sửa giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "JavaScript đóng vai trò quan trọng trong việc cấu tạo và chỉnh sửa giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
         }
       ]
     },
     {
       "id": 8,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS Selector là gì",
+      "title": "JavaScript Selector là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn xác định các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn xác định các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         },
         {
           "id": 2,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn tuỳ chỉnh các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn tuỳ chỉnh các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         },
         {
           "id": 3,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn cấu trúc các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn cấu trúc các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         },
         {
           "id": 4,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn thêm mới các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn thêm mới các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         }
       ]
     },
     {
       "id": 9,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 1,
       "title": "Một số selector phổ biến",
       "answer": [
@@ -258,9 +258,9 @@
     },
     {
       "id": 10,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Sự khác nhau của ID và class trong CSS",
+      "title": "Sự khác nhau của ID và class trong JavaScript",
       "answer": [
         {
           "id": 1,
@@ -282,33 +282,33 @@
     },
     {
       "id": 11,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS Box Model( Mô hình hộp CSS ) ",
+      "title": "JavaScript Box Model( Mô hình hộp JavaScript ) ",
       "answer": [
         {
           "id": 1,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-padding-border-margin "
+          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-padding-border-margin "
         },
         {
           "id": 2,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-border-padding "
+          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-border-padding "
         },
         {
           "id": 3,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-border-padding-margin "
+          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-border-padding-margin "
         },
         {
           "id": 4,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-padding-border "
+          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-padding-border "
         }
       ]
     },
     {
       "id": 12,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Mức độ ưu tiên khi xảy ra xung đột trong CSS",
+      "title": "Mức độ ưu tiên khi xảy ra xung đột trong JavaScript",
       "answer": [
         {
           "id": 1,
@@ -330,7 +330,7 @@
     },
     {
       "id": 13,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "Pesudo-class là gì",
       "answer": [
@@ -354,7 +354,7 @@
     },
     {
       "id": 14,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "pseudo-element là gì",
       "answer": [
@@ -378,7 +378,7 @@
     },
     {
       "id": 15,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "Sự khác nhau giữa display:none  và hiden",
       "answer": [
@@ -402,7 +402,7 @@
     },
     {
       "id": 16,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "Reponsive là gì",
       "answer": [
@@ -426,9 +426,9 @@
     },
     {
       "id": 17,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Vì sao được khuyến khích đặt file CSS ở đầu thẻ head đầu trang web",
+      "title": "Vì sao được khuyến khích đặt file JavaScript ở đầu thẻ head đầu trang web",
       "answer": [
         {
           "id": 1,
@@ -436,11 +436,11 @@
         },
         {
           "id": 2,
-          "_name": "nội dung trang sẽ được hiển thị trước khi CSS được tải và áp dụng. "
+          "_name": "nội dung trang sẽ được hiển thị trước khi JavaScript được tải và áp dụng. "
         },
         {
           "id": 3,
-          "_name": " cho phép trình duyệt tải CSS và HTML đồng thời. Điều này có thể giúp tăng tốc độ tải trang."
+          "_name": " cho phép trình duyệt tải JavaScript và HTML đồng thời. Điều này có thể giúp tăng tốc độ tải trang."
         },
         {
           "id": 4,
@@ -454,17 +454,17 @@
     },
     {
       "id": 18,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS sprites là gì",
+      "title": "JavaScript sprites là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách gộp nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng CSS để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách gộp nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng JavaScript để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
         },
         {
           "id": 2,
-          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách chồng nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng CSS để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách chồng nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng JavaScript để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
         },
         {
           "id": 3,
@@ -478,39 +478,39 @@
     },
     {
       "id": 19,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS specificity là gì",
+      "title": "JavaScript specificity là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Quy định ưu tiên của các luật CSS khi áp dụng cho cùng một phần tử"
+          "_name": "Quy định ưu tiên của các luật JavaScript khi áp dụng cho cùng một phần tử"
         },
         {
           "id": 2,
-          "_name": "Là khả năng các thuộc tính CSS được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
+          "_name": "Là khả năng các thuộc tính JavaScript được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
         }
       ]
     },
     {
       "id": 20,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS Inheritance là gì",
+      "title": "JavaScript Inheritance là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Là khả năng các thuộc tính CSS được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
+          "_name": "Là khả năng các thuộc tính JavaScript được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
         },
         {
           "id": 2,
-          "_name": "Quy định ưu tiên của các luật CSS khi áp dụng cho cùng một phần tử"
+          "_name": "Quy định ưu tiên của các luật JavaScript khi áp dụng cho cùng một phần tử"
         }
       ]
     },
     {
       "id": 21,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "@media có tác dụng gì",
       "answer": [
@@ -520,7 +520,7 @@
         },
         {
           "id": 2,
-          "_name": "là một công cụ cho việc ghi đè các css khác"
+          "_name": "là một công cụ cho việc ghi đè các JavaScript khác"
         },
         {
           "id": 3,
@@ -528,15 +528,15 @@
         },
         {
           "id": 4,
-          "_name": "là một công cụ cho việc sử dụng css trong HTML"
+          "_name": "là một công cụ cho việc sử dụng JavaScript trong HTML"
         }
       ]
     },
     {
       "id": 22,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "tìm câu sai .Các thuộc tính để giấu phần tử trong css",
+      "title": "tìm câu sai .Các thuộc tính để giấu phần tử trong JavaScript",
       "answer": [
         {
           "id": 1,
@@ -558,9 +558,9 @@
     },
     {
       "id": 23,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "!important trong CSS có ý nghi gì",
+      "title": "!important trong JavaScript có ý nghi gì",
       "answer": [
         {
           "id": 1,
@@ -582,7 +582,7 @@
     },
     {
       "id": 24,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "Margin trong box-model có tác dụng gì",
       "answer": [
@@ -606,7 +606,7 @@
     },
     {
       "id": 25,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
       "title": "Padding trong box-model có tác dụng gì",
       "answer": [
@@ -630,9 +630,9 @@
     },
     {
       "id": 26,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "Position trong css được sử dụng để làm gì",
+      "title": "Position trong JavaScript được sử dụng để làm gì",
       "answer": [
         {
           "id": 1,
@@ -654,25 +654,25 @@
     },
     {
       "id": 27,
-      "group": "CSS",
+      "group": "JavaScript",
       "type": 0,
-      "title": "CSS Transforms dùng để làm gì ",
+      "title": "JavaScript Transforms dùng để làm gì ",
       "answer": [
         {
           "id": 1,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn biến đổi và thay đổi hình dạng, kích thước và vị trí của phần tử HTML "
+          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn biến đổi và thay đổi hình dạng, kích thước và vị trí của phần tử HTML "
         },
         {
           "id": 2,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn thay đổi vị trí của phần tử HTML "
+          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn thay đổi vị trí của phần tử HTML "
         },
         {
           "id": 3,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn xoá vị trí của phần tử HTML"
+          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn xoá vị trí của phần tử HTML"
         },
         {
           "id": 4,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn di chuyển vị trí của phần tử HTML "
+          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn di chuyển vị trí của phần tử HTML "
         }
       ]
     }

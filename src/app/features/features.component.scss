@@ -2,7 +2,6 @@
 
 #header {
   min-height: $height-header;
-  //border-bottom: 1px solid $gray-f8;
   box-shadow: $box-shadow-header;
   background-color: $header-bg;
   padding: 0.5rem 0;
@@ -15,21 +14,4 @@
       font-size: 1.6rem;
     }
   }
-
-  .avatar {
-    width: 45px;
-    height: 45px;
-    border: 1px solid $gray-c;
-    border-radius: 50%;
-
-    img {
-      width: 100%;
-      border: 1px solid $gray-c;
-      border-radius: 50%;
-    }
-  }
-}
-
-#footer {
-
 }

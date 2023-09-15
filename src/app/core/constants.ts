@@ -9,7 +9,9 @@ export enum GROUP_ANSWER {
   VueJs = "VUEJS",
   ReactJs = "REACTJS",
   Angular2 = "ANGULAR2",
-  VanillaJs = "VANILLAJS"
+  VanillaJs = "VANILLAJS",
+  Git = "GIT",
+  Basic = "Basic"
 }
 
 export enum TYPE_BUTTON{

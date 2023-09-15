@@ -1,82 +1,92 @@
 import {Component} from "@angular/core";
 import {BaseComponent} from "../shared/components/base.component";
+import {GROUP_ANSWER} from "../core/constants";
+
 interface Menu {
   id: Number,
   name: string,
-  routerLink: string,
-  active: boolean
+  active: boolean,
+  group: GROUP_ANSWER
 }
 
 @Component({
   selector: "app-main",
   template: `
-      <div id="header">
-          <div class="container d-flex align-items-center justify-content-between ">
-              <div class="logo">
-                  <img [ngSrc]="logo" width="60" height="60" alt="logo">
-              </div>
-              <ul class="nav">
-                  <li *ngFor="let menu of listMenu" (click)="switchPage(menu.routerLink)">{{menu.name}}</li>
-              </ul>
-              <div class="avatar">
-                  <img [ngSrc]="avatar" width="45" height="45" alt="avatar">
-              </div>
-          </div>
+    <div id="header">
+      <div class="container d-flex align-items-center justify-content-between ">
+        <div class="logo">
+          <img [ngSrc]="logo" width="60" height="60" alt="logo">
+        </div>
+        <ul class="nav">
+          <li *ngFor="let menu of listMenu" (click)="switchPage(menu.group)">{{menu.name}}</li>
+        </ul>
       </div>
-      <div id="content" class="position-relative">
-          <router-outlet></router-outlet>
-      </div>
-      <div id="footer">
-          <div class="container">
-          </div>
-      </div>
+    </div>
+    <div id="content" class="position-relative">
+      <app-layout-question [group]="group"></app-layout-question>
+    </div>
   `,
   styleUrls: ["features.component.scss"]
 })
-export class FeaturesComponent extends BaseComponent{
-
-  avatar: string = "https://firebasestorage.googleapis.com/v0/b/my-data-game.appspot.com/o/78322333_2359335727648960_620076828094103552_n.jpg?alt=media&token=59437669-7de9-4e29-b000-43f103c4538d"
+export class FeaturesComponent extends BaseComponent {
+  group: GROUP_ANSWER = GROUP_ANSWER.Html
   logo: string = "https://firebasestorage.googleapis.com/v0/b/my-data-game.appspot.com/o/pngwing.com.png?alt=media&token=cbc2482b-9fbb-4162-8d41-438730fbcfb6"
-
   listMenu: Menu[] = [
     {
       id: 1,
       name: "HTML",
-      routerLink: "q-html",
       active: false,
+      group: GROUP_ANSWER.Html
     },
     {
       id: 2,
-      name: "CSS", routerLink: "q-css",
-
+      name: "CSS",
       active: false,
+      group: GROUP_ANSWER.Css
+
     },
     {
       id: 3,
-      name: "VanillaJS", routerLink: "q-vanilla",
-
+      name: "VanillaJS",
       active: false,
+      group: GROUP_ANSWER.VanillaJs
+
     },
     {
       id: 4,
-      name: "ReactJS", routerLink: "q-react",
-
+      name: "ReactJS",
       active: false,
+      group: GROUP_ANSWER.ReactJs
+
     },
     {
       id: 4,
-      name: "VueJS", routerLink: "q-vue",
-
+      name: "VueJS",
       active: false,
+      group: GROUP_ANSWER.VueJs
+
     },
     {
       id: 5,
-      name: "Angular2", routerLink: "q-angular",
+      name: "Angular2",
       active: false,
+      group: GROUP_ANSWER.Angular2
+    },
+    {
+      id: 6,
+      name: "Git",
+      active: false,
+      group: GROUP_ANSWER.Git
+    },
+    {
+      id: 7,
+      name: "Basic",
+      active: false,
+      group: GROUP_ANSWER.Basic
     }
   ]
 
-  switchPage(link : string) {
-    this.router.navigate([`dashboard/${link}`]).then();
+  switchPage(group: GROUP_ANSWER) {
+    this.group = group
   }
 }

@@ -1,11 +1,11 @@
 import {NgModule} from '@angular/core';
 import {RouterModule, Routes} from '@angular/router';
 import {NotFoundComponent} from "./shared/layouts/not-found/not-found.component";
-
+import {FeaturesComponent} from "./features/features.component";
 const routes: Routes = [
   {
     path: "",
-    loadChildren: () => import("./features/features.module").then(m => m.FeaturesModule)
+    component:FeaturesComponent
   },
   {
     path: "**",
