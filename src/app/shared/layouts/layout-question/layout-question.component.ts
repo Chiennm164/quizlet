@@ -1,6 +1,6 @@
 import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {Question} from "../../../core/models/question";
-import {PageHtmlServices} from "../../../services/page-html.services";
+import {QuestionServices} from "../../../services/question.services";
 import * as _ from "lodash";
 import {GROUP_ANSWER, TYPE_ANSWER, TYPE_BUTTON} from "../../../core/constants";
 
@@ -15,7 +15,7 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
   _data: Question = {}
   listQuestion: Question[] = []
 
-  constructor(public pageHtmlServices: PageHtmlServices) {
+  constructor(public pageHtmlServices: QuestionServices) {
   }
 
   ngOnInit(): void {
@@ -71,7 +71,7 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
   }
 
   checkAnswer(): void {
-    this.pageHtmlServices.getListAnwser(this.group).subscribe({
+    this.pageHtmlServices.getListAnswer(this.group).subscribe({
       next: result => {
         result.forEach((for1: any) => {
           this.listQuestion.forEach((for2: Question) => {

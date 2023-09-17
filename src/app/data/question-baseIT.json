@@ -1,0 +1,670 @@
+{
+  "question": [
+    {
+      "id": 0,
+      "group": "BASE",
+      "type": 0,
+      "title": "Mô hình client -server là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Là một kiến trúc phân tán mà các máy client truy cập hoặc yêu cầu dịch vụ, dữ liệu hoặc tài nguyên từ một máy tính hay thiết bị chuyên dụng gọi là server"
+        },
+        {
+          "id": 2,
+          "_name": "là một kiến trúc trong phát triển web nơi phần lớn quá trình hiển thị trang web xảy ra trên máy chủ trước khi nó được gửi đến client (trình duyệt)"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "group": "BASE",
+      "type": 1,
+      "title": "Mô hình server rendering",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một kiến trúc trong phát triển web nơi phần lớn quá trình hiển thị trang web xảy ra trên máy chủ trước khi nó được gửi đến client (trình duyệt)"
+        },
+        {
+          "id": 2,
+          "_name": "Là một kiến trúc phân tán mà các máy client truy cập hoặc yêu cầu dịch vụ, dữ liệu hoặc tài nguyên từ một máy tính hay thiết bị chuyên dụng gọi là server"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "BASE",
+      "type": 1,
+      "title": "SPA là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một kiểu ứng dụng web mà tất cả hoặc hầu hết các phần của trang web được tải một lần duy nhất trong quá trình tải trang ban đầu. "
+        },
+        {
+          "id": 2,
+          "_name": "trang web tương tác với người dùng bằng cách thay đổi nội dung và dữ liệu mà không cần phải tải lại trang hoàn toàn"
+        },
+        {
+          "id": 3,
+          "_name": "Có thể chay đa nền tảng"
+        },
+        {
+          "id": 4,
+          "_name": "Là một ngôn ngữ lập trình"
+        },
+        {
+          "id": 5,
+          "_name": "SPA hoàn toàn không tải lại trang"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "BASE",
+      "type": 0,
+      "title": "Array là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Là một cấu trúc dữ liệu dùng để lưu trữ một tập hợp các giá trị có cùng kiểu dữ liệu trong một danh sách có thứ tự."
+        },
+        {
+          "id": 2,
+          "_name": "Là một cấu trúc dữ liệu dùng để lưu trữ một tập hợp các giá trị có cùng phương thức trong một danh sách có thứ tự."
+        },
+        {
+          "id": 3,
+          "_name": "Là một cấu trúc dữ liệu dùng để lưu trữ một tập hợp các giá trị có cùng thuộc tính trong một danh sách có thứ tự."
+        },
+        {
+          "id": 4,
+          "_name": "Là một cấu trúc dữ liệu dùng để lưu trữ một tập hợp các giá trị có cùng hình thức trong một danh sách có thứ tự."
+        },
+        {
+          "id": 5,
+          "_name": "là một cấu trúc dữ liệu phức tạp được sử dụng để tổ chức và lưu trữ dữ liệu và các chức năng (phương thức) liên quan lại thành một thực thể duy nhất"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "BASE",
+      "type": 0,
+      "title": "Object là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một cấu trúc dữ liệu phức tạp được sử dụng để tổ chức và lưu trữ dữ liệu và các chức năng (phương thức) liên quan lại thành một thực thể duy nhất"
+        },
+        {
+          "id": 2,
+          "_name": "Là một cấu trúc dữ liệu dùng để lưu trữ một tập hợp các giá trị có cùng kiểu dữ liệu trong một danh sách có thứ tự."
+        },
+        {
+          "id": 3,
+          "_name": "là một cấu trúc dữ liệu phức tạp được sử dụng để tổ chức và lưu trữ dữ liệu và các chức năng (phương thức) liên quan lại thành một thực thể"
+        },
+        {
+          "id": 4,
+          "_name": "là một cấu trúc dữ liệu phức tạp được sử dụng để tổ chức và lưu trữ dữ liệu và các chức năng (phương thức) liên quan lại thành các thực thể "
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "BASE",
+      "type": 0,
+      "title": "Domain là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "2  "
+        },
+        {
+          "id": 2,
+          "_name": "5 "
+        },
+        {
+          "id": 3,
+          "_name": "7 "
+        },
+        {
+          "id": 4,
+          "_name": "10"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "BASE",
+      "type": 0,
+      "title": "MPA là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Toán tử checkType"
+        },
+        {
+          "id": 2,
+          "_name": "Toán tử instanceof"
+        },
+        {
+          "id": 3,
+          "_name": "Object.prototype.toString"
+        },
+        {
+          "id": 4,
+          "_name": "Array.isArray()"
+        },
+        {
+          "id": 5,
+          "_name": "Toán tử typeof"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "BASE",
+      "type": 0,
+      "title": "Components là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo bên trong một hàm"
+        },
+        {
+          "id": 2,
+          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên trên một hàm"
+        },
+        {
+          "id": 3,
+          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên dưới một hàm"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "BASE",
+      "type": 0,
+      "title": "Microservices là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+        },
+        {
+          "id": 2,
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+        },
+        {
+          "id": 3,
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+        },
+        {
+          "id": 4,
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "BASE",
+      "type": 1,
+      "title": "JSON là gì ?",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Là một kiểu định dạng dữ liệu"
+        },
+        {
+          "id": 2,
+          "_name": "Là một phương thức"
+        },
+        {
+          "id": 3,
+          "_name": "Là một đối tượng"
+        },
+        {
+          "id": 4,
+          "_name": "Là một thuộc tính"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "BASE",
+      "type": 0,
+      "title": "JSON.parse() dùng để làm gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Để chuyển từ JSON sang một đối tượng JS"
+        },
+        {
+          "id": 2,
+          "_name": "Để chuyển từ một đối tượng JS sang JSON"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "group": "BASE",
+      "type": 0,
+      "title": "JSON.stringify() dùng để làm gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Để chuyển từ một đối tượng JS sang JSON"
+        },
+        {
+          "id": 2,
+          "_name": "Để chuyển từ JSON sang một đối tượng JS"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group": "BASE",
+      "type": 1,
+      "title": "API (Application Programming Interface) là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Đây là một tập hợp các quy tắc và giao thức được sử dụng để cho phép các ứng dụng hoặc phần mềm khác tương tác và giao tiếp với nhau."
+        },
+        {
+          "id": 2,
+          "_name": "API cho phép các phần mềm khác nhau trao đổi dữ liệu và chức năng mà không cần phải hiểu hoặc biết cách bên trong mỗi ứng dụng hoạt động"
+        },
+        {
+          "id": 3,
+          "_name": " thực hiện các tác vụ cụ thể hoặc truy xuất dữ liệu từ một dịch vụ web, cơ sở dữ liệu, hoặc hệ thống khác mà không cần phải truy cập trực tiếp vào mã nguồn của chúng."
+        },
+        {
+          "id": 4,
+          "_name": " API là một ứng dụng thực hiện các tác vụ cụ thể giúp các ứng dụng hoặc phần mềm khác tương tác và giao tiếp với nhau"
+        },
+        {
+          "id": 5,
+          "_name": "API tự động cung cấp các phương tiện để thực hiện các tác vụ hoặc truy xuất dữ liệu"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group": "BASE",
+      "type": 0,
+      "title": "Design patterns là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "Đúng"
+        },
+        {
+          "id": 2,
+          "_name": "Sai"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group": "BASE",
+      "type": 0,
+      "title": "so sánh break vs continue",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà không chờ đợi một tác vụ khác hoàn thành trước."
+        },
+        {
+          "id": 2,
+          "_name": " một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group": "BASE",
+      "type": 0,
+      "title": "Unitest là gì",
+      "answer": [
+        {
+          "id": 1,
+          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
+        },
+        {
+          "id": 2,
+          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà không chờ đợi một tác vụ khác hoàn thành trước."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group": "BASE",
+      "type": 0,
+      "title": "Các phương thức của HTTP",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group": "BASE",
+      "type": 0,
+      "title": "Các phương thức của HTTP",
+      "answer": [
+        {
+          "id": 1,
+          "_name": ""
+        },
+        {
+          "id": 2,
+          "_name": ""
+        },
+        {
+          "id": 3,
+          "_name": ""
+        },
+        {
+          "id": 4,
+          "_name": ""
+        }
+      ]
+    }
+
+  ],
+  "answer": [
+    {
+      "id": 0,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "answer": [
+        {
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "answer": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "answer": [
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "answer": [
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "answer": [
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "answer": [
+        {
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "answer": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "answer": [
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "answer": [
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "answer": [
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "answer": [
+        {
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "answer": [
+        {
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "answer": [
+        {
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "answer": [
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "answer": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "answer": [
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        }
+      ]
+    }
+  ]
+}

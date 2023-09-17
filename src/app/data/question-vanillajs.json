@@ -2,413 +2,353 @@
   "question": [
     {
       "id": 0,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript là viết tắt của cụm từ gì",
+      "title": "JavaScript là gì ",
       "answer": [
         {
           "id": 1,
-          "_name": "Cascading Style Sheets"
+          "_name": "Là ngôn ngữ lập trình thông dịch thường được sử dụng để tạo các trang web tương tác và các ứng dụng web"
         },
         {
           "id": 2,
-          "_name": "Creative Style Sheets"
+          "_name": "Là ngôn ngữ lập trình siêu băn bản thường được sử dụng để tạo các trang web tương tác và các ứng dụng web"
         },
         {
           "id": 3,
-          "_name": "Computer Style Sheets"
+          "_name": "Là ngôn ngữ lập trình bậc thấp thường được sử dụng để tạo các trang web tương tác và các ứng dụng web"
         },
         {
           "id": 4,
-          "_name": "Colorful Style Sheets"
+          "_name": "Là ngôn ngữ đánh dấu thường được sử dụng để tạo các trang web tương tác và các ứng dụng web"
         }
       ]
     },
     {
       "id": 1,
-      "group": "JavaScript",
-      "type": 0,
-      "title": "HTML chính xác để tham chiếu tới file JavaScript bên ngoài là",
+      "group": "VANILLAJS",
+      "type": 1,
+      "title": "Cách để sử dụng JS trong HTML ",
       "answer": [
         {
           "id": 1,
-          "_name": "<link rel=\"stylesheet\" type=\"text/JavaScript\" href=\"mystyle.JavaScript\">"
+          "_name": "viết trong cặp thẻ style"
         },
         {
           "id": 2,
-          "_name": "<style src=\"mystyle.JavaScript\">"
+          "_name": "viết trong cặp thẻ script"
         },
         {
           "id": 3,
-          "_name": " <stylesheet>mystyle.JavaScript</stylesheet>"
+          "_name": "link bằng thẻ script và src"
         },
         {
           "id": 4,
-          "_name": "<style href=\"mystyle.JavaScript\""
+          "_name": "link bằng thẻ style và src"
         }
       ]
     },
     {
       "id": 2,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Vị trí nào chính xác để tham chiếu đến file JavaScript bbeen ngoài",
+      "title": "Các cách khai báo biến trong JS",
       "answer": [
         {
           "id": 1,
-          "_name": "In the <head> section"
+          "_name": "const, var , let"
         },
         {
           "id": 2,
-          "_name": "At the end of the document"
+          "_name": "string ,const ,init"
         },
         {
           "id": 3,
-          "_name": "In the <body> section"
+          "_name": "let ,var ,static"
         },
         {
           "id": 4,
-          "_name": "In the <footer> tag"
+          "_name": "int ,string , var"
         }
       ]
     },
     {
       "id": 3,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Muốn JavaScript trong file Html thì cần thẻ nào",
+      "title": "Scope của biến trong JS là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "style"
+          "_name": "Phạm vi xác định vị trí trong mã mà biến có thể truy cập được. JavaScript có phạm vi toàn cục và phạm vi cục bộ."
         },
         {
           "id": 2,
-          "_name": "script"
+          "_name": "Phạm vi xác định vị trí trong mã mà biến có thể truy cập được. JavaScript có phạm vi toàn cục"
         },
         {
           "id": 3,
-          "_name": "p"
-        },
-        {
-          "id": 4,
-          "_name": "a"
+          "_name": "Phạm vi xác định vị trí trong mã mà biến có thể truy cập được. JavaScript có phạm vi cục bộ."
         }
       ]
     },
     {
       "id": 4,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Thuộc tính nào dưới đây dùng để xác định dùng JavaScript kiểu nội tuyến",
+      "title": "Hoisting trong JS là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "style"
+          "_name": "Hoisting là một tính năng trong JavaScript cho phép bạn truy cập biến trước khi chúng được khai báo trong mã."
         },
         {
           "id": 2,
-          "_name": "styles"
+          "_name": "Hoisting là một tính năng trong JavaScript cho phép bạn chỉnh sửa biến trước khi chúng được khai báo trong mã."
         },
         {
           "id": 3,
-          "_name": "class"
+          "_name": "Hoisting là một tính năng trong JavaScript cho phép bạn xoá biến trước khi chúng được khai báo trong mã."
         },
         {
           "id": 4,
-          "_name": "font"
+          "_name": "Hoisting là một tính năng trong JavaScript cho phép bạn truy cập và gán biến trước khi chúng được khai báo trong mã."
         }
       ]
     },
     {
       "id": 5,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Tìm cú pháp đúng của JavaScript dưới đây",
+      "title": "Có bao nhiêu kiểu dữ liệu cơ bản trong JavaScript ?",
       "answer": [
         {
           "id": 1,
-          "_name": " body {color: black;}"
+          "_name": "2  "
         },
         {
           "id": 2,
-          "_name": " body:color=black;"
+          "_name": "5 "
         },
         {
           "id": 3,
-          "_name": " {body;color:black;}"
+          "_name": "7 "
         },
         {
           "id": 4,
-          "_name": " {body:color=black;}"
+          "_name": "10"
         }
       ]
     },
     {
       "id": 6,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Cú pháp đúng khi comment trong file JavaScript",
+      "title": "Các cách kiểm tra kiểu dữ liệu trong JS",
       "answer": [
         {
           "id": 1,
-          "_name": "// ghi chú"
+          "_name": "Toán tử checkType"
         },
         {
           "id": 2,
-          "_name": "<*  ghi chú*>"
+          "_name": "Toán tử instanceof"
         },
         {
           "id": 3,
-          "_name": "/*  ghi chú */"
+          "_name": "Object.prototype.toString"
         },
         {
           "id": 4,
-          "_name": "//  ghi chú //"
+          "_name": "Array.isArray()"
+        },
+        {
+          "id": 5,
+          "_name": "Toán tử typeof"
         }
       ]
     },
     {
       "id": 7,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript có tác dụng gì trong phát triển web",
+      "title": "Phạm vi của hàm (function scope) là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "JavaScript đóng vai trò quan trọng trong việc định dạng và trình bày giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo bên trong một hàm"
         },
         {
           "id": 2,
-          "_name": "JavaScript đóng vai trò quan trọng trong việc cấu trúc ,phân tích giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên trên một hàm"
         },
         {
           "id": 3,
-          "_name": "JavaScript đóng vai trò quan trọng trong việc phân tích và định dạng giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
-        },
-        {
-          "id": 4,
-          "_name": "JavaScript đóng vai trò quan trọng trong việc cấu tạo và chỉnh sửa giao diện của trang web, giúp nó trở nên hấp dẫn và dễ sử dụng."
+          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên dưới một hàm"
         }
       ]
     },
     {
       "id": 8,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript Selector là gì",
+      "title": "Closure là gì ",
       "answer": [
         {
           "id": 1,
-          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn xác định các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
         },
         {
           "id": 2,
-          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn tuỳ chỉnh các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
         },
         {
           "id": 3,
-          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn cấu trúc các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
         },
         {
           "id": 4,
-          "_name": "là một phần quan trọng trong JavaScript, cho phép bạn thêm mới các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
         }
       ]
     },
     {
       "id": 9,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 1,
-      "title": "Một số selector phổ biến",
+      "title": "JSON là gì ?",
       "answer": [
         {
           "id": 1,
-          "_name": "Dựa trên tên thẻ"
+          "_name": "Là một kiểu định dạng dữ liệu"
         },
         {
           "id": 2,
-          "_name": "Dựa trên class"
+          "_name": "Là một phương thức"
         },
         {
           "id": 3,
-          "_name": "Dựa trên ID"
+          "_name": "Là một đối tượng"
         },
         {
           "id": 4,
-          "_name": "Kết hợp nhiều selector"
-        },
-        {
-          "id": 5,
-          "_name": "Dựa trên thuộc tính"
-        },
-        {
-          "id": 6,
-          "_name": "Pseudo-classes và pseudo-elements"
-        },
-        {
-          "id": 7,
-          "_name": "Selector kết hợp"
-        },
-        {
-          "id": 8,
-          "_name": "Selector root"
+          "_name": "Là một thuộc tính"
         }
       ]
     },
     {
       "id": 10,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Sự khác nhau của ID và class trong JavaScript",
+      "title": "JSON.parse() dùng để làm gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Classd được bắt đầu bằng dấu chấm (.), nó có thể gán cho nhiều phần tử HTML khác nhau , nhiều phần tử có thể chứa nhiều class , ID được bắt đầu bằng #. mỗi ID chỉ nên được sử dụng cho một phần tử duy nhất "
+          "_name": "Để chuyển từ JSON sang một đối tượng JS"
         },
         {
           "id": 2,
-          "_name": ""
-        },
-        {
-          "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "Để chuyển từ một đối tượng JS sang JSON"
         }
       ]
     },
     {
       "id": 11,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript Box Model( Mô hình hộp JavaScript ) ",
+      "title": "JSON.stringify() dùng để làm gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-padding-border-margin "
+          "_name": "Để chuyển từ một đối tượng JS sang JSON"
         },
         {
           "id": 2,
-          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-border-padding "
-        },
-        {
-          "id": 3,
-          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-border-padding-margin "
-        },
-        {
-          "id": 4,
-          "_name": "là một khái niệm quan trọng trong JavaScript, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-padding-border "
+          "_name": "Để chuyển từ JSON sang một đối tượng JS"
         }
       ]
     },
     {
       "id": 12,
-      "group": "JavaScript",
-      "type": 0,
-      "title": "Mức độ ưu tiên khi xảy ra xung đột trong JavaScript",
+      "group": "VANILLAJS",
+      "type": 1,
+      "title": "Các cách để truy cập và thay đổi các phần tử trong một mảng trong JavaScript?",
       "answer": [
         {
           "id": 1,
-          "_name": "!important->inline styles -> Id ->Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "Sử dụng index( chỉ số của mảng)"
         },
         {
           "id": 2,
-          "_name": "!important->inline styles -> Id ,Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
+          "_name": " Sử dụng các phương thức mảng"
         },
         {
           "id": 3,
-          "_name": "!important->inline styles , Id ->Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "Sử dụng vòng lặp"
         },
         {
           "id": 4,
-          "_name": "!important->inline styles -> Id ->Class -> Pseudo-classes, attribute selector ,elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "Sử dụng key"
         }
       ]
     },
     {
       "id": 13,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Pesudo-class là gì",
+      "title": "JS có phải là ngôn ngữ đơn luồng",
       "answer": [
         {
           "id": 1,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên trạng thái hoặc tình huống cụ thể của phần tử đó"
+          "_name": "Đúng"
         },
         {
           "id": 2,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên cấu trúc hoặc tính chất cụ thể của phần tử đó"
-        },
-        {
-          "id": 3,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử ảo trong cấu trúc HTML."
-        },
-        {
-          "id": 4,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử trong cấu trúc HTML."
+          "_name": "Sai"
         }
       ]
     },
     {
       "id": 14,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "pseudo-element là gì",
+      "title": "Bất đồng bộ là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử ảo trong cấu trúc HTML."
+          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà không chờ đợi một tác vụ khác hoàn thành trước."
         },
         {
           "id": 2,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên cấu trúc hoặc tính chất cụ thể của phần tử đó"
-        },
-        {
-          "id": 3,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên trạng thái hoặc tình huống cụ thể của phần tử đó"
-        },
-        {
-          "id": 4,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử trong cấu trúc HTML."
+          "_name": " một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
         }
       ]
     },
     {
       "id": 15,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Sự khác nhau giữa display:none  và hiden",
+      "title": "Đồng bộ là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "display:none chuyển 1 phần tử sang dạng ẩn , nó ko có kích thước là không được hiển thị tại trang,hidden ẩn trực tiếp phần tử , có không đuược hiển thị tại trang web"
+          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
         },
         {
           "id": 2,
-          "_name": "display:none cẩn trực tiếp phần tử , có không đuược hiển thị tại trang web,hidden chuyển 1 phần tử sang dạng ẩn , nó ko có kích thước là không được hiển thị tại trang"
-        },
-        {
-          "id": 3,
-          "_name": "Chúng có tác dụng giống nhau ,chỉ khác cách gọi ra để sử dụng"
-        },
-        {
-          "id": 4,
-          "_name": "Chúng hoàn toàn giống nhau về mục đích và cách sử dụng"
+          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà không chờ đợi một tác vụ khác hoàn thành trước."
         }
       ]
     },
     {
       "id": 16,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Reponsive là gì",
+      "title": "undefined và null khác nhau như thế nào",
       "answer": [
         {
           "id": 1,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng thích ứng với các thiết bị có kích thước khác nhau, nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
+          "_name": "undefined thường được biểu thị là không xác định còn null thường được biểu thị là rỗng"
         },
         {
           "id": 2,
@@ -426,91 +366,111 @@
     },
     {
       "id": 17,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Vì sao được khuyến khích đặt file JavaScript ở đầu thẻ head đầu trang web",
+      "title": "ES6 được phát hành vào năm",
       "answer": [
         {
           "id": 1,
-          "_name": "quy định mẫu của W3C"
+          "_name": "2015"
         },
         {
           "id": 2,
-          "_name": "nội dung trang sẽ được hiển thị trước khi JavaScript được tải và áp dụng. "
+          "_name": "2016"
         },
         {
           "id": 3,
-          "_name": " cho phép trình duyệt tải JavaScript và HTML đồng thời. Điều này có thể giúp tăng tốc độ tải trang."
+          "_name": "2017"
         },
         {
           "id": 4,
-          "_name": " nó có thể được cache và sử dụng cho các trang con sau này, cải thiện hiệu suất của trang web."
-        },
-        {
-          "id": 5,
-          "_name": " nó có thể được cache và sử dụng cho các trang con sau này, cải thiện hiệu suất của trang web."
+          "_name": "2014"
         }
       ]
     },
     {
       "id": 18,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript sprites là gì",
+      "title": "Toán tử Spread  trong javascript ?",
       "answer": [
         {
           "id": 1,
-          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách gộp nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng JavaScript để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+          "_name": "cho phép bạn rải các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
         },
         {
           "id": 2,
-          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách chồng nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng JavaScript để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+          "_name": "cho phép bạn nối các phần tử của một mảng hoặc các thuộc tính của một đối tượng với một đối tượng khác"
         },
         {
           "id": 3,
-          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách gộp nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng HTML để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+          "_name": "cho phép bạn xoá các phần tử của một mảng hoặc các thuộc tính của một đối tượng trong một đối tượng khác"
         },
         {
           "id": 4,
-          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách chông nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng HTML để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+          "_name": "cho phép bạn gom các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
         }
       ]
     },
     {
       "id": 19,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript specificity là gì",
+      "title": "Toán tử Rest trong javascript ?",
       "answer": [
         {
           "id": 1,
-          "_name": "Quy định ưu tiên của các luật JavaScript khi áp dụng cho cùng một phần tử"
+          "_name": "cho phép bạn gom các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
         },
         {
           "id": 2,
-          "_name": "Là khả năng các thuộc tính JavaScript được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
+          "_name": "cho phép bạn nối các phần tử của một mảng hoặc các thuộc tính của một đối tượng với một đối tượng khác"
+        },
+        {
+          "id": 3,
+          "_name": "cho phép bạn xoá các phần tử của một mảng hoặc các thuộc tính của một đối tượng trong một đối tượng khác"
+        },
+        {
+          "id": 4,
+          "_name": "cho phép bạn rải các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
         }
       ]
     },
     {
       "id": 20,
-      "group": "JavaScript",
-      "type": 0,
-      "title": "JavaScript Inheritance là gì",
+      "group": "VANILLAJS",
+      "type": 1,
+      "title": "Sự khác biệt của  Function Declaration và Function Expression là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Là khả năng các thuộc tính JavaScript được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
+          "_name": "declare"
         },
         {
           "id": 2,
-          "_name": "Quy định ưu tiên của các luật JavaScript khi áp dụng cho cùng một phần tử"
+          "_name": "hoisting"
+        },
+        {
+          "id": 3,
+          "_name": "scope"
+        },
+        {
+          "id": 4,
+          "_name": "return"
+        },
+        {
+          "id": 5,
+          "_name": "param"
+        },
+        {
+          "id": 6,
+          "_name": "argument"
         }
       ]
     },
     {
       "id": 21,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
       "title": "@media có tác dụng gì",
       "answer": [
@@ -520,7 +480,7 @@
         },
         {
           "id": 2,
-          "_name": "là một công cụ cho việc ghi đè các JavaScript khác"
+          "_name": "là một công cụ cho việc ghi đè các VANILLAJS khác"
         },
         {
           "id": 3,
@@ -528,151 +488,163 @@
         },
         {
           "id": 4,
-          "_name": "là một công cụ cho việc sử dụng JavaScript trong HTML"
+          "_name": "là một công cụ cho việc sử dụng VANILLAJS trong HTML"
         }
       ]
     },
     {
       "id": 22,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "tìm câu sai .Các thuộc tính để giấu phần tử trong JavaScript",
+      "title": "Trong một hàm toàn cục, giá trị của this thường là ",
       "answer": [
         {
           "id": 1,
-          "_name": "hidden"
+          "_name": "đối tượng window "
         },
         {
           "id": 2,
-          "_name": "display : none"
+          "_name": "trình duyệt"
         },
         {
           "id": 3,
-          "_name": "visibility: hidden"
+          "_name": "hàm gần ngay trên nó"
         },
         {
           "id": 4,
-          "_name": "opacity:0"
+          "_name": "đối tượng ngay trên nó"
         }
       ]
     },
     {
       "id": 23,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "!important trong JavaScript có ý nghi gì",
+      "title": "Strict mode trong javascript là gì?",
       "answer": [
         {
           "id": 1,
-          "_name": "Nó đưa thuộc tính sử dụng lên cấp độ ưu tiên cao nhất"
+          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc nghiêm ngặt và kiểm tra lỗi."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc về tên biến , hàm."
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc về đối tượng"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc về cách gọi hàm"
         }
       ]
     },
     {
       "id": 24,
-      "group": "JavaScript",
-      "type": 0,
-      "title": "Margin trong box-model có tác dụng gì",
+      "group": "VANILLAJS",
+      "type": 1,
+      "title": "Câu đúng về Promise trong javascript là gì ?",
       "answer": [
         {
           "id": 1,
-          "_name": "Căn lề ngoài "
+          "_name": "Là một cơ chế để xử lý các tác vụ bất đồng bộ (asynchronous) một cách dễ đọc và hiệu quả hơn"
         },
         {
           "id": 2,
-          "_name": "Căn lề trong"
+          "_name": "là một đối tượng đại diện cho một giá trị hoặc kết quả sẽ trả về trong tương lai từ một tác vụ bất đồng bộ"
         },
         {
           "id": 3,
-          "_name": "Bo viền"
+          "_name": "Có 3 trạng thái Pending , Fulfilled, Rejected"
         },
         {
           "id": 4,
-          "_name": "Căn nội dung"
+          "_name": "Promise giải quyết ngay lập tức sau khi được tạo"
+        },
+        {
+          "id": 5,
+          "_name": "Promise ra đời thay thế hoàn toàn callback"
         }
       ]
     },
     {
       "id": 25,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Padding trong box-model có tác dụng gì",
+      "title": "Khi gọi this trong arrow fn tại trong một fn khác",
       "answer": [
         {
           "id": 1,
-          "_name": "Căn lề trong"
+          "_name": "this là đối tượng nó dùng"
         },
         {
           "id": 2,
-          "_name": "Căn lề ngoài"
+          "_name": "this là đối tượng fn nó khai báo"
         },
         {
           "id": 3,
-          "_name": "Chỉnh content"
-        },
-        {
-          "id": 4,
-          "_name": "Bo viền"
+          "_name": "this là đối tượng window"
         }
       ]
     },
     {
       "id": 26,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "Position trong JavaScript được sử dụng để làm gì",
+      "title": "Các giá trị Falsy trong JS ",
       "answer": [
         {
           "id": 1,
-          "_name": "để xác định cách một phần tử được định vị trong một tài liệu HTML"
+          "_name": "0"
         },
         {
           "id": 2,
-          "_name": "để xác định vị  trí một phần tử trong một tài liệu HTML"
+          "_name": "false"
         },
         {
           "id": 3,
-          "_name": "để xác định điểm bắt đầu của phần tử trong một tài liệu HTML"
+          "_name": "chuôix rỗng"
         },
         {
           "id": 4,
-          "_name": "để xác định khoảng cách một phần tử được định vị trong một tài liệu HTML"
+          "_name": "NaN"
+        },
+        {
+          "id": 5,
+          "_name": "-0"
+        },
+        {
+          "id": 6,
+          "_name": "undefined"
+        },
+        {
+          "id": 7,
+          "_name": "null"
+        },
+        {
+          "id": 8,
+          "_name": "0n"
         }
       ]
     },
     {
       "id": 27,
-      "group": "JavaScript",
+      "group": "VANILLAJS",
       "type": 0,
-      "title": "JavaScript Transforms dùng để làm gì ",
+      "title": "tác dụng của từ khoá continue ",
       "answer": [
         {
           "id": 1,
-          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn biến đổi và thay đổi hình dạng, kích thước và vị trí của phần tử HTML "
+          "_name": " continue bỏ qua một lần lặp nếu một điều kiện nhất định trả về true."
         },
         {
           "id": 2,
-          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn thay đổi vị trí của phần tử HTML "
+          "_name": " continue bỏ qua các lần lặp trước đó nếu một điều kiện nhất định trả về true."
         },
         {
           "id": 3,
-          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn xoá vị trí của phần tử HTML"
-        },
-        {
-          "id": 4,
-          "_name": "là một tập hợp các thuộc tính JavaScript cho phép bạn di chuyển vị trí của phần tử HTML "
+          "_name": " continue bỏ qua các lần lặp sau đó nếu một điều kiện nhất định trả về true."
         }
       ]
     }
