@@ -2,9 +2,9 @@
   "question": [
     {
       "id": 0,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
-      "title": "Angular là gì",
+      "title": "ANGULAR là gì",
       "answer": [
         {
           "id": 1,
@@ -16,7 +16,7 @@
         },
         {
           "id": 3,
-          "_name": "Angular sử dụng TypeScript làm ngôn ngữ lập trình chính"
+          "_name": "ANGULAR sử dụng TypeScript làm ngôn ngữ lập trình chính"
         },
         {
           "id": 4,
@@ -38,7 +38,7 @@
     },
     {
       "id": 1,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Data binding là gì",
       "answer": [
@@ -54,59 +54,59 @@
     },
     {
       "id": 2,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
-      "title": "Angular CLI là gì",
+      "title": "ANGULAR CLI là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Là một công cụ dòng lệnh được cung cấp bởi Angular để tạo, quản lý và triển khai các dự án Angular"
+          "_name": "Là một công cụ dòng lệnh được cung cấp bởi ANGULAR để tạo, quản lý và triển khai các dự án ANGULAR"
         },
         {
           "id": 2,
-          "_name": "Giúp đơn giản hóa quá trình phát triển ứng dụng Angular bằng cách cung cấp một loạt các lệnh dễ sử dụng để thực hiện các tác vụ phổ biến"
+          "_name": "Giúp đơn giản hóa quá trình phát triển ứng dụng ANGULAR bằng cách cung cấp một loạt các lệnh dễ sử dụng để thực hiện các tác vụ phổ biến"
         },
         {
           "id": 3,
-          "_name": "Là môi trường để ứng dụng angular có thể thực thì"
+          "_name": "Là môi trường để ứng dụng ANGULAR có thể thực thì"
         },
         {
           "id": 4,
-          "_name": "Là công cụ để ứng dụng angular có thể chạy trên web"
+          "_name": "Là công cụ để ứng dụng ANGULAR có thể chạy trên web"
         },
         {
           "id": 5,
-          "_name": "Là công cụ kiểm thử của Angular"
+          "_name": "Là công cụ kiểm thử của ANGULAR"
         }
       ]
     },
     {
       "id": 3,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
-      "title": "Angular Components là gì",
+      "title": "ANGULAR Components là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một khối xây dựng giao diện người dùng độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng Angular."
+          "_name": "là một khối xây dựng giao diện người dùng độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng ANGULAR."
         },
         {
           "id": 2,
-          "_name": "là một khối xây dựng services độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng Angular."
+          "_name": "là một khối xây dựng services độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng ANGULAR."
         },
         {
           "id": 3,
-          "_name": "là một khối xây dựng module độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng Angular."
+          "_name": "là một khối xây dựng module độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng ANGULAR."
         },
         {
           "id": 4,
-          "_name": "là một khối router độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng Angular."
+          "_name": "là một khối router độc lập, có thể được sử dụng và tái sử dụng trong ứng dụng ANGULAR."
         }
       ]
     },
     {
       "id": 4,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Các thành phần chính trong một component",
       "answer": [
@@ -146,9 +146,9 @@
     },
     {
       "id": 5,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
-      "title": "Vòng đời chính trong angular",
+      "title": "Vòng đời chính trong ANGULAR",
       "answer": [
         {
           "id": 1,
@@ -186,9 +186,9 @@
     },
     {
       "id": 6,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
-      "title": "Thứ tự vòng đời của component trong angular",
+      "title": "Thứ tự vòng đời của component trong ANGULAR",
       "answer": [
         {
           "id": 1,
@@ -214,13 +214,13 @@
     },
     {
       "id": 7,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Sự khác nhau giữa *ngIf và [hide]",
       "answer": [
         {
           "id": 1,
-          "_name": "*ngIf là một cú pháp cấu trúc được sử dụng trong Angular , [hidden] là một thuộc tính HTML "
+          "_name": "*ngIf là một cú pháp cấu trúc được sử dụng trong ANGULAR , [hidden] là một thuộc tính HTML "
         },
         {
           "id": 2,
@@ -234,7 +234,7 @@
     },
     {
       "id": 8,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Observable là gì",
       "answer": [
@@ -254,7 +254,7 @@
     },
     {
       "id": 9,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Thư viện RxJs dùng làm gì",
       "answer": [
@@ -278,7 +278,7 @@
     },
     {
       "id": 10,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Từ khoá async có tác dụng gì",
       "answer": [
@@ -294,9 +294,9 @@
     },
     {
       "id": 11,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
-      "title": "Từ khoá await trong angular",
+      "title": "Từ khoá await trong ANGULAR",
       "answer": [
         {
           "id": 1,
@@ -314,7 +314,7 @@
     },
     {
       "id": 12,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Có mấy loại directive ",
       "answer": [
@@ -334,7 +334,7 @@
     },
     {
       "id": 13,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Các kiểu truyền dữ liệu thường gặp là ",
       "answer": [
@@ -378,7 +378,7 @@
     },
     {
       "id": 14,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Pipe là gì ?",
       "answer": [
@@ -392,13 +392,13 @@
         },
         {
           "id": 3,
-          "_name": "Là một kiểu chuyển đổi ký tự được tích hợp vào angular"
+          "_name": "Là một kiểu chuyển đổi ký tự được tích hợp vào ANGULAR"
         }
       ]
     },
     {
       "id": 15,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "So sánh  promise vs observable",
       "answer": [
@@ -438,7 +438,7 @@
     },
     {
       "id": 16,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "So sánh BehaviorSubject vs Subject",
       "answer": [
@@ -458,7 +458,7 @@
     },
     {
       "id": 17,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Dependency injection là gì",
       "answer": [
@@ -478,7 +478,7 @@
     },
     {
       "id": 18,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Templates là gì",
       "answer": [
@@ -502,7 +502,7 @@
     },
     {
       "id": 19,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Components là gì",
       "answer": [
@@ -526,7 +526,7 @@
     },
     {
       "id": 20,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Directives là gì",
       "answer": [
@@ -546,7 +546,7 @@
     },
     {
       "id": 21,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngOnChanges() có chắc năng gì",
       "answer": [
@@ -556,11 +556,11 @@
         },
         {
           "id": 2,
-          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với ANGULAR lifecycle"
         },
         {
           "id": 3,
-          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi ANGULAR kiểm tra sự thay đổi trong component và template)"
         },
         {
           "id": 4,
@@ -570,13 +570,13 @@
     },
     {
       "id": 22,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngOnInit() có chuc nang gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với ANGULAR lifecycle"
         },
         {
           "id": 2,
@@ -584,7 +584,7 @@
         },
         {
           "id": 3,
-          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi ANGULAR kiểm tra sự thay đổi trong component và template)"
         },
         {
           "id": 4,
@@ -594,13 +594,13 @@
     },
     {
       "id": 23,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngDoCheck() có chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi ANGULAR kiểm tra sự thay đổi trong component và template)"
         },
         {
           "id": 2,
@@ -608,7 +608,7 @@
         },
         {
           "id": 3,
-          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với ANGULAR lifecycle"
         },
         {
           "id": 4,
@@ -618,103 +618,103 @@
     },
     {
       "id": 24,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "ngAfterContentInit() có chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
+          "_name": "Nó được gọi sau khi ANGULAR đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 2,
-          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật nội dung của component."
         },
         {
           "id": 3,
-          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 4,
-          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi ANGULAR đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         }
       ]
     },
     {
       "id": 25,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngAfterContentChecked() có chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật nội dung của component."
         },
         {
           "id": 2,
-          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
+          "_name": "Nó được gọi sau khi ANGULAR đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 3,
-          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 4,
-          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi ANGULAR đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         }
       ]
     },
     {
       "id": 26,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngAfterViewInit() có chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi ANGULAR đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         },
         {
           "id": 2,
-          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
+          "_name": "Nó được gọi sau khi ANGULAR đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 3,
-          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 4,
-          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật nội dung của component."
         }
       ]
     },
     {
       "id": 27,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngAfterViewChecked() có chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 2,
-          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
+          "_name": "Nó được gọi sau khi ANGULAR đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 3,
-          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi ANGULAR đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         },
         {
           "id": 4,
-          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi ANGULAR đã kiểm tra và cập nhật nội dung của component."
         }
       ]
     },
     {
       "id": 28,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngOnDestroy() có chức năng gì",
       "answer": [
@@ -728,17 +728,17 @@
         },
         {
           "id": 3,
-          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với ANGULAR lifecycle"
         },
         {
           "id": 4,
-          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi ANGULAR kiểm tra sự thay đổi trong component và template)"
         }
       ]
     },
     {
       "id": 29,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Tại sao chúng ta cần pha ngOnDestroy trong một component",
       "answer": [
@@ -770,7 +770,7 @@
     },
     {
       "id": 30,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Tại sao ngOnInit thường được sử dụng thay vì constructor cho các tác vụ liên quan đến khởi tạo và cấu hình ban đầu của component ?",
       "answer": [
@@ -780,7 +780,7 @@
         },
         {
           "id": 2,
-          "_name": "Dependency Injection để khởi tạo và sử dụng các dịch vụ (service). Các dịch vụ này thường cần phải được khởi tạo sau khi Angular đã tạo instance của component"
+          "_name": "Dependency Injection để khởi tạo và sử dụng các dịch vụ (service). Các dịch vụ này thường cần phải được khởi tạo sau khi ANGULAR đã tạo instance của component"
         },
         {
           "id": 3,
@@ -798,13 +798,13 @@
     },
     {
       "id": 31,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "selector trong @Component có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà Angular sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
+          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà ANGULAR sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
         },
         {
           "id": 2,
@@ -818,7 +818,7 @@
     },
     {
       "id": 32,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "template trong @Component có tác dụng gì",
       "answer": [
@@ -828,7 +828,7 @@
         },
         {
           "id": 2,
-          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà Angular sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
+          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà ANGULAR sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
         },
         {
           "id": 3,
@@ -838,7 +838,7 @@
     },
     {
       "id": 33,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "styles trong @Component có tác dụng gì",
       "answer": [
@@ -848,7 +848,7 @@
         },
         {
           "id": 2,
-          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà Angular sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
+          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà ANGULAR sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
         },
         {
           "id": 3,
@@ -858,39 +858,39 @@
     },
     {
       "id": 34,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "::ng-deep có tác dụng gì khi style",
       "answer": [
         {
           "id": 1,
-          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để ghi đè kiểu CSS cho các phần tử con trong một component và tất cả các component con bên trong nó, bất kể cách chúng được encapsulate"
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong ANGULAR để ghi đè kiểu CSS cho các phần tử con trong một component và tất cả các component con bên trong nó, bất kể cách chúng được encapsulate"
         },
         {
           "id": 2,
-          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để định dạng kiểu CSS cho chính component hiện tại. Nó cho phép bạn áp dụng kiểu CSS trực tiếp cho phần tử HTML mà component này được gắn vào."
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong ANGULAR để định dạng kiểu CSS cho chính component hiện tại. Nó cho phép bạn áp dụng kiểu CSS trực tiếp cho phần tử HTML mà component này được gắn vào."
         }
       ]
     },
     {
       "id": 35,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": ":host có tác dụng gì khi style",
       "answer": [
         {
           "id": 1,
-          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để định dạng kiểu CSS cho chính component hiện tại. Nó cho phép bạn áp dụng kiểu CSS trực tiếp cho phần tử HTML mà component này được gắn vào."
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong ANGULAR để định dạng kiểu CSS cho chính component hiện tại. Nó cho phép bạn áp dụng kiểu CSS trực tiếp cho phần tử HTML mà component này được gắn vào."
         },
         {
           "id": 2,
-          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để ghi đè kiểu CSS cho các phần tử con trong một component và tất cả các component con bên trong nó, bất kể cách chúng được encapsulate"
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong ANGULAR để ghi đè kiểu CSS cho các phần tử con trong một component và tất cả các component con bên trong nó, bất kể cách chúng được encapsulate"
         }
       ]
     },
     {
       "id": 36,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Dynamic component là gì",
       "answer": [
@@ -914,7 +914,7 @@
     },
     {
       "id": 37,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "<ng-template> có chức năng gì",
       "answer": [
@@ -938,7 +938,7 @@
     },
     {
       "id": 38,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ngTemplateOutlet  có chức năng gì",
       "answer": [
@@ -962,7 +962,7 @@
     },
     {
       "id": 39,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ng-container  có chức năng gì",
       "answer": [
@@ -986,7 +986,7 @@
     },
     {
       "id": 40,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Router có chức năng gì",
       "answer": [
@@ -1034,7 +1034,7 @@
     },
     {
       "id": 41,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Lazy loading là gì",
       "answer": [
@@ -1074,29 +1074,29 @@
     },
     {
       "id": 42,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Router Guard chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Là một tính năng của Angular Router được sử dụng để kiểm soát việc điều hướng trong ứng dụng web Angular."
+          "_name": "Là một tính năng của ANGULAR Router được sử dụng để kiểm soát việc điều hướng trong ứng dụng web ANGULAR."
         },
         {
           "id": 2,
-          "_name": "Là một tính năng của Angular Router được sử dụng để kiểm soát việc một route có được truy cập hay không trong ứng dụng web Angular."
+          "_name": "Là một tính năng của ANGULAR Router được sử dụng để kiểm soát việc một route có được truy cập hay không trong ứng dụng web ANGULAR."
         },
         {
           "id": 3,
-          "_name": "Là một tính năng của Angular Router được sử dụng để kiểm soát việc một route có được rời khỏi hay không trong ứng dụng web Angular."
+          "_name": "Là một tính năng của ANGULAR Router được sử dụng để kiểm soát việc một route có được rời khỏi hay không trong ứng dụng web ANGULAR."
         }
       ]
     },
     {
       "id": 43,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
-      "title": "Trong Angular có mấy loại form chính",
+      "title": "Trong ANGULAR có mấy loại form chính",
       "answer": [
         {
           "id": 1,
@@ -1118,7 +1118,7 @@
     },
     {
       "id": 44,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Các cách để tạo một observable là gì",
       "answer": [
@@ -1136,7 +1136,7 @@
         },
         {
           "id": 4,
-          "_name": "Sử dụng HTTP requests (Bạn có thể tạo một Observable từ các HTTP requests sử dụng Angular's HttpClient hoặc thư viện HTTP khác.)"
+          "_name": "Sử dụng HTTP requests (Bạn có thể tạo một Observable từ các HTTP requests sử dụng ANGULAR's HttpClient hoặc thư viện HTTP khác.)"
         },
         {
           "id": 5,
@@ -1150,7 +1150,7 @@
     },
     {
       "id": 45,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Rxjs Pipeable  Operators là gì",
       "answer": [
@@ -1174,7 +1174,7 @@
     },
     {
       "id": 46,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Rxjs Transformation Operators có các phương thức nào",
       "answer": [
@@ -1186,7 +1186,7 @@
     },
     {
       "id": 47,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Rxjs các phương thức Filtering Operators thường gặp là gì",
       "answer": [
@@ -1210,7 +1210,7 @@
     },
     {
       "id": 48,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Rxjs các phương thức Combination  Operators thường gặp là gì",
       "answer": [
@@ -1234,7 +1234,7 @@
     },
     {
       "id": 49,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Rxjs các phương thức Error Handling Operators thường gặp là gì",
       "answer": [
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 50,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Rxjs các phương thức RxJS Higher Order Observables (HOOs) thường gặp là gì",
       "answer": [
@@ -1282,7 +1282,7 @@
     },
     {
       "id": 51,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Rxjs Subject có thức năng gì ",
       "answer": [
@@ -1322,7 +1322,7 @@
     },
     {
       "id": 52,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Rxjs BehaviorSubject là gì ",
       "answer": [
@@ -1350,7 +1350,7 @@
     },
     {
       "id": 53,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Rxjs ReplaySubject có chức năng gì ",
       "answer": [
@@ -1382,7 +1382,7 @@
     },
     {
       "id": 54,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Rxjs AsyncSubject có chức năng gì ",
       "answer": [
@@ -1406,7 +1406,7 @@
     },
     {
       "id": 55,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Multicasting trong RxJS",
       "answer": [
@@ -1430,7 +1430,7 @@
     },
     {
       "id": 56,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "SubjectFactory là gì",
       "answer": [
@@ -1454,7 +1454,7 @@
     },
     {
       "id": 57,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Custom validate Form",
       "answer": [
@@ -1478,7 +1478,7 @@
     },
     {
       "id": 58,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Custom 1 pipe",
       "answer": [
@@ -1502,9 +1502,9 @@
     },
     {
       "id": 59,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
-      "title": "Angular CDK Coercion là gì?",
+      "title": "ANGULAR CDK Coercion là gì?",
       "answer": [
         {
           "id": 1,
@@ -1526,7 +1526,7 @@
     },
     {
       "id": 60,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "Unsubscribe Một Subscription",
       "answer": [
@@ -1550,9 +1550,9 @@
     },
     {
       "id": 61,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
-      "title": "Chọn các pipe không phải là mặc định của angular cung cấp",
+      "title": "Chọn các pipe không phải là mặc định của ANGULAR cung cấp",
       "answer": [
         {
           "id": 1,
@@ -1614,7 +1614,7 @@
     },
     {
       "id": 62,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "trong @NgModule thuộc tính declarations có tác dụng gì",
       "answer": [
@@ -1638,7 +1638,7 @@
     },
     {
       "id": 63,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 1,
       "title": "trong @NgModule thuộc tính import có tác dụng gì",
       "answer": [
@@ -1662,7 +1662,7 @@
     },
     {
       "id": 64,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "trong @NgModule thuộc tính export có tác dụng gì",
       "answer": [
@@ -1686,13 +1686,13 @@
     },
     {
       "id": 65,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Trong @NgModule thuộc tính providers có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "xác định các dịch vụ (services) mà module đó sẽ cung cấp hoặc làm sẵn sàng để sử dụng bởi các thành phần và module khác trong ứng dụng.là nơi bạn đăng ký và cung cấp các dịch vụ mà bạn muốn sử dụng và chia sẻ trong ứng dụng Angular của bạn."
+          "_name": "xác định các dịch vụ (services) mà module đó sẽ cung cấp hoặc làm sẵn sàng để sử dụng bởi các thành phần và module khác trong ứng dụng.là nơi bạn đăng ký và cung cấp các dịch vụ mà bạn muốn sử dụng và chia sẻ trong ứng dụng ANGULAR của bạn."
         },
         {
           "id": 2,
@@ -1710,13 +1710,13 @@
     },
     {
       "id": 66,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "trong @NgModule thuộc tính bootstrap có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "có tác dụng chỉ định thành phần (component) chính mà Angular sẽ bắt đầu render khi ứng dụng khởi chạy. Thường thì chỉ có một thành phần root duy nhất được khai báo ở đây."
+          "_name": "có tác dụng chỉ định thành phần (component) chính mà ANGULAR sẽ bắt đầu render khi ứng dụng khởi chạy. Thường thì chỉ có một thành phần root duy nhất được khai báo ở đây."
         },
         {
           "id": 2,
@@ -1734,13 +1734,13 @@
     },
     {
       "id": 67,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "CommonModule có chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "CommonModule là một trong những module cơ bản của Angular và cung cấp các hàm và directive cần thiết cho phát triển ứng dụng( NgIf và NgFor,NgSwitch,NgClass và NgStyle,NgNonBindable,..."
+          "_name": "CommonModule là một trong những module cơ bản của ANGULAR và cung cấp các hàm và directive cần thiết cho phát triển ứng dụng( NgIf và NgFor,NgSwitch,NgClass và NgStyle,NgNonBindable,..."
         },
         {
           "id": 2,
@@ -1758,13 +1758,13 @@
     },
     {
       "id": 68,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Lazy-loading feature modules",
       "answer": [
         {
           "id": 1,
-          "_name": "là một kỹ thuật trong Angular cho phép bạn tải các module bổ sung (feature modules) chỉ khi cần thiết, thay vì tải toàn bộ ứng dụng khi ứng dụng khởi động ban đầu. "
+          "_name": "là một kỹ thuật trong ANGULAR cho phép bạn tải các module bổ sung (feature modules) chỉ khi cần thiết, thay vì tải toàn bộ ứng dụng khi ứng dụng khởi động ban đầu. "
         },
         {
           "id": 2,
@@ -1782,7 +1782,7 @@
     },
     {
       "id": 69,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "pathMatch khi config router có tác dụng gì ",
       "answer": [
@@ -1806,7 +1806,7 @@
     },
     {
       "id": 70,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Làm sao để load router con",
       "answer": [
@@ -1830,7 +1830,7 @@
     },
     {
       "id": 71,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Các directives có sẵn  ",
       "answer": [
@@ -1854,13 +1854,13 @@
     },
     {
       "id": 72,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Attribute directive là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Là một loại directive trong Angular được sử dụng để thay đổi hoặc bổ sung các thuộc tính (attributes) của các phần tử DOM. Attribute directive cho phép bạn tương tác với và điều khiển các thuộc tính HTML, chẳng hạn như class, style, src, disabled, và các thuộc tính khác của các phần tử HTML."
+          "_name": "Là một loại directive trong ANGULAR được sử dụng để thay đổi hoặc bổ sung các thuộc tính (attributes) của các phần tử DOM. Attribute directive cho phép bạn tương tác với và điều khiển các thuộc tính HTML, chẳng hạn như class, style, src, disabled, và các thuộc tính khác của các phần tử HTML."
         },
         {
           "id": 2,
@@ -1878,13 +1878,13 @@
     },
     {
       "id": 73,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Structural directives là gì",
       "answer": [
         {
           "id": 1,
-          "_name": " là một loại directive trong Angular được sử dụng để thay đổi cấu trúc của DOM bằng cách thêm hoặc loại bỏ các phần tử DOM. Các structural directives thường được sử dụng để điều khiển việc xuất hiện, biến mất, hoặc lặp qua các phần tử HTML trong template dựa trên điều kiện hoặc danh sách dữ liệu.( NgIf ,NgFor,NgSwitch,NgForOf)"
+          "_name": " là một loại directive trong ANGULAR được sử dụng để thay đổi cấu trúc của DOM bằng cách thêm hoặc loại bỏ các phần tử DOM. Các structural directives thường được sử dụng để điều khiển việc xuất hiện, biến mất, hoặc lặp qua các phần tử HTML trong template dựa trên điều kiện hoặc danh sách dữ liệu.( NgIf ,NgFor,NgSwitch,NgForOf)"
         },
         {
           "id": 2,
@@ -1902,7 +1902,7 @@
     },
     {
       "id": 74,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "DI",
       "answer": [
@@ -1926,13 +1926,13 @@
     },
     {
       "id": 75,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "{{ }} có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Được sử dụng để hiển thị giá trị của biến hoặc biểu thức trong template của ứng dụng Angular.có tác dụng chèn giá trị của biến hoặc kết quả của biểu thức vào trong vị trí của nó trong template."
+          "_name": "Được sử dụng để hiển thị giá trị của biến hoặc biểu thức trong template của ứng dụng ANGULAR.có tác dụng chèn giá trị của biến hoặc kết quả của biểu thức vào trong vị trí của nó trong template."
         },
         {
           "id": 2,
@@ -1950,7 +1950,7 @@
     },
     {
       "id": 76,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Attribute binding là gì ",
       "answer": [
@@ -1974,7 +1974,7 @@
     },
     {
       "id": 77,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Các cách để điều hướng router ",
       "answer": [
@@ -2006,7 +2006,7 @@
     },
     {
       "id": 78,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "Thuộc tính animations trong @component có tác dụng gì",
       "answer": [
@@ -2030,7 +2030,7 @@
     },
     {
       "id": 79,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ControlValueAcccesser là gì",
       "answer": [
@@ -2054,17 +2054,17 @@
     },
     {
       "id": 80,
-      "group": "ANGULAR2",
+      "group": "ANGULAR",
       "type": 0,
       "title": "ChangeDetectorRef là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một phần quan trọng của hệ thống change detection trong Angular"
+          "_name": "là một phần quan trọng của hệ thống change detection trong ANGULAR"
         },
         {
           "id": 2,
-          "_name": "Nó là một service được cung cấp bởi Angular để bạn có thể kiểm soát quá trình kiểm tra sự thay đổi (change detection) và cập nhật giao diện người dùng trong ứng dụng Angular của bạn"
+          "_name": "Nó là một service được cung cấp bởi ANGULAR để bạn có thể kiểm soát quá trình kiểm tra sự thay đổi (change detection) và cập nhật giao diện người dùng trong ứng dụng ANGULAR của bạn"
         },
         {
           "id": 3,

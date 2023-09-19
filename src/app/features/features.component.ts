@@ -69,9 +69,9 @@ export class FeaturesComponent extends BaseComponent {
     },
     {
       id: 6,
-      name: "Angular2",
+      name: "Angular",
       active: false,
-      group: GROUP_ANSWER.Angular2
+      group: GROUP_ANSWER.Angular
     },
     {
       id: 7,

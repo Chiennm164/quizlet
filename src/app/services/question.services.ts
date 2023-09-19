@@ -4,7 +4,7 @@ import *  as dataPageHtml from '../data/question-html.json';
 import *  as dataPageCss from '../data/question-css.json';
 import *  as dataPageVanillaJS from '../data/question-vanillajs.json';
 import *  as dataPageBase from '../data/question-baseIT.json';
-import *  as dataPageAngular2 from '../data/question-angular2.json';
+import *  as dataPageAngular2 from '../data/question-angular.json';
 import {Observable, of} from "rxjs";
 import * as _ from 'lodash'
 import {GROUP_ANSWER} from "../core/constants";
@@ -37,7 +37,7 @@ export class QuestionServices {
     if (group === GROUP_ANSWER.Basic) {
       return of(_.shuffle(this.dataBase.question))
     }
-    if (group === GROUP_ANSWER.Angular2) {
+    if (group === GROUP_ANSWER.Angular) {
       return of(_.shuffle(this.dataAngular.question))
     }
     return of([])
@@ -56,7 +56,7 @@ export class QuestionServices {
     if (group === GROUP_ANSWER.Basic) {
       return of(this.dataBase.answer);
     }
-    if (group === GROUP_ANSWER.Angular2) {
+    if (group === GROUP_ANSWER.Angular) {
       return of(this.dataAngular.answer);
     }
     return of([]);

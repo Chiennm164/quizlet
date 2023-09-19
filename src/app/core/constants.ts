@@ -8,7 +8,7 @@ export enum GROUP_ANSWER {
   Css = "CSS",
   VueJs = "VUEJS",
   ReactJs = "REACTJS",
-  Angular2 = "ANGULAR2",
+  Angular = "ANGULAR",
   VanillaJs = "VANILLAJS",
   Git = "GIT",
   Basic = "Basic"
