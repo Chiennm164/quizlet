@@ -1,9 +1,10 @@
 <div class="wrap-q">
   <h3>Câu hỏi số {{data.stt! < 10 ? "0" + data.stt : data.stt}} : {{ data.title}} ?</h3>
   <br>
-  <ul *ngIf="_data.length" class="q-list">
-    <li class="q-item d-flex align-items-center pb-3 px-4" *ngFor="let i of _data">
+  <ul *ngIf="_data.length" class="q-list pb-2">
+    <li class="q-item d-flex align-items-center px-4" *ngFor="let i of _data,index as idx">
       <input *ngIf="data.type! === 0"
+             [id]="'input' + idx"
              [disabled]="isEndTest"
              type="radio"
              name="gr-radio"
@@ -13,13 +14,14 @@
       >
       <input
         *ngIf="data.type"
+        [id]="'input' + idx"
         [disabled]="isEndTest"
         type="checkbox"
         class="p-2 item"
         [(ngModel)]="i.checked"
         (change)="handlerSelectedAnswerMany()"
       >
-      <label class="m-0 px-3">{{i.data._name}}</label>
+      <label [for]="'input'+ idx">{{i.data._name}}</label>
     </li>
   </ul>
 

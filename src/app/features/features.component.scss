@@ -8,10 +8,18 @@
 
   .nav {
     li {
-      padding: 0 20px;
+      border-radius: 3px;
+
+      padding: 5px 20px;
+      margin: 0 2px;
       text-transform: capitalize;
       color: $white;
       font-size: 1.6rem;
+      cursor: pointer;
+      &:hover{
+        background-color: #EF681C;
+        opacity: 0.7;
+      }
     }
   }
 }

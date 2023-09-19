@@ -3,7 +3,7 @@ import {BaseComponent} from "../shared/components/base.component";
 import {GROUP_ANSWER} from "../core/constants";
 
 interface Menu {
-  id: Number,
+  id: number,
   name: string,
   active: boolean,
   group: GROUP_ANSWER
@@ -18,7 +18,8 @@ interface Menu {
           <img [ngSrc]="logo" width="60" height="60" alt="logo">
         </div>
         <ul class="nav">
-          <li *ngFor="let menu of listMenu" (click)="switchPage(menu.group)">{{menu.name}}</li>
+          <li *ngFor="let menu of listMenu" (click)="switchPage(menu.group, menu.id)"
+              [class.menu-active]="menu.active">{{menu.name}}</li>
         </ul>
       </div>
     </div>
@@ -35,7 +36,7 @@ export class FeaturesComponent extends BaseComponent {
     {
       id: 1,
       name: "HTML",
-      active: false,
+      active: true,
       group: GROUP_ANSWER.Html
     },
     {
@@ -60,33 +61,36 @@ export class FeaturesComponent extends BaseComponent {
 
     },
     {
-      id: 4,
+      id: 5,
       name: "VueJS",
       active: false,
       group: GROUP_ANSWER.VueJs
 
     },
     {
-      id: 5,
+      id: 6,
       name: "Angular2",
       active: false,
       group: GROUP_ANSWER.Angular2
     },
     {
-      id: 6,
+      id: 7,
       name: "Git",
       active: false,
       group: GROUP_ANSWER.Git
     },
     {
-      id: 7,
+      id: 8,
       name: "Basic",
       active: false,
       group: GROUP_ANSWER.Basic
     }
   ]
 
-  switchPage(group: GROUP_ANSWER) {
+  switchPage(group: GROUP_ANSWER, id: number) {
     this.group = group
+    this.listMenu.forEach((m: any) => {
+      m.active = m.id === id;
+    })
   }
 }

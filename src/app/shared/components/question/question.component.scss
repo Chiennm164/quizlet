@@ -1,19 +1,36 @@
 .wrap-q {
   min-height: 400px;
+
+  h3 {
+    margin: 0;
+  }
+
+  .q-item {
+
+    label {
+      padding: 8px 5px 8px 10px;
+      margin: 8px 5px 8px 10px;
+      flex: 1;
+    }
+
+    &:hover {
+      label {
+        cursor: pointer;
+        color: #EF681C;
+      }
+
+    }
+
+  }
 }
 
 
-input[type="checkbox"] {
+input[type="radio"],input[type="checkbox"] {
   accent-color: red;
+
   &:checked + label {
     color: red;
   }
 }
 
-input[type="radio"] {
-  accent-color: red;
-  &:checked + label {
-    color: red;
-  }
-}
 
