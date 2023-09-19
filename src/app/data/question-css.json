@@ -40,7 +40,7 @@
         },
         {
           "id": 3,
-          "_name": " <stylesheet>mystyle.css</stylesheet>"
+          "_name": "<stylesheet>mystyle.css</stylesheet>"
         },
         {
           "id": 4,
@@ -52,23 +52,23 @@
       "id": 2,
       "group": "CSS",
       "type": 0,
-      "title": "Vị trí nào chính xác để tham chiếu đến file css bbeen ngoài",
+      "title": "Vị trí nào nên để tham chiếu đến file css bên ngoài",
       "answer": [
         {
           "id": 1,
-          "_name": "In the <head> section"
+          "_name": "Trong cặp thẻ head"
         },
         {
           "id": 2,
-          "_name": "At the end of the document"
+          "_name": "Trong file tag"
         },
         {
           "id": 3,
-          "_name": "In the <body> section"
+          "_name": "Trong cặp thẻ body "
         },
         {
           "id": 4,
-          "_name": "In the <footer> tag"
+          "_name": "Trong cặp thẻ footer"
         }
       ]
     },
@@ -128,19 +128,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": " body {color: black;}"
+          "_name": "body {color: black;}"
         },
         {
           "id": 2,
-          "_name": " body:color=black;"
+          "_name": "body:color=black;"
         },
         {
           "id": 3,
-          "_name": " {body;color:black;}"
+          "_name": "{body;color:black;}"
         },
         {
           "id": 4,
-          "_name": " {body:color=black;}"
+          "_name": "{body:color=black;}"
         }
       ]
     },
@@ -200,19 +200,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn xác định các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "Là một phần quan trọng trong CSS, cho phép bạn xác định các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         },
         {
           "id": 2,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn tuỳ chỉnh các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "Là một phần quan trọng trong CSS, cho phép bạn tuỳ chỉnh các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         },
         {
           "id": 3,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn cấu trúc các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "Là một phần quan trọng trong CSS, cho phép bạn cấu trúc các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         },
         {
           "id": 4,
-          "_name": "là một phần quan trọng trong CSS, cho phép bạn thêm mới các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
+          "_name": "Là một phần quan trọng trong CSS, cho phép bạn thêm mới các phần tử HTML mà bạn muốn áp dụng kiểu dáng hoặc thực hiện các thao tác khác trên chúng"
         }
       ]
     },
@@ -259,24 +259,24 @@
     {
       "id": 10,
       "group": "CSS",
-      "type": 0,
-      "title": "Sự khác nhau của ID và class trong CSS",
+      "type": 1,
+      "title": "Chọn câu đúng khi nói về sự khác nhau giữa Id và Class trong CSS",
       "answer": [
         {
           "id": 1,
-          "_name": "Classd được bắt đầu bằng dấu chấm (.), nó có thể gán cho nhiều phần tử HTML khác nhau , nhiều phần tử có thể chứa nhiều class , ID được bắt đầu bằng #. mỗi ID chỉ nên được sử dụng cho một phần tử duy nhất "
+          "_name": "Id được bắt đầu bằng dấu #, Class được bắt đầu bằng dấu ."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Id được bắt đầu bằng dấu ., Class được bắt đầu bằng dấu #"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Id chỉ có thể được gán cho một phần tử duy nhất trong tài liệu HTML, CSS được gán cho nhiều phần tử khác nhau"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Id và Class chỉ có thể được gán cho một phần tử duy nhất trong tài liệu HTML"
         }
       ]
     },
@@ -284,23 +284,23 @@
       "id": 11,
       "group": "CSS",
       "type": 0,
-      "title": "CSS Box Model( Mô hình hộp CSS ) ",
+      "title": "CSS Box Model (Mô hình hộp CSS)",
       "answer": [
         {
           "id": 1,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-padding-border-margin "
+          "_name": "Là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-padding-border-margin "
         },
         {
           "id": 2,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-border-padding "
+          "_name": "Là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-border-padding "
         },
         {
           "id": 3,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-border-padding-margin "
+          "_name": "Là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-border-padding-margin "
         },
         {
           "id": 4,
-          "_name": "là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-padding-border "
+          "_name": "Là một khái niệm quan trọng trong CSS, được sử dụng để mô tả cách mà các phần tử HTML được hiển thị và ảnh hưởng đến vị trí, kích thước và khoảng cách giữa chúng trên trang web, theo thứ tự tù trong ra ngoaài đó là content-margin-padding-border "
         }
       ]
     },
@@ -312,67 +312,67 @@
       "answer": [
         {
           "id": 1,
-          "_name": "!important->inline styles -> Id ->Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "!important -> inline styles -> Id -> Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
         },
         {
           "id": 2,
-          "_name": "!important->inline styles -> Id ,Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "!important -> inline styles -> Id ,Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
         },
         {
           "id": 3,
-          "_name": "!important->inline styles , Id ->Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "!important -> inline styles, Id ->Class -> Pseudo-classes, attribute selector -> elements và pseudo-elements -> kết hợp các selectors"
         },
         {
           "id": 4,
-          "_name": "!important->inline styles -> Id ->Class -> Pseudo-classes, attribute selector ,elements và pseudo-elements -> kết hợp các selectors"
+          "_name": "!important -> inline styles -> Id ->Class -> Pseudo-classes, attribute selector, elements và pseudo-elements -> kết hợp các selectors"
         }
       ]
     },
     {
       "id": 13,
       "group": "CSS",
-      "type": 0,
-      "title": "Pesudo-class là gì",
+      "type": 1,
+      "title": "Pseudo-class là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên trạng thái hoặc tình huống cụ thể của phần tử đó"
+          "_name": "Là một cách để chọn và định dạng các phần tử HTML dựa trên trạng thái hoặc vị trí của chúng trong tài liệu HTML"
         },
         {
           "id": 2,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên cấu trúc hoặc tính chất cụ thể của phần tử đó"
+          "_name": "Thường được sử dụng để tạo các hiệu ứng hoặc định dạng đặc biệt cho các phần tử mà không cần sử dụng JavaScript."
         },
         {
           "id": 3,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử ảo trong cấu trúc HTML."
+          "_name": "Bắt đầu bằng dấu hai chấm : và sau đó là tên của pseudo-class."
         },
         {
           "id": 4,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử trong cấu trúc HTML."
+          "_name": "Là một tính năng cho phép bạn tạo và định dạng các phần tử ảo bên trong một phần tử HTML"
         }
       ]
     },
     {
       "id": 14,
       "group": "CSS",
-      "type": 0,
+      "type": 1,
       "title": "pseudo-element là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử ảo trong cấu trúc HTML."
+          "_name": "Là một tính năng cho phép bạn tạo và định dạng các phần tử ảo bên trong một phần tử HTML"
         },
         {
           "id": 2,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên cấu trúc hoặc tính chất cụ thể của phần tử đó"
+          "_name": "Các pseudo-element bắt đầu bằng dấu hai dấu hai chấm :: sau đó là tên của pseudo-element"
         },
         {
           "id": 3,
-          "_name": "là một loại lựa chọn lọc (selector) được sử dụng để chọn các phần tử HTML dựa trên trạng thái hoặc tình huống cụ thể của phần tử đó"
+          "_name": "Thường được sử dụng để thay đổi hoặc tạo ra các phần tử bổ sung mà không cần thay đổi cấu trúc HTML thực sự."
         },
         {
           "id": 4,
-          "_name": "là một loại chọn lọc (selector) đặc biệt được sử dụng để tạo ra và kiểm soát phần tử trong cấu trúc HTML."
+          "_name": "Là một cách để chọn và định dạng các phần tử HTML dựa trên trạng thái hoặc vị trí của chúng trong tài liệu HTML"
         }
       ]
     },
@@ -380,19 +380,19 @@
       "id": 15,
       "group": "CSS",
       "type": 0,
-      "title": "Sự khác nhau giữa display:none  và hiden",
+      "title": "Sự khác nhau giữa display:none và hiden",
       "answer": [
         {
           "id": 1,
-          "_name": "display:none chuyển 1 phần tử sang dạng ẩn , nó ko có kích thước là không được hiển thị tại trang,hidden ẩn trực tiếp phần tử , có không đuược hiển thị tại trang web"
+          "_name": "display:none chuyển 1 phần tử sang dạng ẩn, nó ko có kích thước là không được hiển thị tại trang, hidden ẩn trực tiếp phần tử, có không đuược hiển thị tại trang web"
         },
         {
           "id": 2,
-          "_name": "display:none cẩn trực tiếp phần tử , có không đuược hiển thị tại trang web,hidden chuyển 1 phần tử sang dạng ẩn , nó ko có kích thước là không được hiển thị tại trang"
+          "_name": "display:none cẩn trực tiếp phần tử, có không đuược hiển thị tại trang web,hidden chuyển 1 phần tử sang dạng ẩn, nó ko có kích thước là không được hiển thị tại trang"
         },
         {
           "id": 3,
-          "_name": "Chúng có tác dụng giống nhau ,chỉ khác cách gọi ra để sử dụng"
+          "_name": "Chúng có tác dụng giống nhau, chỉ khác cách gọi ra để sử dụng"
         },
         {
           "id": 4,
@@ -404,7 +404,7 @@
       "id": 16,
       "group": "CSS",
       "type": 0,
-      "title": "Reponsive là gì",
+      "title": "Responsive là gì",
       "answer": [
         {
           "id": 1,
@@ -428,27 +428,27 @@
       "id": 17,
       "group": "CSS",
       "type": 0,
-      "title": "Vì sao được khuyến khích đặt file CSS ở đầu thẻ head đầu trang web",
+      "title": "Chọn câu sai khi giải thích vì sao được khuyến khích đặt file CSS ở đầu thẻ head đầu trang web",
       "answer": [
         {
           "id": 1,
-          "_name": "quy định mẫu của W3C"
+          "_name": "Quy định mẫu của W3C"
         },
         {
           "id": 2,
-          "_name": "nội dung trang sẽ được hiển thị trước khi CSS được tải và áp dụng. "
+          "_name": "Tối ưu hóa trải nghiệm người dùng ( tránh trường hợp hiển thị HTML trước khi được css )"
         },
         {
           "id": 3,
-          "_name": " cho phép trình duyệt tải CSS và HTML đồng thời. Điều này có thể giúp tăng tốc độ tải trang."
+          "_name": "Cải thiện tốc độ tải trang"
         },
         {
           "id": 4,
-          "_name": " nó có thể được cache và sử dụng cho các trang con sau này, cải thiện hiệu suất của trang web."
+          "_name": "Quản lý mã dễ dàng hơn, mã HTML và mã CSS được tách biệt rõ ràng, điều này làm cho việc bảo trì và chỉnh sửa trang web trở nên thuận tiện hơn."
         },
         {
           "id": 5,
-          "_name": " nó có thể được cache và sử dụng cho các trang con sau này, cải thiện hiệu suất của trang web."
+          "_name": "Hiển thị nội dung ngay lập tức"
         }
       ]
     },
@@ -473,6 +473,10 @@
         {
           "id": 4,
           "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách chông nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng HTML để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+        },
+        {
+          "id": 5,
+          "_name": "Quy định ưu tiên của các luật CSS khi áp dụng cho cùng một phần tử"
         }
       ]
     },
@@ -484,11 +488,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Quy định ưu tiên của các luật CSS khi áp dụng cho cùng một phần tử"
+          "_name": "Là một khái niệm quan trọng trong CSS để xác định xem quy tắc CSS nào sẽ được áp dụng cho một phần tử HTML cụ thể khi có nhiều quy tắc CSS cùng áp dụng"
         },
         {
           "id": 2,
           "_name": "Là khả năng các thuộc tính CSS được truyền từ cha sang con trong cấu trúc cây DOM, giúp quản lý kiểu dáng trang web một cách hiệu quả và tổ chức."
+        },
+        {
+          "id": 3,
+          "_name": "Là một kỹ thuật tối ưu hóa tải trang web bằng cách gộp nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng CSS để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
+        },
+        {
+          "id": 4,
+          "_name": "Quy định ưu tiên của các luật CSS khi áp dụng cho cùng một phần tử"
         }
       ]
     },
@@ -505,6 +517,14 @@
         {
           "id": 2,
           "_name": "Quy định ưu tiên của các luật CSS khi áp dụng cho cùng một phần tử"
+        },
+        {
+          "id": 3,
+          "_name": "Là một khái niệm quan trọng trong CSS để xác định xem quy tắc CSS nào sẽ được áp dụng cho một phần tử HTML cụ thể khi có nhiều quy tắc CSS cùng áp dụng"
+        },
+        {
+          "id": 4,
+          "_name": "là một kỹ thuật tối ưu hóa tải trang web bằng cách gộp nhiều hình ảnh con thành một hình ảnh lớn duy nhất và sau đó sử dụng CSS để hiển thị chỉ một phần của hình ảnh đó khi cần thiết. "
         }
       ]
     },
@@ -536,7 +556,7 @@
       "id": 22,
       "group": "CSS",
       "type": 0,
-      "title": "tìm câu sai .Các thuộc tính để giấu phần tử trong css",
+      "title": "Thuộc tính nào dưới đây không có tác dụng ẩn một phần tử",
       "answer": [
         {
           "id": 1,
@@ -553,6 +573,10 @@
         {
           "id": 4,
           "_name": "opacity:0"
+        },
+        {
+          "id": 5,
+          "_name": "position: absolute; left: -9999px;"
         }
       ]
     },
@@ -560,7 +584,7 @@
       "id": 23,
       "group": "CSS",
       "type": 0,
-      "title": "!important trong CSS có ý nghi gì",
+      "title": "!important trong CSS có ý nghĩa gì",
       "answer": [
         {
           "id": 1,
@@ -568,15 +592,11 @@
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Nó chặn sự kiện nổi bọt trong DOM"
         },
         {
           "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "Nó bỏ qua thuộc tính này "
         }
       ]
     },
@@ -588,7 +608,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Căn lề ngoài "
+          "_name": "Căn lề ngoài"
         },
         {
           "id": 2,
@@ -636,19 +656,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "để xác định cách một phần tử được định vị trong một tài liệu HTML"
+          "_name": "Để xác định cách một phần tử được định vị trong một tài liệu HTML"
         },
         {
           "id": 2,
-          "_name": "để xác định vị  trí một phần tử trong một tài liệu HTML"
+          "_name": "Để xác định vị trí một phần tử trong một tài liệu HTML"
         },
         {
           "id": 3,
-          "_name": "để xác định điểm bắt đầu của phần tử trong một tài liệu HTML"
+          "_name": "Để xác định điểm bắt đầu của phần tử trong một tài liệu HTML"
         },
         {
           "id": 4,
-          "_name": "để xác định khoảng cách một phần tử được định vị trong một tài liệu HTML"
+          "_name": "Để xác định khoảng cách một phần tử được định vị trong một tài liệu HTML"
         }
       ]
     },
@@ -660,19 +680,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn biến đổi và thay đổi hình dạng, kích thước và vị trí của phần tử HTML "
+          "_name": "Là một tập hợp các thuộc tính CSS cho phép bạn biến đổi và thay đổi hình dạng, kích thước và vị trí của phần tử HTML "
         },
         {
           "id": 2,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn thay đổi vị trí của phần tử HTML "
+          "_name": "Là một tập hợp các thuộc tính CSS cho phép bạn thay đổi vị trí của phần tử HTML "
         },
         {
           "id": 3,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn xoá vị trí của phần tử HTML"
+          "_name": "Là một tập hợp các thuộc tính CSS cho phép bạn xoá vị trí của phần tử HTML"
         },
         {
           "id": 4,
-          "_name": "là một tập hợp các thuộc tính CSS cho phép bạn di chuyển vị trí của phần tử HTML "
+          "_name": "Là một tập hợp các thuộc tính CSS cho phép bạn di chuyển vị trí của phần tử HTML "
         }
       ]
     }
@@ -682,7 +702,7 @@
       "id": 0,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -690,7 +710,7 @@
       "id": 1,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -698,7 +718,7 @@
       "id": 2,
       "answer": [
         {
-          "id": 5
+          "id": 1
         }
       ]
     },
@@ -706,13 +726,7 @@
       "id": 3,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -721,12 +735,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -734,10 +742,7 @@
       "id": 5,
       "answer": [
         {
-          "id": 9
-        },
-        {
-          "id": 10
+          "id": 1
         }
       ]
     },
@@ -746,9 +751,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
         }
       ]
     },
@@ -772,7 +774,7 @@
       "id": 9,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -780,7 +782,9 @@
       "id": 10,
       "answer": [
         {
-          "id": 2
+          "id": 1
+        },{
+          "id": 3
         }
       ]
     },
@@ -788,7 +792,7 @@
       "id": 11,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -796,7 +800,7 @@
       "id": 12,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -804,7 +808,11 @@
       "id": 13,
       "answer": [
         {
-          "id": 5
+          "id": 1
+        },{
+          "id": 2
+        },{
+          "id": 3
         }
       ]
     },
@@ -812,13 +820,11 @@
       "id": 14,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
+        },{
+          "id": 2
+        },{
+          "id": 3
         }
       ]
     },
@@ -827,12 +833,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -840,10 +840,7 @@
       "id": 16,
       "answer": [
         {
-          "id": 9
-        },
-        {
-          "id": 10
+          "id": 1
         }
       ]
     },
@@ -852,9 +849,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
         }
       ]
     },
@@ -878,7 +872,7 @@
       "id": 20,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -886,7 +880,7 @@
       "id": 21,
       "answer": [
         {
-          "id": 2
+          "id": 1
         }
       ]
     },
@@ -894,7 +888,7 @@
       "id": 22,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -902,7 +896,7 @@
       "id": 23,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -910,7 +904,7 @@
       "id": 24,
       "answer": [
         {
-          "id": 5
+          "id": 1
         }
       ]
     },
@@ -918,13 +912,7 @@
       "id": 25,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -933,12 +921,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -946,10 +928,7 @@
       "id": 27,
       "answer": [
         {
-          "id": 9
-        },
-        {
-          "id": 10
+          "id": 1
         }
       ]
     }

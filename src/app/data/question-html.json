@@ -8,7 +8,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Hyper Text Model Language"
+          "_name": "Hyper Text Markup Language"
         },
         {
           "id": 2,
@@ -20,7 +20,7 @@
         },
         {
           "id": 4,
-          "_name": "Hyper Text Markup Language"
+          "_name": "Hyper Text Model Language"
         }
       ]
     },
@@ -28,10 +28,10 @@
       "id": 1,
       "group": "HTML",
       "type": 0,
-      "title": "Câu nào dưới đây không phải là câu thể hiện ưu điểm của HTMl",
+      "title": "Chọn các câu đúng khi nói về ưu điểm của HTMl",
       "answer": [
         {
-          "_name": "Kho tài nguyễn khổng lồ với cộng đồng người dùng rộng lớn",
+          "_name": "Kho tài nguyên khổng lồ với cộng đồng người dùng rộng lớn",
           "id": 1
         },
         {
@@ -43,8 +43,8 @@
           "_name": "Hoạt động mượt mà trên hầu hết các trình duyệt"
         },
         {
-          "_name": "Cách thức hoạt động đơn giản nên người học có thể dễ dàng nắm bắt được kiến thức để triển khai cho website của mình",
-          "id": 4
+          "id": 4,
+          "_name": "Cách thức hoạt động đơn giản nên người học có thể dễ dàng nắm bắt được kiến thức để triển khai cho website của mình"
         },
         {
           "_name": "Có thể tích hợp với nhiều ngôn ngữ khác nhau",
@@ -63,8 +63,8 @@
     {
       "id": 2,
       "group": "HTML",
-      "type": 0,
-      "title": "Câu nào dưới đây không đúng khi nói về các nhược điểm của HTML",
+      "type": 1,
+      "title": "Chọn câu đúng khi nói về nhược điểm của HTML",
       "answer": [
         {
           "id": 1,
@@ -128,7 +128,7 @@
       "id": 4,
       "group": "HTML",
       "type": 1,
-      "title": "Các ưu điểm XHTML so với HTML",
+      "title": "Các ưu điểm XHTML so với HTML4",
       "answer": [
         {
           "id": 1,
@@ -141,6 +141,14 @@
         {
           "id": 3,
           "_name": "Cộng đồng sử dụng lớn ,dễ học ,tìm hiểu và phát triển"
+        },
+        {
+          "id": 4,
+          "_name": "Tương thích với XML"
+        },
+        {
+          "id": 5,
+          "_name": "Hiệu suất tốt hơn"
         }
       ]
     },
@@ -148,19 +156,19 @@
       "id": 5,
       "group": "HTML",
       "type": 1,
-      "title": "Câu nào dưới đây là sai khi nói về các ưu điểm của HTML5 so với HTML4",
+      "title": "Câu nào dưới đây là không đúng khi nói về các ưu điểm của HTML5 so với HTML4",
       "answer": [
         {
           "id": 1,
-          "_name": "Có cú pháp và quy tắc nghiêm ngặt hơn"
+          "_name": "Hỗ trợ đa phương tiện tốt hơn"
         },
         {
           "id": 2,
-          "_name": "Hỗ trợ Video và Audio"
+          "_name": "Hỗ trợ vẽ đồ họa và tạo hiệu ứng thú vị trên trang web "
         },
         {
           "id": 3,
-          "_name": "cho phép vẽ đồ hoạ trực tiếp trên trang web bằng JS"
+          "_name": "Hỗ trợ cho việc tạo hình ảnh vector thể hiện rõ ràng"
         },
         {
           "id": 4,
@@ -180,11 +188,11 @@
         },
         {
           "id": 8,
-          "_name": "Cung cấp các công nghệ tạo kết nô thời gian thực giữa máy khách và máy chủ"
+          "_name": "Cung cấp các công nghệ tạo kết nối thời gian thực giữa máy khách và máy chủ"
         },
         {
           "id": 9,
-          "_name": "Tính tương thích , hỗ trợ và thực thi các tính năng HTML trên các trình duyệt cao"
+          "_name": "Tính tương thích , hỗ trợ và thực thi các tính năng HTML trên các trình duyệt cao hơn"
         },
         {
           "id": 10,
@@ -192,7 +200,7 @@
         },
         {
           "id": 11,
-          "_name": "Tải trang nhanh chóng , ít tốn tài nguyên "
+          "_name": "HTML5 tải trang nhanh chóng , ít tốn tài nguyên hơn HTML4"
         }
       ]
     },
@@ -208,15 +216,15 @@
         },
         {
           "id": 2,
-          "_name": "Thẻ <meta> được sử dụng cho việc tối ưu hóa công cụ tìm kiếm để nói cho công cụ tìm kiếm về nội dung trang."
+          "_name": "Thẻ <meta> trong html được sử dụng cho việc tối ưu hóa công cụ tìm kiếm để nói cho công cụ tìm kiếm về nội dung trang."
         },
         {
           "id": 3,
-          "_name": "Thẻ <meta> có thể cải thiện SEO mà không cần nội dung chất lượng"
+          "_name": "Thẻ <meta> trong html có thể cải thiện SEO mà không cần nội dung chất lượng"
         },
         {
           "id": 4,
-          "_name": "Thẻ <meta> dùng để cho trang web xuất hiện trên các công cụ tìm kiếm"
+          "_name": "Thẻ <meta> trong html dùng để cho trang web xuất hiện trên các công cụ tìm kiếm"
         }
       ]
     },
@@ -224,7 +232,7 @@
       "id": 7,
       "group": "HTML",
       "type": 0,
-      "title": "tác dụng của thẻ iframe",
+      "title": "Tác dụng của thẻ iframe trong HTML",
       "answer": [
         {
           "id": 1,
@@ -248,11 +256,11 @@
       "id": 8,
       "group": "HTML",
       "type": 1,
-      "title": "Mục đích của thuộc tính alt trong thẻ img?",
+      "title": "Thuộc tính alt trong thẻ img có tác dụng gì ?",
       "answer": [
         {
-          "_name": "Cung cấp thông tin về ảnh trong trường hợp người dùng không xem được ảnh",
-          "id": 1
+          "id": 1,
+          "_name": "Cung cấp thông tin về ảnh trong trường hợp người dùng không xem được ảnh"
         },
         {
           "id": 2,
@@ -263,8 +271,8 @@
           "_name": "Cung cấp thông tin phụ về ảnh khi nguời dùng xem ảnh"
         },
         {
-          "_name": "Cung cấp hiệu ứng khi người dùng không xem được ảnh",
-          "id": 4
+          "id": 4,
+          "_name": "Cung cấp hiệu ứng khi người dùng không xem được ảnh"
         }
       ]
     },
@@ -276,7 +284,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Hex (color: #FFFFFF) "
+          "_name": "tag( color :red)"
         },
         {
           "id": 2,
@@ -288,7 +296,7 @@
         },
         {
           "id": 4,
-          "_name": "tag( color :red)"
+          "_name": "Hex (color: #FFFFFF) "
         }
       ]
     },
@@ -300,11 +308,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": "ui,oi,dl,di"
+          "_name": "ul,ol,dl"
         },
         {
           "id": 2,
-          "_name": "ul,ol,dl"
+          "_name": "ui,oi,dl,di"
         },
         {
           "id": 3,
@@ -324,19 +332,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "2 thẻ có cách sử dụng và tác động giống nhau"
+          "_name": "Thẻ span là thẻ đặc biệt dùng để hiển thị kiểu văn bản đặc biệt ,còn div thì dùng để thể hiện các khối phần tử chính trong trang web"
         },
         {
           "id": 2,
-          "_name": "thẻ span là thẻ đặc biệt dùng để hiển thị liểu văn bản đặc biệt ,còn div thì dùng để thể hiện các khối phần tử chính trong trang web"
+          "_name": "2 thẻ có cách sử dụng và tác động giống nhau"
         },
         {
           "id": 3,
-          "_name": "span là thẻ tạo các khối phần tử trong trang web , còn div tạo các phần tử , vùng lớn trong trang web"
+          "_name": "Thẻ span là thẻ tạo các khối phần tử trong trang web, còn div tạo các phần tử, vùng lớn trong trang web"
         },
         {
           "id": 4,
-          "_name": "span thường được sử dụng để định dạng , css cho văn bản , hoặc sử lỹ mã js .Còn div thường được sử dụng để tạo các khối hoặc phần tử lớn trên trang web"
+          "_name": "Thẻ span thường được sử dụng để định dạng css cho văn bản hoặc sử lỹ mã js, còn div thường được sử dụng để tạo các khối hoặc phần tử lớn trên trang web"
         }
       ]
     },
@@ -344,11 +352,11 @@
       "id": 12,
       "group": "HTML",
       "type": 0,
-      "title": "CSS  có vai trò gì trong HTML?",
+      "title": "CSS có vai trò gì trong HTML?",
       "answer": [
         {
           "id": 1,
-          "_name": "CSS dùng để tạo tính tương tác với trang web"
+          "_name": "CSS dùng để định dạng và trình bày trang web"
         },
         {
           "id": 2,
@@ -356,7 +364,7 @@
         },
         {
           "id": 3,
-          "_name": "Css dùng để định dạng và trình bày trang web"
+          "_name": "CSS dùng để tạo tính tương tác với trang web"
         },
         {
           "id": 4,
@@ -368,7 +376,7 @@
       "id": 13,
       "group": "HTML",
       "type": 0,
-      "title": "Javascrip có vai trò gì trong HTMl",
+      "title": "Javascript có vai trò gì trong HTMl",
       "answer": [
         {
           "id": 1,
@@ -396,15 +404,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": "<table>,<tr>,<td>/<th>,</tr>,</table>"
+          "_name": "<table>:<tr>:<td>/<th>"
         },
         {
           "id": 2,
-          "_name": "<table>,<td>,<tr>/<th>,</td>,</table>"
+          "_name": "<table>:<td>:<tr>/<th>"
         },
         {
           "id": 3,
-          "_name": "<table>,<th>,<td>/<tr>,</th>,</table>"
+          "_name": "<table>:<th>:<td>/<tr>"
         }
       ]
     },
@@ -412,23 +420,31 @@
       "id": 15,
       "group": "HTML",
       "type": 1,
-      "title": "Để tạo một trang web có khả năng hoạt động offline sử dụng HTML5 có thể sử dụng tính năng nào",
+      "title": "Để tạo trang web có khả năng hoạt động ngoại tuyến (offline) trong HTML5 , có thể sử dụng tính năng nào sau đây",
       "answer": [
         {
-          "_name": "Application Cache",
-          "id": 1
+          "id": 1,
+          "_name": "Application Cache"
         },
         {
           "id": 2,
-          "_name": "Local Storage"
+          "_name": "Web Storage (localStorage và sessionStorage)"
         },
         {
           "id": 3,
-          "_name": "Session Storage"
+          "_name": "IndexedDB"
         },
         {
-          "_name": "Cookie",
-          "id": 4
+          "id": 4,
+          "_name": "Service Workers"
+        },
+        {
+          "id": 5,
+          "_name": "Websocket"
+        },
+        {
+          "id": 6,
+          "_name": "PWA"
         }
       ]
     },
@@ -464,11 +480,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Document Object Module"
+          "_name": "Document Object Model"
         },
         {
           "id": 2,
-          "_name": "Document Object Model"
+          "_name": "Document Object Module"
         },
         {
           "id": 3,
@@ -496,11 +512,11 @@
         },
         {
           "id": 3,
-          "_name": "Trang trí , thay đổi các phần tử trên 1 trang web"
+          "_name": "Trang trí, thay đổi các phần tử trên 1 trang web"
         },
         {
           "id": 4,
-          "_name": "Dùng cấu trúc , thay đổi các thành phần trên 1 trang web"
+          "_name": "Dùng cấu trúc, thay đổi các thành phần trên 1 trang web"
         }
       ]
     },
@@ -508,23 +524,23 @@
       "id": 19,
       "group": "HTML",
       "type": 0,
-      "title": "Cookies trong html có tác dụng gì",
+      "title": "Cookies trong HTML có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Lưu trữ thông tin trên máy tính người dùng"
+          "_name": "Lưu trữ thông tin trên máy tính của người dùng thông qua trình duyệt web"
         },
         {
           "id": 2,
-          "_name": "Lưu trữ thông tin người dùng trên máy tính"
+          "_name": "Lưu trữ thông tin người dùng trên máy tính thông qua API"
         },
         {
           "id": 3,
-          "_name": "Lưu trữ thông tin máy tính cho người dùng"
+          "_name": "Lưu trữ thông tin trên máy tính người dùng thông qua PWA"
         },
         {
           "id": 4,
-          "_name": "Lưu trữ thông tin người dùng và máy tính"
+          "_name": "Lưu trữ thông tin người dùng và máy tính vào API"
         }
       ]
     },
@@ -532,23 +548,23 @@
       "id": 20,
       "group": "HTML",
       "type": 0,
-      "title": "Session storage trong HTML5 có tác dụng gì",
+      "title": "SessionStorage trong HTML5 có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Lưu trữ dữ liệu tạm thời trên trình duyệt web của người dùng,"
+          "_name": "Lưu trữ dữ liệu tạm thời trên trình duyệt web của người dùng"
         },
         {
           "id": 2,
-          "_name": "Lưu trữ dữ liệu thông tin web trên máy người dùng người dùng,"
+          "_name": "Lưu trữ dữ liệu thông tin web trên máy người dùng người dùng"
         },
         {
           "id": 3,
-          "_name": "Lưu trữ thông tin người dùng trên web"
+          "_name": "Lưu trữ thông tin người dùng trên API"
         },
         {
           "id": 4,
-          "_name": "Lưu trữ dữ liệu người dùng đã bỏ"
+          "_name": "Lưu trữ dữ liệu người dùng đã xoá trên web"
         }
       ]
     },
@@ -560,19 +576,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Lưu trữ dữ liệu tạm thời trên trình duyệt web của người dùng,"
+          "_name": "Lưu trữ dữ liệu tạm thời trên trình duyệt web của người dùng"
         },
         {
           "id": 2,
-          "_name": "Lưu trữ dữ liệu thông tin web trên máy người dùng người dùng,"
+          "_name": "Lưu trữ dữ liệu thông tin web trên máy người dùng người dùng"
         },
         {
           "id": 3,
-          "_name": "Lưu trữ thông tin người dùng trên web"
+          "_name": "Lưu trữ thông tin người dùng trên API"
         },
         {
           "id": 4,
-          "_name": "Lưu trữ dữ liệu người dùng đã bỏ"
+          "_name": "Lưu trữ dữ liệu người dùng đã xoá trên web"
         }
       ]
     },
@@ -584,19 +600,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Là một phần của HTML và là một cơ chế cho phép bạn định nghĩa cấu trúc và nội dung của một phần của trang web mà bạn có thể sử dụng lại ở nhiều nơi hoặc trong nhiều trang khác nhau. Mẫu giúp bạn tạo ra cấu trúc giao diện cố định mà bạn có thể điền dữ liệu hoặc nội dung cụ thể vào khi trang web được tạo."
+          "_name": "Là một thẻ dùng để định nghĩa một mẫu hoặc một container cho các phần tử HTML "
         },
         {
           "id": 2,
-          "_name": "Là một phần của HTML và là một cơ chế cho phép bạn định nghĩa tác động và nội dung của một phần của trang web mà bạn có thể sử dụng lại ở nhiều nơi hoặc trong nhiều trang khác nhau. Mẫu giúp bạn tạo ra cấu trúc giao diện cố định mà bạn có thể điền dữ liệu hoặc nội dung cụ thể vào khi trang web được tạo."
+          "_name": "Là một thẻ thể hiện văn bản"
         },
         {
           "id": 3,
-          "_name": "Là một phần của HTML và là một cơ chế cho phép bạn sửa đổi một phần của trang web mà bạn có thể sử dụng lại ở nhiều nơi hoặc trong nhiều trang khác nhau. Mẫu giúp bạn tạo ra cấu trúc giao diện cố định mà bạn có thể điền dữ liệu hoặc nội dung cụ thể vào khi trang web được tạo."
+          "_name": "Là một thẻ thể hiện dữ liệu"
         },
         {
           "id": 4,
-          "_name": "Là một phần của HTML và là một cơ chế cho phép bạn sửa đổi một phần của trang web mà bạn có thể sử dụng lại ở nhiều nơi hoặc trong nhiều trang khác nhau. Mẫu giúp bạn tạo thay đổi các thành phần trên 1 trang web mà bạn có thể điền dữ liệu hoặc nội dung cụ thể vào khi trang web được tạo."
+          "_name": "Là một dùng để cấu trúc các phần tử HTML"
         }
       ]
     },
@@ -652,31 +668,23 @@
       "id": 25,
       "group": "HTML",
       "type": 0,
-      "title": "lý do tại sao Content Security Policy (CSP) trong HTML quan trọng.",
+      "title": "Thẻ dl có tác dụng gì trong HTML",
       "answer": [
         {
           "id": 1,
-          "_name": "Ngăn tấn công XSS"
+          "_name": "Thẻ xác định danh sách"
         },
         {
           "id": 2,
-          "_name": "Giảm nguy cơ tấn công từ bên ngoài "
+          "_name": "Thẻ tạo cột table"
         },
         {
           "id": 3,
-          "_name": "Bảo vệ tính toàn vẹn của tài nguyên và mã nguồn"
+          "_name": "Thẻ thể hiện tiêu đề"
         },
         {
           "id": 4,
-          "_name": "Đánh dấu sự không tuân thủ và cải thiện khả năng gỡ lỗi"
-        },
-        {
-          "id": 5,
-          "_name": "Tuân thủ quyền riêng tư và quy định pháp lý"
-        },
-        {
-          "id": 6,
-          "_name": "Tăng tương tác của người dùng với mã"
+          "_name": "Thẻ xác định dữ liệu"
         }
       ]
     },
@@ -684,47 +692,31 @@
       "id": 26,
       "group": "HTML",
       "type": 0,
-      "title": " khái niệm Cross-Origin Resource Sharing (CORS) trong HTML ",
+      "title": "Các thẻ inline là các thẻ như thế nào",
       "answer": [
         {
           "id": 1,
-          "_name": "là một cơ chế trong web development được sử dụng để quản lý quyền truy cập đối với các tài nguyên trên một trang web từ một nguồn gốc (origin) khác."
+          "_name": "Là các thẻ HTML được sử dụng để bao bọc các phần tử hoặc văn bản trong một hàng, và chúng không tạo ra một khối riêng biệt trên trang web"
         },
         {
           "id": 2,
-          "_name": "là một cơ chế trong web development được sử dụng để quản lý quyền sử dụng đối với các tài nguyên trên một trang web từ một nguồn gốc (origin) khác."
-        },
-        {
-          "id": 3,
-          "_name": "là một cơ chế trong web development được sử dụng để quản lý quyền thay đổi với các tài nguyên trên một trang web từ một nguồn gốc (origin) khác."
-        },
-        {
-          "id": 4,
-          "_name": "là một cơ chế trong web development được sử dụng để quản lý quyền đăng nhập đối với các tài nguyên trên một trang web từ một nguồn gốc (origin) khác."
+          "_name": "Là các thẻ HTML được sử dụng để định dạng và tạo cấu trúc cho nội dung trên trang web. Các thẻ block tạo ra các khối hoặc phần tử chứa"
         }
       ]
     },
     {
       "id": 27,
       "group": "HTML",
-      "type": 1,
-      "title": "Có mấy ấy loại thẻ tiêu đề bắt đầu bằng từ h",
+      "type": 0,
+      "title": "Các thẻ block là các thẻ như thế nào",
       "answer": [
         {
           "id": 1,
-          "_name": "6"
+          "_name": "Là các thẻ HTML được sử dụng để định dạng và tạo cấu trúc cho nội dung trên trang web. Các thẻ block tạo ra các khối hoặc phần tử chứa"
         },
         {
           "id": 2,
-          "_name": "5"
-        },
-        {
-          "id": 3,
-          "_name": "4"
-        },
-        {
-          "id": 4,
-          "_name": "3"
+          "_name": "Là các thẻ HTML được sử dụng để bao bọc các phần tử hoặc văn bản trong một hàng, và chúng không tạo ra một khối riêng biệt trên trang web"
         }
       ]
     },
@@ -736,7 +728,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Là một tính năng trong HTML5 và JavaScript cho phép bạn thực thi mã JavaScript trong một tiến trình nền (background thread) riêng biệt, không gây ảnh hưởng đến luồng chính (main thread) của trình duyệt web"
+          "_name": "Là một tính năng trong HTML5 và JavaScript cho phép bạn thực thi mã JavaScript trong một tiến trình nền (background thread) riêng biệt, độc lập không gây ảnh hưởng đến luồng chính (main thread) của trình duyệt web"
         },
         {
           "id": 2,
@@ -760,19 +752,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "liên kết bằng thẻ"
+          "_name": "Trỏ đến một tệp JS bên ngoài bằng thuộc tính src trong thẻ script"
         },
         {
           "id": 2,
-          "_name": "viết trong cặp thẻ script"
+          "_name": "Nhúng trực tiếp trong tài liệu HTML cặp thẻ script"
         },
         {
           "id": 3,
-          "_name": "viết trực tiếp vào trong cặp ngoặc {{}}"
+          "_name": "Sử dụng sự kiện HTML "
         },
         {
           "id": 4,
-          "_name": "viết trực tiếp vào trong cặp ngoặc {}"
+          "_name": "Viết trực tiếp vào trong ``"
         }
       ]
     },
@@ -780,23 +772,23 @@
       "id": 30,
       "group": "HTML",
       "type": 0,
-      "title": "Web sockets trong HTML là gì",
+      "title": "WebSocket trong HTML là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một công nghệ trong HTML và JavaScript cho phép trình duyệt và máy chủ thiết lập một kết nối hai chiều đồng thời  để trao đổi dữ liệu trong thời gian thực qua mạng Internet"
+          "_name": "WebSocket là một giao thức mạng được sử dụng để thiết lập kết nối hai chiều và liên tục giữa một máy chủ và một máy khách (client) qua một kết nối TCP duy trì"
         },
         {
           "id": 2,
-          "_name": "là một công nghệ trong HTML và JavaScript cho phép trình duyệt và máy chủ thiết lập một kết nối một chiều riêng biệt để trao đổi dữ liệu trong thời gian thực qua mạng Internet"
+          "_name": "WebSocket là một giao thức mạng được sử dụng để thiết lập kết nối 1 chiều và liên tục giữa một máy chủ và một máy khách (client) qua một kết nối TCP duy trì"
         },
         {
           "id": 3,
-          "_name": "là một công nghệ trong HTML cho phép trình duyệt và máy chủ thiết lập một kết nối hai chiều đồng thời để trao đổi dữ liệu trong thời gian thực qua mạng Internet"
+          "_name": "WebSocket là một giao thức mạng được sử dụng để thiết lập kết nối hai chiều và khi cần sẽ gọi giữa một máy chủ và một máy khách (client) qua một kết nối TCP duy trì"
         },
         {
           "id": 4,
-          "_name": "là một công nghệ trong  JavaScript cho phép trình duyệt và máy chủ thiết lập một kết nối một chiều để trao đổi dữ liệu trong thời gian thực qua mạng Internet"
+          "_name": "WebSocket là một giao thức mạng được sử dụng để thiết lập kết nối hai chiều và liên tục giữa một máy chủ và một máy khách (client) qua các kết nối TCP duy trì"
         }
       ]
     },
@@ -804,7 +796,7 @@
       "id": 31,
       "group": "HTML",
       "type": 0,
-      "title": "Có phải các thẻ và các phần tử HTML là một và cùng một thứ không?",
+      "title": "Có phải các thẻ và các phần tử HTML là một hay không?",
       "answer": [
         {
           "id": 1,
@@ -820,7 +812,7 @@
       "id": 32,
       "group": "HTML",
       "type": 1,
-      "title": "Các thẻ section , header, footer có tác dụng gì quan trọng ",
+      "title": "Các thẻ section , header, footer có tác dụng gì quan trọng trong HTML ",
       "answer": [
         {
           "id": 1,
@@ -828,11 +820,11 @@
         },
         {
           "id": 2,
-          "_name": "Là các thẻ thông thường chỉ để dễ nhìn khi chia bố cục"
+          "_name": "Là các thẻ hỗ trợ việc tối ưu hóa cho các công cụ tìm kiếm (SEO)."
         },
         {
           "id": 3,
-          "_name": "Là các thẻ hỗ trợ việc tối ưu hóa cho các công cụ tìm kiếm (SEO)."
+          "_name": "Là các thẻ thông thường chỉ để dễ nhìn khi chia bố cục"
         },
         {
           "id": 4,
@@ -843,24 +835,28 @@
     {
       "id": 33,
       "group": "HTML",
-      "type": 0,
-      "title": "Tags và Attributes trong HTML là gì ",
+      "type": 1,
+      "title": "Tags trong HTML là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Tags Là các phần tử sử dụng để đánh dấu và xác định cấu trúc và nội dung của trang web.Attributes là thông tin bổ sung được thêm vào các thẻ HTML để xác định hoặc điều chỉnh cách một thẻ hoạt động hoặc hiển thị"
+          "_name": "Là các phần tử đánh dấu được sử dụng để định dạng và cấu trúc nội dung trang web."
         },
         {
           "id": 2,
-          "_name": "Tags là thông tin bổ sung được thêm vào các thẻ HTML để xác định hoặc điều chỉnh cách một thẻ hoạt động hoặc hiển thị .Attributes là thông tin bổ sung được thêm vào các thẻ HTML để xác định hoặc điều chỉnh cách một thẻ hoạt động hoặc hiển thị"
+          "_name": "Mỗi thẻ HTML bắt đầu bằng dấu (<) và kết thúc bằng dấu (>)."
         },
         {
           "id": 3,
-          "_name": "Tags Là các phần tử sử dụng để đánh dấu và xác định hoạt động hoặc hiển thị của trang web.Attributes là thông tin bổ sung được thêm vào các thẻ HTML để xác định hoặc điều chỉnh cách một thẻ cấu trúc và nội dung thẻ"
+          "_name": "Thẻ thường đi cùng với các thuộc tính để xác định các đặc tính và hành vi của phần tử"
         },
         {
           "id": 4,
-          "_name": "Tags là thông tin bổ sung được thêm vào các thẻ HTML để đánh dấu và xác định cấu trúc và nội dung của trang web.Attributes Là các phần tử sử dụng để xác định hoặc điều chỉnh cách một thẻ hoạt động hoặc hiển thị"
+          "_name": "Thể hiện cách trang trí của trang web"
+        },
+        {
+          "id": 5,
+          "_name": "Được sử dụng để cung cấp thông tin bổ sung hoặc xác định cách một phần tử hoặc thẻ HTML hoạt động"
         }
       ]
     },
@@ -872,11 +868,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": "1"
+          "_name": "2"
         },
         {
           "id": 2,
-          "_name": "2"
+          "_name": "1"
         },
         {
           "id": 3,
@@ -891,24 +887,24 @@
     {
       "id": 35,
       "group": "HTML",
-      "type": 1,
-      "title": "sai về Progressive Web Apps (PWA)",
+      "type": 0,
+      "title": "Các attributes trong HTML có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một dạng của ứng dụng web tiến bộ (web application) mà kết hợp các tính năng của ứng dụng di động và trình duyệt web"
+          "_name": "Được sử dụng để cung cấp thông tin bổ sung hoặc xác định cách một phần tử hoặc thẻ HTML hoạt động"
         },
         {
           "id": 2,
-          "_name": "PWAs được thiết kế để cung cấp trải nghiệm người dùng tốt hơn và có khả năng hoạt động trên mọi nền tảng, bao gồm máy tính, điện thoại di động và máy tính bảng."
+          "_name": "Là các phần tử đánh dấu được sử dụng để định dạng và cấu trúc nội dung trang web."
         },
         {
           "id": 3,
-          "_name": "là dạng web offline, có thể sử dụng một số chức năng khi không có mạng"
+          "_name": "Được sử dụng để cung cấp cho việc cung cấp tìm kiếm"
         },
         {
           "id": 4,
-          "_name": "là một dạng ứng dụng web đặc biệt , kiểu mới"
+          "_name": "Được sử dụng để tạo điểm nhấn cho thẻ nó kết hợp"
         }
       ]
     },
@@ -916,11 +912,12 @@
       "id": 36,
       "group": "HTML",
       "type": 1,
-      "title": "Lợi ích của việc thu gọn khoảng trắng trong HTML là gì?",
+      "title": "Chọn câu sai khi nói về lợi ích của việc thu gọn khoảng trắng trong HTML là gì?",
       "answer": [
         {
           "id": 1,
-          "_name": "Tăng tốc tải trang"
+          "_name": "Tăng tính liên kết giữa các thẻ"
+
         },
         {
           "id": 2,
@@ -928,15 +925,19 @@
         },
         {
           "id": 3,
-          "_name": "Cải thiện SEO"
+          "_name": "Tăng độ đọc mã nguồn"
         },
         {
           "id": 4,
-          "_name": "Dễ đọc mã nguồn"
+          "_name": "Tối ưu hóa SEO"
         },
         {
           "id": 5,
-          "_name": "Tăng tính liên kết giư các thẻ"
+          "_name": "Hỗ trợ thiết bị di động"
+        },
+        {
+          "id": 6,
+          "_name": "Tăng tốc tải trang"
         }
       ]
     },
@@ -948,11 +949,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": "id được sử dụng để xác định một phần tử duy nhất .class được sử dụng để áp dụng các kiểu CSS cho một hoặc nhiều phần tử trên trang web"
+          "_name": "Id được sử dụng để xác định một phần tử duy nhất. Class được sử dụng để áp dụng các kiểu CSS cho một hoặc nhiều phần tử trên trang web"
         },
         {
           "id": 2,
-          "_name": "id được sử dụng để áp dụng các kiểu CSS cho một hoặc nhiều phần tử trên trang web. class  được sử dụng để xác định một phần tử duy nhất"
+          "_name": "Id được sử dụng để áp dụng các kiểu CSS cho một hoặc nhiều phần tử trên trang web. Class được sử dụng để xác định một phần tử duy nhất"
         },
         {
           "id": 3,
@@ -963,24 +964,28 @@
     {
       "id": 38,
       "group": "HTML",
-      "type": 0,
-      "title": "Các cách nhúng CSS trong trang web",
+      "type": 1,
+      "title": "Các cách nhúng CSS trong HTML",
       "answer": [
         {
           "id": 1,
-          "_name": "Dùng thẻ để link file bên ngoài"
+          "_name": "Nội tuyến (inline CSS)"
         },
         {
           "id": 2,
-          "_name": "viết trong cặp ngoặc style"
+          "_name": "Liên kết bằng thuộc tính src của thẻ Link"
         },
         {
           "id": 3,
-          "_name": "biết inline trên phần tử"
+          "_name": "Nhúng CSS bên trong văn bản HTML bằng cặp thẻ style"
         },
         {
           "id": 4,
           "_name": "Viết trong các tags"
+        },
+        {
+          "id": 5,
+          "_name": "Nhúng CSS bên trong văn bản HTML bằng cặp thẻ script"
         }
       ]
     },
@@ -988,23 +993,23 @@
       "id": 39,
       "group": "HTML",
       "type": 0,
-      "title": "HTML Entities là gì? ",
+      "title": "Chọn câu sai khi nói về HTML Entities",
       "answer": [
         {
           "id": 1,
-          "_name": "là các chuỗi ký tự đặc biệt được sử dụng trong mã nguồn HTML để biểu diễn các ký tự đặc biệt hoặc ký tự có ý nghĩa trong HTML. Các HTML Entities thường bắt đầu bằng ký tự \"&\" và kết thúc bằng ký tự \";\"."
+          "_name": "là một cách để biểu thị các ký tự đặc biệt và các ký tự không thể hiện trực tiếp trong mã HTML mà thay vào đó được sử dụng cho các mục đích khác nhau."
         },
         {
           "id": 2,
-          "_name": "là các chuỗi ký tự đặc biệt được sử dụng trong mã nguồn HTML để biểu diễn các kiểu văn bản đặc biệt trong HTML. Các HTML Entities thường bắt đầu bằng ký tự \"&\" và kết thúc bằng ký tự \";\"."
+          "_name": "Các HTML Entities bao gồm một ký tự đặc biệt (thường là dấu & sau đó là tên hoặc mã số) để biểu thị ký tự tương ứng."
         },
         {
           "id": 3,
-          "_name": "là các chuỗi ký tự đặc biệt được sử dụng trong mã nguồn HTML để biểu diễn các thẻ đặc biệt trong HTML. Các HTML Entities thường bắt đầu bằng ký tự \"&\" và kết thúc bằng ký tự \";\"."
+          "_name": "Được sử dụng để biểu thị các ký tự Unicode và các biểu tượng đặc biệt khác mà không có mã ASCII tương ứng"
         },
         {
           "id": 4,
-          "_name": "là các chuỗi ký tự đặc biệt được sử dụng trong mã nguồn HTML để biểu diễn các thành phần đặc biệt trong HTML. Các HTML Entities thường bắt đầu bằng ký tự \"&\" và kết thúc bằng ký tự \";\"."
+          "_name": "Là một cách để biểu thị các ký tự đặc biệt và các ký tự không thể hiện trực tiếp trong mã HTML mà thay vào đó được sử dụng cho các mục đích khác nhau."
         }
       ]
     },
@@ -1036,7 +1041,7 @@
       "id": 41,
       "group": "HTML",
       "type": 0,
-      "title": "Chọn thẻ có tiêu đề lơn nhất",
+      "title": "Chọn thẻ có tiêu đề lớn nhất",
       "answer": [
         {
           "id": 1,
@@ -1088,7 +1093,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": "<list>"
+          "_name": "<select>"
         },
         {
           "id": 2,
@@ -1096,7 +1101,7 @@
         },
         {
           "id": 3,
-          "_name": "<select>"
+          "_name": "<list>"
         },
         {
           "id": 4,
@@ -1110,7 +1115,7 @@
       "id": 0,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -1118,6 +1123,8 @@
       "id": 1,
       "answer": [
         {
+          "id": 4
+        },{
           "id": 7
         }
       ]
@@ -1126,7 +1133,11 @@
       "id": 2,
       "answer": [
         {
-          "id": 5
+          "id": 1
+        },{
+          "id": 2
+        },{
+          "id": 4
         }
       ]
     },
@@ -1151,10 +1162,10 @@
           "id": 1
         },
         {
-          "id": 2
+          "id": 4
         },
         {
-          "id": 3
+          "id": 5
         }
       ]
     },
@@ -1166,6 +1177,9 @@
         },
         {
           "id": 10
+        },
+        {
+          "id": 11
         }
       ]
     },
@@ -1174,9 +1188,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
         }
       ]
     },
@@ -1200,7 +1211,7 @@
       "id": 9,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -1208,7 +1219,7 @@
       "id": 10,
       "answer": [
         {
-          "id": 2
+          "id": 1
         }
       ]
     },
@@ -1224,7 +1235,7 @@
       "id": 12,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -1232,7 +1243,7 @@
       "id": 13,
       "answer": [
         {
-          "id": 5
+          "id": 1
         }
       ]
     },
@@ -1240,13 +1251,7 @@
       "id": 14,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -1261,6 +1266,9 @@
         },
         {
           "id": 3
+        },
+        {
+          "id": 4
         }
       ]
     },
@@ -1268,10 +1276,7 @@
       "id": 16,
       "answer": [
         {
-          "id": 9
-        },
-        {
-          "id": 10
+          "id": 1
         }
       ]
     },
@@ -1280,9 +1285,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
         }
       ]
     },
@@ -1306,7 +1308,7 @@
       "id": 20,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -1314,7 +1316,7 @@
       "id": 21,
       "answer": [
         {
-          "id": 2
+          "id": 1
         }
       ]
     },
@@ -1322,7 +1324,7 @@
       "id": 22,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -1330,7 +1332,7 @@
       "id": 23,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -1338,7 +1340,7 @@
       "id": 24,
       "answer": [
         {
-          "id": 5
+          "id": 1
         }
       ]
     },
@@ -1346,18 +1348,36 @@
       "id": 25,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
     {
       "id": 26,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 29,
       "answer": [
         {
           "id": 1
@@ -1367,36 +1387,6 @@
         },
         {
           "id": 3
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "answer": [
-        {
-          "id": 9
-        },
-        {
-          "id": 10
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "answer": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "answer": [
-        {
-          "id": 1
         }
       ]
     },
@@ -1412,13 +1402,15 @@
       "id": 31,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
     {
       "id": 32,
-      "answer": [
+      "answer": [ {
+        "id": 1
+      },
         {
           "id": 2
         }
@@ -1428,7 +1420,11 @@
       "id": 33,
       "answer": [
         {
-          "id": 4
+          "id": 1
+        },  {
+          "id": 2
+        },  {
+          "id": 3
         }
       ]
     },
@@ -1436,7 +1432,7 @@
       "id": 34,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -1444,7 +1440,7 @@
       "id": 35,
       "answer": [
         {
-          "id": 5
+          "id": 1
         }
       ]
     },
@@ -1452,13 +1448,7 @@
       "id": 36,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -1467,12 +1457,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -1480,10 +1464,11 @@
       "id": 38,
       "answer": [
         {
-          "id": 9
-        },
-        {
-          "id": 10
+          "id": 1
+        },{
+          "id": 2
+        },{
+          "id": 3
         }
       ]
     },
@@ -1530,6 +1515,5 @@
         }
       ]
     }
-  ],
-  "question2 ": []
+  ]
 }

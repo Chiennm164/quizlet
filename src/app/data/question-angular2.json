@@ -8,31 +8,31 @@
       "answer": [
         {
           "id": 1,
-          "_name": "là một framework phát triển ứng dụng web đa năng được phát triển bởi Google"
+          "_name": "Là một framework phát triển ứng dụng web đa năng được phát triển bởi Google"
         },
         {
           "id": 2,
-          "_name": "là một phần của dự án Open Source, và được sử dụng rộng rãi để xây dựng ứng dụng web động"
+          "_name": "Là một phần của dự án Open Source, và được sử dụng rộng rãi để xây dựng ứng dụng web động"
         },
         {
           "id": 3,
-          "_name": "sử dụng TypeScript làm ngôn ngữ lập trình chính"
+          "_name": "Angular sử dụng TypeScript làm ngôn ngữ lập trình chính"
         },
         {
           "id": 4,
-          "_name": "là fw Phát triển đa nền tảng"
+          "_name": "Là framework phát triển đa nền tảng"
         },
         {
           "id": 5,
-          "_name": "là fw phát triển MPA"
+          "_name": "Là framework phát triển MPA"
         },
         {
           "id": 6,
-          "_name": "là fw phát triển SPA"
+          "_name": "Là framework phát triển SPA"
         },
         {
           "id": 7,
-          "_name": "là fw chỉ phát triển trên nền tảng web"
+          "_name": "Là framework chỉ phát triển trên nền tảng web"
         }
       ]
     },
@@ -60,11 +60,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": "là một công cụ dòng lệnh được cung cấp bởi Angular để tạo, quản lý và triển khai các dự án Angular"
+          "_name": "Là một công cụ dòng lệnh được cung cấp bởi Angular để tạo, quản lý và triển khai các dự án Angular"
         },
         {
           "id": 2,
-          "_name": "giúp đơn giản hóa quá trình phát triển ứng dụng Angular bằng cách cung cấp một loạt các lệnh dễ sử dụng để thực hiện các tác vụ phổ biến"
+          "_name": "Giúp đơn giản hóa quá trình phát triển ứng dụng Angular bằng cách cung cấp một loạt các lệnh dễ sử dụng để thực hiện các tác vụ phổ biến"
         },
         {
           "id": 3,
@@ -148,7 +148,7 @@
       "id": 5,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "vòng đời chính trong angular",
+      "title": "Vòng đời chính trong angular",
       "answer": [
         {
           "id": 1,
@@ -215,20 +215,20 @@
     {
       "id": 7,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "sự khác nhau giữa *ngIf và [hide]",
+      "type": 1,
+      "title": "Sự khác nhau giữa *ngIf và [hide]",
       "answer": [
         {
           "id": 1,
-          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo bên trong một hàm"
+          "_name": "*ngIf là một cú pháp cấu trúc được sử dụng trong Angular , [hidden] là một thuộc tính HTML "
         },
         {
           "id": 2,
-          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên trên một hàm"
+          "_name": "*ngIf phần tử sẽ được thêm vào DOM và hiển thị hoặc ẩn đi hoàn toàn ,[hidden]phần tử sẽ được ẩn trong DOM, nhưng vẫn tồn tại trong cây DOM."
         },
         {
           "id": 3,
-          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên dưới một hàm"
+          "_name": "*ngIf và [hidden] chỉ khác nhau cách gọi"
         }
       ]
     },
@@ -236,23 +236,19 @@
       "id": 8,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "observable là gì",
+      "title": "Observable là gì",
       "answer": [
         {
           "id": 1,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+          "_name": "Observable là một kiểu dữ liệu hoặc một đối tượng có khả năng theo dõi và phát ra các sự kiện, dữ liệu, hoặc giá trị theo thời gian. "
         },
         {
           "id": 2,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+          "_name": "Observable được sử dụng để xử lý các tác vụ liên quan đến luồng dữ liệu và xử lý bất đồng bộ trong ứng dụng web."
         },
         {
           "id": 3,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
-        },
-        {
-          "id": 4,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+          "_name": "Observable là một cơ chế để xử lý các tác vụ bất đồng bộ (asynchronous) một cách dễ đọc và hiệu quả hơn"
         }
       ]
     },
@@ -264,19 +260,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Là một kiểu định dạng dữ liệu"
+          "_name": "Một thư viện JavaScript mạnh mẽ dùng để xử lý luồng dữ liệu và sự kiện "
         },
         {
           "id": 2,
-          "_name": "Là một phương thức"
+          "_name": "Xử lý sự kiện bất đồng bộ RxJS giúp bạn quản lý và xử lý sự kiện và luồng dữ liệu bất đồng bộ trong ứng dụng web"
         },
         {
           "id": 3,
-          "_name": "Là một đối tượng"
+          "_name": "Lọc và biến đổi dữ liệu ,  tạo ra luồng dữ liệu mới dựa trên luồng dữ liệu gốc bằng các toán tử trong RxJS"
         },
         {
           "id": 4,
-          "_name": "Là một thuộc tính"
+          "_name": "Có 3 trạng thái Pending , Fulfilled, Rejected"
         }
       ]
     },
@@ -284,31 +280,35 @@
       "id": 10,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "từ khoá async có tác dụng gì",
+      "title": "Từ khoá async có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Để chuyển từ JSON sang một đối tượng JS"
+          "_name": "Định nghĩa một hàm bất đồng bộ ,nó cho phép hàm đó thực hiện các tác vụ bất đồng bộ mà không chặn luồng chính của ứng dụng"
         },
         {
           "id": 2,
-          "_name": "Để chuyển từ một đối tượng JS sang JSON"
+          "_name": "Định nghĩa một hàm bất đồng bộ ,nó buộc hàm đó phải thực hiện xong rồi ms xử lý các tác vụ khác"
         }
       ]
     },
     {
       "id": 11,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": " từ khoá await có tác dụng gì",
+      "type": 1,
+      "title": "Từ khoá await trong angular",
       "answer": [
         {
           "id": 1,
-          "_name": "Để chuyển từ một đối tượng JS sang JSON"
+          "_name": "Code của bạn sẽ tạm dừng tại đó cho đến khi tác vụ bất đồng bộ mà bạn đang đợi hoàn thành"
         },
         {
           "id": 2,
-          "_name": "Để chuyển từ JSON sang một đối tượng JS"
+          "_name": "Trả về kết quả tác vụ"
+        },
+        {
+          "id": 3,
+          "_name": "Sẽ bỏ qua đoạn code này , nó sẽ được đưa ra một luồng song song không ảnh hưởng tới luồng chính"
         }
       ]
     },
@@ -316,39 +316,63 @@
       "id": 12,
       "group": "ANGULAR2",
       "type": 1,
-      "title": "có mấy loại directive ",
+      "title": "Có mấy loại directive ",
       "answer": [
         {
           "id": 1,
-          "_name": "Sử dụng index( chỉ số của mảng)"
+          "_name": "3 loại ( Built-in Directives , Custom Directives ,Attribute Directives with Template )"
         },
         {
           "id": 2,
-          "_name": " Sử dụng các phương thức mảng"
+          "_name": "2 loại ( Built-in Directives , Custom Directives )"
         },
         {
           "id": 3,
-          "_name": "Sử dụng vòng lặp"
-        },
-        {
-          "id": 4,
-          "_name": "Sử dụng key"
+          "_name": "1 loại ( Built-in Directives )"
         }
       ]
     },
     {
       "id": 13,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "có mấy cách truyền dữ liệu giữa các component",
+      "type": 1,
+      "title": "Các kiểu truyền dữ liệu thường gặp là ",
       "answer": [
         {
           "id": 1,
-          "_name": "Đúng"
+          "_name": "@Input"
         },
         {
           "id": 2,
-          "_name": "Sai"
+          "_name": "@Output và EventEmitter"
+        },
+        {
+          "id": 3,
+          "_name": "Service"
+        },
+        {
+          "id": 4,
+          "_name": "Router param"
+        },
+        {
+          "id": 5,
+          "_name": "State Management Library"
+        },
+        {
+          "id": 6,
+          "_name": "ViewChild và ViewChildren"
+        },
+        {
+          "id": 7,
+          "_name": "BehaviorSubject/ Subject"
+        },
+        {
+          "id": 8,
+          "_name": "LocalStorage"
+        },
+        {
+          "id": 9,
+          "_name": "SessionStorage"
         }
       ]
     },
@@ -356,31 +380,59 @@
       "id": 14,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "pipe là gì ?",
+      "title": "Pipe là gì ?",
       "answer": [
         {
           "id": 1,
-          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà không chờ đợi một tác vụ khác hoàn thành trước."
+          "_name": "Là một tính năng giúp biến đổi dữ liệu hiển thị trong template của bạn trước khi nó được hiển thị cho người dùng."
         },
         {
           "id": 2,
-          "_name": " một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
+          "_name": "Là một kiểu Custom Directives"
+        },
+        {
+          "id": 3,
+          "_name": "Là một kiểu chuyển đổi ký tự được tích hợp vào angular"
         }
       ]
     },
     {
       "id": 15,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "so sánh  promise vs observable",
+      "type": 1,
+      "title": "So sánh  promise vs observable",
       "answer": [
         {
           "id": 1,
-          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
+          "_name": "Promise là một cơ chế cho phép bạn xử lý một giá trị hoặc lỗi một lần( resolve /reject ).Observable là một chuỗi sự kiện hoặc giá trị được phát ra qua thời gian, có thể phát ra nhiều giá trị và hoàn thành hoặc gặp lỗi nhiều lần."
         },
         {
           "id": 2,
-          "_name": "là một khái niệm để chỉ việc thực hiện các tác vụ mà không chờ đợi một tác vụ khác hoàn thành trước."
+          "_name": "Promise chỉ có thể trả về một giá trị hoặc lỗi duy nhất , Observable có thể phát ra nhiều giá trị trong thời gian, chẳng hạn như một dãy sự kiện."
+        },
+        {
+          "id": 3,
+          "_name": "Observable có hai loại: hot và cold ,cold Observable bắt đầu chạy khi bạn subscribe, trong khi Hot Observable có thể chạy ngay cả khi không có ai subscribe.Còn Promise không có"
+        },
+        {
+          "id": 4,
+          "_name": "Promise sử dụng cho các tác vụ bất đồng bộ đơn giản hoặc khi bạn chỉ cần kết quả một lần. Sử dụng cho các tác vụ bất đồng bộ phức tạp, xử lý luồng dữ liệu realtime, hoặc tương tác với các sự kiện như DOM events hoặc WebSocket."
+        },
+        {
+          "id": 5,
+          "_name": "Promise sử dụng .catch() hoặc try...catch để xử lý lỗi.Observable: sử dụng operator .catch() hoặc .subscribe() với hàm error callback để xử lý lỗi."
+        },
+        {
+          "id": 6,
+          "_name": "Promise không hỗ trợ hủy đăng ký.Observable có thể hủy đăng ký bằng cách sử dụng hàm unsubscribe()."
+        },
+        {
+          "id": 7,
+          "_name": "Promise không cung cấp khả năng xử lý các sự kiện trong khoảng thời gian dài.Observable có thể thực hiện xử lý theo thời gian với các operator như interval, timer, debounceTime, v.v."
+        },
+        {
+          "id": 8,
+          "_name": "Promise có khả năng xử lý tác vụ bất đồng bộ lớn hơn Observable"
         }
       ]
     },
@@ -388,23 +440,19 @@
       "id": 16,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "so sánh BehaviorSubject vs Subject",
+      "title": "So sánh BehaviorSubject vs Subject",
       "answer": [
         {
           "id": 1,
-          "_name": "undefined thường được biểu thị là không xác định còn null thường được biểu thị là rỗng"
+          "_name": "BehaviorSubject luôn có giá trị ban đầu và cho phép bạn theo dõi trạng thái hiện tại, trong khi Subject bắt đầu mà không có giá trị ban đầu và chỉ truyền dữ liệu mới"
         },
         {
           "id": 2,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng tự động phù hợp kích thước khác nhau, nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
+          "_name": "BehaviorSubject là loại subject đặc biệt không thể subscribe"
         },
         {
           "id": 3,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng chủ động thay đổi cấu trúc , thành phần  nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
-        },
-        {
-          "id": 4,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng người dùng tự chọn cách hiển thị cho các thiết bị có kích thước khác nhau, nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
+          "_name": "Subject có thể đưa dữ kiệu thông qua next() , BehaviorSubject chỉ có thể gọi qua các phương thức có sẵn"
         }
       ]
     },
@@ -416,19 +464,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": "2015"
+          "_name": "Là một cách để cung cấp các phụ thuộc (dependencies) cho một đối tượng (object) mà nó cần để hoạt động, thay vì đối tượng đó tự tạo ra hoặc quản lý các phụ thuộc của mình"
         },
         {
           "id": 2,
-          "_name": "2016"
+          "_name": "Là một cách để cung cấp các thuộc tính cho một đối tượng (object) mà nó cần để hoạt động, thay vì đối tượng đó tự tạo ra hoặc quản lý các phụ thuộc của mình"
         },
         {
           "id": 3,
-          "_name": "2017"
-        },
-        {
-          "id": 4,
-          "_name": "2014"
+          "_name": "Là một cách để cung cấp các phương thức cho một đối tượng (object) mà nó cần để hoạt động, thay vì đối tượng đó tự tạo ra hoặc quản lý các phụ thuộc của mình"
         }
       ]
     },
@@ -440,19 +484,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "cho phép bạn rải các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
+          "_name": ""
         },
         {
           "id": 2,
-          "_name": "cho phép bạn nối các phần tử của một mảng hoặc các thuộc tính của một đối tượng với một đối tượng khác"
+          "_name": ""
         },
         {
           "id": 3,
-          "_name": "cho phép bạn xoá các phần tử của một mảng hoặc các thuộc tính của một đối tượng trong một đối tượng khác"
+          "_name": ""
         },
         {
           "id": 4,
-          "_name": "cho phép bạn gom các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
+          "_name": ""
         }
       ]
     },
@@ -464,19 +508,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "cho phép bạn gom các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
+          "_name": ""
         },
         {
           "id": 2,
-          "_name": "cho phép bạn nối các phần tử của một mảng hoặc các thuộc tính của một đối tượng với một đối tượng khác"
+          "_name": ""
         },
         {
           "id": 3,
-          "_name": "cho phép bạn xoá các phần tử của một mảng hoặc các thuộc tính của một đối tượng trong một đối tượng khác"
+          "_name": ""
         },
         {
           "id": 4,
-          "_name": "cho phép bạn rải các phần tử của một mảng hoặc các thuộc tính của một đối tượng vào một vị trí mới."
+          "_name": ""
         }
       ]
     },
@@ -488,27 +532,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": "declare"
+          "_name": "là một thành phần của framework, cho phép bạn mở rộng và kiểm soát DOM trong ứng dụng web"
         },
         {
           "id": 2,
-          "_name": "hoisting"
+          "_name": "là một thành phần của framework, cho phép bạn trang trí ,tăng trải trải ngiệm người dùng"
         },
         {
           "id": 3,
-          "_name": "scope"
-        },
-        {
-          "id": 4,
-          "_name": "return"
-        },
-        {
-          "id": 5,
-          "_name": "param"
-        },
-        {
-          "id": 6,
-          "_name": "argument"
+          "_name": "là một thành phần của framework, cho phép bạn truyền dữ liệu giữa các component"
         }
       ]
     },
@@ -516,23 +548,23 @@
       "id": 21,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "ngOnChanges() có chuc nang gì",
+      "title": "ngOnChanges() có chắc năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "là một công cụ cho việc thiết kế trang web có khả năng tương thích màn hình"
+          "_name": "Lifecycle hook này được sử dụng để theo dõi và xử lý sự thay đổi của các Input properties trong một component."
         },
         {
           "id": 2,
-          "_name": "là một công cụ cho việc ghi đè các ANGULAR2 khác"
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
         },
         {
           "id": 3,
-          "_name": "là một công cụ hỗ trợ người dùng tuỳ chỉnh phần tử HTML"
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
         },
         {
           "id": 4,
-          "_name": "là một công cụ cho việc sử dụng ANGULAR2 trong HTML"
+          "_name": "Quản lý tài nguyên và dọn dẹp sau khi component hoàn thành vòng đời của nó"
         }
       ]
     },
@@ -544,19 +576,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "đối tượng window "
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
         },
         {
           "id": 2,
-          "_name": "trình duyệt"
+          "_name": "Lifecycle hook này được sử dụng để theo dõi và xử lý sự thay đổi của các Input properties trong một component."
         },
         {
           "id": 3,
-          "_name": "hàm gần ngay trên nó"
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
         },
         {
           "id": 4,
-          "_name": "đối tượng ngay trên nó"
+          "_name": "Quản lý tài nguyên và dọn dẹp sau khi component hoàn thành vòng đời của nó"
         }
       ]
     },
@@ -568,19 +600,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc nghiêm ngặt và kiểm tra lỗi."
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
         },
         {
           "id": 2,
-          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc về tên biến , hàm."
+          "_name": "Lifecycle hook này được sử dụng để theo dõi và xử lý sự thay đổi của các Input properties trong một component."
         },
         {
           "id": 3,
-          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc về đối tượng"
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
         },
         {
           "id": 4,
-          "_name": "một tính năng giúp bạn viết mã JavaScript an toàn hơn bằng việc áp đặt một số quy tắc về cách gọi hàm"
+          "_name": "Quản lý tài nguyên và dọn dẹp sau khi component hoàn thành vòng đời của nó"
         }
       ]
     },
@@ -592,23 +624,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Là một cơ chế để xử lý các tác vụ bất đồng bộ (asynchronous) một cách dễ đọc và hiệu quả hơn"
+          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 2,
-          "_name": "là một đối tượng đại diện cho một giá trị hoặc kết quả sẽ trả về trong tương lai từ một tác vụ bất đồng bộ"
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
         },
         {
           "id": 3,
-          "_name": "Có 3 trạng thái Pending , Fulfilled, Rejected"
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 4,
-          "_name": "Promise giải quyết ngay lập tức sau khi được tạo"
-        },
-        {
-          "id": 5,
-          "_name": "Promise ra đời thay thế hoàn toàn callback"
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         }
       ]
     },
@@ -620,15 +648,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "this là đối tượng nó dùng"
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
         },
         {
           "id": 2,
-          "_name": "this là đối tượng fn nó khai báo"
+          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 3,
-          "_name": "this là đối tượng window"
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
+        },
+        {
+          "id": 4,
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         }
       ]
     },
@@ -640,35 +672,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "0"
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         },
         {
           "id": 2,
-          "_name": "false"
+          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 3,
-          "_name": "chuôix rỗng"
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 4,
-          "_name": "NaN"
-        },
-        {
-          "id": 5,
-          "_name": "-0"
-        },
-        {
-          "id": 6,
-          "_name": "undefined"
-        },
-        {
-          "id": 7,
-          "_name": "null"
-        },
-        {
-          "id": 8,
-          "_name": "0n"
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
         }
       ]
     },
@@ -680,19 +696,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Nó có chức năng chính để kiểm tra và phản ứng khi có sự thay đổi trong view (giao diện người dùng) của một component sau mỗi lần kiểm tra và cập nhật view. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật view của component."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Nó được gọi sau khi Angular đã khởi tạo và liên kết dữ liệu đầu vào (Input) của một component và đã chèn nội dung (content) vào component, nhưng trước khi nội dung đó được hiển thị trên giao diện người dùng. Điều này cho phép bạn thực hiện các tác vụ sau khi dữ liệu và nội dung đã sẵn sàng trong component."
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Nó có chức năng quan trọng trong việc tương tác với và làm việc với DOM (Document Object Model) sau khi tất cả các view children của một component đã được khởi tạo và được thêm vào DOM. Lifecycle hook này được gọi sau khi Angular đã khởi tạo tất cả các view children, và bạn có thể yên tâm rằng DOM đã sẵn sàng cho tương tác."
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Nó có chức năng chính để theo dõi và phản ứng khi bất kỳ sự thay đổi nào xảy ra trong nội dung (content) của một component sau mỗi lần kiểm tra và cập nhật nội dung. Lifecycle hook này được gọi sau khi Angular đã kiểm tra và cập nhật nội dung của component."
         }
       ]
     },
@@ -704,67 +720,79 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Quản lý tài nguyên và dọn dẹp sau khi component hoàn thành vòng đời của nó"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Lifecycle hook này được sử dụng để theo dõi và xử lý sự thay đổi của các Input properties trong một component."
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Khởi tạo một component, dữ liệu, setup các thư viện bên ngoài, tích hợp với angular lifecycle"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Có tác dụng chủ yếu để kiểm tra sự thay đổi trong dữ liệu của component và thực hiện các hành động tương ứng,cho phép bạn kiểm soát tự động việc cập nhật giao diện người dùng khi có sự thay đổi trong dữ liệu của component( được gọi mỗi khi Angular kiểm tra sự thay đổi trong component và template)"
         }
       ]
     },
     {
       "id": 29,
       "group": "ANGULAR2",
-      "type": 0,
+      "type": 1,
       "title": "Tại sao chúng ta cần pha ngOnDestroy trong một component",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Huỷ đăng ký sự kiện"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Giải phóng bộ nhớ"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Hủy kết nỗi với services"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Hủy điều khiển timers và thời gian thực"
+        },
+        {
+          "id": 5,
+          "_name": "Huỷ các Input"
+        },
+        {
+          "id": 6,
+          "_name": "Huỷ các Output"
         }
       ]
     },
     {
       "id": 30,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Tại sao pha ngOnInit thường được sử dụng thay vì constructor trong Angular?",
+      "type": 1,
+      "title": "Tại sao ngOnInit thường được sử dụng thay vì constructor cho các tác vụ liên quan đến khởi tạo và cấu hình ban đầu của component ?",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Đảm bảo rằng các tài nguyên và dịch vụ đã được khởi tạo và sẵn sàng cho việc sử dụng."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Dependency Injection để khởi tạo và sử dụng các dịch vụ (service). Các dịch vụ này thường cần phải được khởi tạo sau khi Angular đã tạo instance của component"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Đọc các giá trị Input"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "ngOnInit là nơi thích hợp để thực hiện các tác vụ liên quan đến dữ liệu và giao diện người dùng"
+        },
+        {
+          "id": 5,
+          "_name": "Theo thứ tự của 1 vòng đời component"
         }
       ]
     },
@@ -776,43 +804,35 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà Angular sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Có tác dụng xác định cách giao diện người dùng sẽ hiển thị và hoạt động trong component đó."
         },
         {
           "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "cho phép bạn định nghĩa các kiểu CSS chỉ dùng riêng cho component đó, không ảnh hưởng đến các phần khác của ứng dụng."
         }
       ]
     },
     {
-      "id":32,
+      "id": 32,
       "group": "ANGULAR2",
       "type": 0,
       "title": "template trong @Component có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Có tác dụng xác định cách giao diện người dùng sẽ hiển thị và hoạt động trong component đó."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà Angular sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
         },
         {
           "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "cho phép bạn định nghĩa các kiểu CSS chỉ dùng riêng cho component đó, không ảnh hưởng đến các phần khác của ứng dụng."
         }
       ]
     },
@@ -824,19 +844,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "cho phép bạn định nghĩa các kiểu CSS chỉ dùng riêng cho component đó, không ảnh hưởng đến các phần khác của ứng dụng."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Có tác dụng xác định tên của thẻ HTML tùy chỉnh mà Angular sẽ sử dụng để hiển thị component đó trong giao diện người dùng."
         },
         {
           "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "Có tác dụng xác định cách giao diện người dùng sẽ hiển thị và hoạt động trong component đó."
         }
       ]
     },
@@ -848,19 +864,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để ghi đè kiểu CSS cho các phần tử con trong một component và tất cả các component con bên trong nó, bất kể cách chúng được encapsulate"
         },
         {
           "id": 2,
-          "_name": ""
-        },
-        {
-          "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để định dạng kiểu CSS cho chính component hiện tại. Nó cho phép bạn áp dụng kiểu CSS trực tiếp cho phần tử HTML mà component này được gắn vào."
         }
       ]
     },
@@ -872,19 +880,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để định dạng kiểu CSS cho chính component hiện tại. Nó cho phép bạn áp dụng kiểu CSS trực tiếp cho phần tử HTML mà component này được gắn vào."
         },
         {
           "id": 2,
-          "_name": ""
-        },
-        {
-          "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "là một pseudo-class trong CSS và được sử dụng trong Angular để ghi đè kiểu CSS cho các phần tử con trong một component và tất cả các component con bên trong nó, bất kể cách chúng được encapsulate"
         }
       ]
     },
@@ -896,7 +896,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "cho phép bạn tạo và quản lý các component trong ứng dụng một cách linh hoạt và động dựa trên dữ liệu hoặc sự kiện thời gian chạy"
         },
         {
           "id": 2,
@@ -992,67 +992,103 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Quản Lý Điều Hướng"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Lazy Loading"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Thiết Lập Động"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Chuyển Đổi Trang"
+        },
+        {
+          "id": 5,
+          "_name": "Truyền Tham Số"
+        },
+        {
+          "id": 6,
+          "_name": "Bảo Mật"
+        },
+        {
+          "id": 7,
+          "_name": "Định Tuyến Múltiple Outlet"
+        },
+        {
+          "id": 8,
+          "_name": "Điều Hướng Lùi Và Chuyển Tiếp"
+        },
+        {
+          "id": 9,
+          "_name": "Xử Lý Sự Kiện URL"
+        },
+        {
+          "id": 10,
+          "_name": "Phân Đoạn Đường Dẫn"
         }
       ]
     },
     {
       "id": 41,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Lazy loading có gì",
+      "type": 1,
+      "title": "Lazy loading là gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một kỹ thuật trong lập trình và phát triển web nhằm tối ưu hóa hiệu suất tải trang web hoặc ứng dụng"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Là giúp giảm thời gian tải trang và tiết kiệm băng thông mạng"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Thường được sử dụng trong phát triển web để cải thiện trải nghiệm người dùng và tối ưu hóa hiệu suất trang web"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Tài nguyên không được tải ngay lập tức khi người dùng truy cập trang web, mà thay vào đó, chúng sẽ chỉ được tải khi cần thiết."
+        },
+        {
+          "id": 5,
+          "_name": "Tài nguyên không được tải ngay lập tức khi người dùng truy cập trang web, mà thay vào đó, chúng sẽ chỉ được tải khi cần thiết."
+        },
+        {
+          "id": 6,
+          "_name": "Lazy loading chỉ áp dụng cho hình ảnh"
+        },
+        {
+          "id": 7,
+          "_name": "Lazy loading luôn là lựa chọn tốt cho mọi trang web"
+        },
+        {
+          "id": 8,
+          "_name": "Lazy loading là việc làm trang web chậm hơn"
         }
       ]
     },
     {
       "id": 42,
       "group": "ANGULAR2",
-      "type": 0,
+      "type": 1,
       "title": "Router Guard chức năng gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một tính năng của Angular Router được sử dụng để kiểm soát việc điều hướng trong ứng dụng web Angular."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Là một tính năng của Angular Router được sử dụng để kiểm soát việc một route có được truy cập hay không trong ứng dụng web Angular."
         },
         {
           "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "Là một tính năng của Angular Router được sử dụng để kiểm soát việc một route có được rời khỏi hay không trong ứng dụng web Angular."
         }
       ]
     },
@@ -1064,43 +1100,51 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "2"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "3"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "4"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "5"
         }
       ]
     },
     {
       "id": 44,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Các phương thức đẻ tạo một observable là gì",
+      "type": 1,
+      "title": "Các cách để tạo một observable là gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Sử dụng hàm Observable.create hoặc constructor Observable "
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": " of ,from ,interval,timer"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Sử dụng các sự kiện DOM(fromEvent )"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "Sử dụng HTTP requests (Bạn có thể tạo một Observable từ các HTTP requests sử dụng Angular's HttpClient hoặc thư viện HTTP khác.)"
+        },
+        {
+          "id": 5,
+          "_name": "Kết hợp Observable khác(merge, concat, map, filter) "
+        },
+        {
+          "id": 6,
+          "_name": "mapTo , reduce ,buffer"
         }
       ]
     },
@@ -1108,47 +1152,35 @@
       "id": 45,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "Rxxjs Pipeable Operators là gì",
+      "title": "Rxjs Pipeable  Operators là gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một function nó nhận đầu vào là một Observable và returns một Observable khác"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Là một loại toán tử được sử dụng để biến đổi dữ liệu trong một Observable thành dạng mới hoặc thực hiện các thao tác liên quan đến biến đổi dữ liệu"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Là một loại toán tử được sử dụng để lọc dữ liệu trong một Observable dựa trên một số điều kiện"
         },
         {
           "id": 4,
-          "_name": ""
+          "_name": "là một loại toán tử được sử dụng để kết hợp các Observable lại với nhau để tạo ra các Observable mới hoặc kết hợp dữ liệu từ nhiều Observable thành một dạng mới"
         }
       ]
     },
     {
       "id": 46,
       "group": "ANGULAR2",
-      "type": 0,
+      "type": 1,
       "title": "Rxjs Transformation Operators có các phương thức nào",
       "answer": [
         {
           "id": 1,
-          "_name": ""
-        },
-        {
-          "id": 2,
-          "_name": ""
-        },
-        {
-          "id": 3,
-          "_name": ""
-        },
-        {
-          "id": 4,
-          "_name": ""
+          "_name": "map : biến đổi mỗi giá trị trong Observable thành một giá trị mới "
         }
       ]
     },
@@ -1256,18 +1288,34 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một loại Observable đặc biệt có các tính năng động và có khả năng gửi và lắng nghe dữ liệu"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Một Subject có thể được coi như một bộ định tuyến cho dữ liệu, cho phép nhiều Observable đăng ký để lắng nghe và nhận thông báo khi có sự thay đổi trong dữ liệu. "
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Subject thường được sử dụng để chia sẻ trạng thái hoặc dữ liệu trên toàn bộ ứng dụng. Điều này thích hợp cho việc quản lý trạng thái và tương tác giữa các phần của ứng dụng."
         },
         {
           "id": 4,
+          "_name": "Multicast: Subject cho phép bạn gửi một dòng dữ liệu (hoặc nhiều dòng) từ một nguồn duy nhất và chia sẻ nó với nhiều Observable. Điều này giúp tối ưu hóa việc chia sẻ dữ liệu giữa nhiều phần của ứng dụng mà không cần tạo nhiều luồng dữ liệu riêng biệt."
+        },
+        {
+          "id": 5,
+          "_name": "Hot Observable: Subject được gọi là một \"Hot Observable\" vì nó bắt đầu phát dữ liệu ngay cả trước khi bạn đăng ký lắng nghe. "
+        },
+        {
+          "id": 6,
+          "_name": "Lắng nghe và Gửi Dữ liệu: Bạn có thể sử dụng các phương thức next, error, và complete để gửi dữ liệu hoặc thông báo lỗi hoặc hoàn thành từ một Subject"
+        },
+        {
+          "id": 7,
+          "_name": "Đăng ký và Hủy Đăng ký: Bạn có thể đăng ký các Observable để lắng nghe dữ liệu từ một Subject bằng cách sử dụng phương thức subscribe. Khi bạn đã không cần đến dữ liệu nữa, bạn có thể hủy đăng ký bằng cách sử dụng phương thức unsubscribe để ngừng lắng nghe."
+        },
+        {
+          "id": 8,
           "_name": ""
         }
       ]
@@ -1275,23 +1323,27 @@
     {
       "id": 52,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Rxjs BehaviorSubject  có thức năng gì ",
+      "type": 1,
+      "title": "Rxjs BehaviorSubject là gì ",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một loại Subject đặc biệt trong RxJS."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Nó hoạt động tương tự như một Subject thông thường, nhưng có một tính năng quan trọng: BehaviorSubject luôn luôn giữ một giá trị hiện tại và thông báo giá trị này cho bất kỳ Observable nào mới đăng ký lắng nghe"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Một BehaviorSubject được khởi tạo với một giá trị ban đầu và sau đó có thể cập nhật giá trị này bất cứ khi nào"
         },
         {
           "id": 4,
+          "_name": "Khi một Observable đăng ký lắng nghe một BehaviorSubject, nó sẽ nhận được giá trị hiện tại của BehaviorSubject ngay lập tức và sau đó sẽ tiếp tục lắng nghe các giá trị mới khi chúng được phát ra bởi BehaviorSubject."
+        },
+        {
+          "id": 5,
           "_name": ""
         }
       ]
@@ -1299,23 +1351,31 @@
     {
       "id": 53,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Rxjs ReplaySubject có thức năng gì ",
+      "type": 1,
+      "title": "Rxjs ReplaySubject có chức năng gì ",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một loại Subject đặc biệt trong RxJS"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "ReplaySubject tương tự như BehaviorSubject, nhưng nó cung cấp thêm một tính năng quan trọng: nó lưu trữ và tái phát tất cả hoặc một số giá trị trước đó cho các Observable mới đăng ký lắng nghe"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "các Observable có thể nhận được một lịch sử của các giá trị đã được phát ra bởi ReplaySubject trước khi họ đăng ký."
         },
         {
           "id": 4,
+          "_name": "Một ReplaySubject có thể được khởi tạo với một số lượng cố định (số nguyên) của các giá trị trước đó mà nó sẽ lưu trữ"
+        },
+        {
+          "id": 5,
+          "_name": ""
+        },
+        {
+          "id": 6,
           "_name": ""
         }
       ]
@@ -1323,20 +1383,20 @@
     {
       "id": 54,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Rxjs AsyncSubject có thức năng gì ",
+      "type": 1,
+      "title": "Rxjs AsyncSubject có chức năng gì ",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một loại Subject đặc biệt trong RxJS."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "AsyncSubject tương tự như BehaviorSubject và ReplaySubject"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Nó chỉ phát ra giá trị cuối cùng từ Observable và chỉ khi Observable hoàn thành (complete)."
         },
         {
           "id": 4,
@@ -1347,20 +1407,20 @@
     {
       "id": 55,
       "group": "ANGULAR2",
-      "type": 0,
+      "type": 1,
       "title": "Multicasting trong RxJS",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một khái niệm quan trọng liên quan đến việc chia sẻ một Observable giữa nhiều đăng ký (subscribers)"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "có thể được thực hiện bằng cách sử dụng các loại Subjects (như BehaviorSubject, ReplaySubject, hoặc AsyncSubject) hoặc các toán tử như share, publish, và multicast trong RxJS."
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "giúp tối ưu hóa việc chia sẻ dữ liệu giữa các đăng ký và làm giảm tải tài nguyên khi có nhiều đăng ký đồng thời"
         },
         {
           "id": 4,
@@ -1371,8 +1431,8 @@
     {
       "id": 56,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "SubjectFactory có chức năng gì",
+      "type": 1,
+      "title": "SubjectFactory là gì",
       "answer": [
         {
           "id": 1,
@@ -1448,7 +1508,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một khái niệm quan trọng liên quan đến việc kiểm tra và chuyển đổi dữ liệu đầu vào một cách an toàn và hiệu quả. Coercion giúp bạn đảm bảo rằng các giá trị đầu vào được chuyển đổi thành kiểu dữ liệu mong muốn mà không gây ra lỗi hoặc vấn đề bảo mật trong ứng dụng của bạn."
         },
         {
           "id": 2,
@@ -1467,16 +1527,16 @@
     {
       "id": 60,
       "group": "ANGULAR2",
-      "type": 0,
+      "type": 1,
       "title": "Unsubscribe Một Subscription",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Thực hiện việc gọi phương thức unsubscribe() trên đối tượng Subscription"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Điều này rất quan trọng để tránh rò rỉ bộ nhớ và tài nguyên khi components bị huỷ"
         },
         {
           "id": 3,
@@ -1491,23 +1551,63 @@
     {
       "id": 61,
       "group": "ANGULAR2",
-      "type": 0,
-      "title": "Các pipe mặc định của angular cung cấp",
+      "type": 1,
+      "title": "Chọn các pipe không phải là mặc định của angular cung cấp",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "lowercase"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "uppercase"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "titlecase"
         },
         {
           "id": 4,
+          "_name": "json"
+        },
+        {
+          "id": 5,
+          "_name": "number[:digitInfo]"
+        },
+        {
+          "id": 6,
+          "_name": "percent[:digitInfo]"
+        },
+        {
+          "id": 7,
+          "_name": "currency[:currencyCode[:symbolDisplay[:digitInfo]]] "
+        },
+        {
+          "id": 8,
+          "_name": "date[:format[:timezone[:locale]]]"
+        },
+        {
+          "id": 9,
+          "_name": "slice:start[:end]"
+        },
+        {
+          "id": 10,
+          "_name": "async"
+        },
+        {
+          "id": 11,
+          "_name": "keyValue"
+        },
+        {
+          "id": 12,
+          "_name": " i18nSelect:mapping "
+        },
+        {
+          "id": 13,
+          "_name": "i18nPlural:mapping"
+        },
+        {
+          "id": 14,
           "_name": ""
         }
       ]
@@ -1520,7 +1620,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "chỉ định các thành phần (components), directive và pipe mà module đó sử dụng hoặc khai báo.declarations định nghĩa danh sách các thành phần, directive và pipe mà module đó sẽ biết và có thể sử dụng trong templates và logic của nó"
         },
         {
           "id": 2,
@@ -1539,16 +1639,16 @@
     {
       "id": 63,
       "group": "ANGULAR2",
-      "type": 0,
+      "type": 1,
       "title": "trong @NgModule thuộc tính import có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Xác định các module khác mà module hiện tại sẽ sử dụng."
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "imports được sử dụng để đưa các thành phần và chức năng từ các module khác vào module hiện tại, làm cho chúng có thể sử dụng và truy cập các chức năng và thành phần từ các module đã được import."
         },
         {
           "id": 3,
@@ -1568,7 +1668,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "một module có tác dụng xuất (export) các thành phần, directive và pipe từ module hiện tại để chúng có thể sử dụng trong các module khác. exports cho phép bạn chia sẻ các chức năng và thành phần từ module hiện tại với các module khác trong ứng dụng."
         },
         {
           "id": 2,
@@ -1588,11 +1688,11 @@
       "id": 65,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "trong @NgModule thuộc tính providers có tác dụng gì",
+      "title": "Trong @NgModule thuộc tính providers có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "xác định các dịch vụ (services) mà module đó sẽ cung cấp hoặc làm sẵn sàng để sử dụng bởi các thành phần và module khác trong ứng dụng.là nơi bạn đăng ký và cung cấp các dịch vụ mà bạn muốn sử dụng và chia sẻ trong ứng dụng Angular của bạn."
         },
         {
           "id": 2,
@@ -1616,7 +1716,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "có tác dụng chỉ định thành phần (component) chính mà Angular sẽ bắt đầu render khi ứng dụng khởi chạy. Thường thì chỉ có một thành phần root duy nhất được khai báo ở đây."
         },
         {
           "id": 2,
@@ -1640,7 +1740,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "CommonModule là một trong những module cơ bản của Angular và cung cấp các hàm và directive cần thiết cho phát triển ứng dụng( NgIf và NgFor,NgSwitch,NgClass và NgStyle,NgNonBindable,..."
         },
         {
           "id": 2,
@@ -1664,7 +1764,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một kỹ thuật trong Angular cho phép bạn tải các module bổ sung (feature modules) chỉ khi cần thiết, thay vì tải toàn bộ ứng dụng khi ứng dụng khởi động ban đầu. "
         },
         {
           "id": 2,
@@ -1688,7 +1788,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "pathMatch có tác dụng xác định cách Router sẽ kiểm tra đường dẫn URL để xác định xem route nào sẽ được kích hoạt"
         },
         {
           "id": 2,
@@ -1736,7 +1836,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "NgIf ,NgFor,NgSwitch,NgStyle,NgClass..."
         },
         {
           "id": 2,
@@ -1756,11 +1856,11 @@
       "id": 72,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "attribute directive là gì",
+      "title": "Attribute directive là gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Là một loại directive trong Angular được sử dụng để thay đổi hoặc bổ sung các thuộc tính (attributes) của các phần tử DOM. Attribute directive cho phép bạn tương tác với và điều khiển các thuộc tính HTML, chẳng hạn như class, style, src, disabled, và các thuộc tính khác của các phần tử HTML."
         },
         {
           "id": 2,
@@ -1784,7 +1884,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": " là một loại directive trong Angular được sử dụng để thay đổi cấu trúc của DOM bằng cách thêm hoặc loại bỏ các phần tử DOM. Các structural directives thường được sử dụng để điều khiển việc xuất hiện, biến mất, hoặc lặp qua các phần tử HTML trong template dựa trên điều kiện hoặc danh sách dữ liệu.( NgIf ,NgFor,NgSwitch,NgForOf)"
         },
         {
           "id": 2,
@@ -1804,7 +1904,7 @@
       "id": 74,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "DI ",
+      "title": "DI",
       "answer": [
         {
           "id": 1,
@@ -1828,11 +1928,11 @@
       "id": 75,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "{{}} có tác dụng gì",
+      "title": "{{ }} có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Được sử dụng để hiển thị giá trị của biến hoặc biểu thức trong template của ứng dụng Angular.có tác dụng chèn giá trị của biến hoặc kết quả của biểu thức vào trong vị trí của nó trong template."
         },
         {
           "id": 2,
@@ -1852,11 +1952,11 @@
       "id": 76,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "Các loại Attribute binding thường gặp ",
+      "title": "Attribute binding là gì ",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": " là một cách để bạn gán giá trị từ component của bạn vào một thuộc tính HTML hoặc một thuộc tính DOM khác trong template của bạn. Điều này cho phép bạn thay đổi các thuộc tính của các phần tử HTML dựa trên dữ liệu trong ứng dụng của bạn"
         },
         {
           "id": 2,
@@ -1876,22 +1976,30 @@
       "id": 77,
       "group": "ANGULAR2",
       "type": 0,
-      "title": "Các các để điều hướng router ",
+      "title": "Các cách để điều hướng router ",
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "Sử dụng RouterLink trong template"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Sử dụng Router.navigate() trong component"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "Sử dụng Router.navigate() với tham số queryParams và fragment"
         },
         {
           "id": 4,
+          "_name": "Sử dụng ActivatedRoute"
+        },
+        {
+          "id": 5,
+          "_name": ""
+        },
+        {
+          "id": 6,
           "_name": ""
         }
       ]
@@ -1904,7 +2012,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "có tác dụng cho phép bạn áp dụng và quản lý các animations (hiệu ứng) vào các thành phần (components) của ứng dụng của bạn (bạn có thể điều khiển các hiệu ứng cho thành phần đó trong quá trình thay đổi trạng thái của nó, chẳng hạn như khi hiển thị, ẩn hoặc cập nhật dữ liệu.)"
         },
         {
           "id": 2,
@@ -1928,7 +2036,7 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "được sử dụng để tạo và quản lý các thành phần (components) tương tác với người dùng để nhập hoặc chỉnh sửa dữ liệu. "
         },
         {
           "id": 2,
@@ -1952,15 +2060,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": ""
+          "_name": "là một phần quan trọng của hệ thống change detection trong Angular"
         },
         {
           "id": 2,
-          "_name": ""
+          "_name": "Nó là một service được cung cấp bởi Angular để bạn có thể kiểm soát quá trình kiểm tra sự thay đổi (change detection) và cập nhật giao diện người dùng trong ứng dụng Angular của bạn"
         },
         {
           "id": 3,
-          "_name": ""
+          "_name": "123"
         },
         {
           "id": 4,
@@ -1968,283 +2076,849 @@
         }
       ]
     }
-
   ],
   "answer": [
-    {
-      "id": 0,
-      "answer": [
-        {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "answer": [
-        {
-          "id": 7
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "answer": [
-        {
-          "id": 5
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "answer": [
-        {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "answer": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "answer": [
-        {
-          "id": 9
-        },
-        {
-          "id": 10
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "answer": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "answer": [
-        {
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "answer": [
-        {
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "answer": [
-        {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "answer": [
-        {
-          "id": 2
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "answer": [
-        {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "answer": [
-        {
-          "id": 7
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "answer": [
-        {
-          "id": 5
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "answer": [
-        {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "answer": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "answer": [
-        {
-          "id": 9
-        },
-        {
-          "id": 10
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "answer": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "answer": [
-        {
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "answer": [
-        {
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "answer": [
-        {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "answer": [
-        {
-          "id": 2
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "answer": [
-        {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "answer": [
-        {
-          "id": 7
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "answer": [
-        {
-          "id": 5
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "answer": [
-        {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "answer": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "answer": [
-        {
-          "id": 9
-        },
-        {
-          "id": 10
-        }
-      ]
-    }
+    [
+      {
+        "id": 0,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 6
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          },
+          {
+            "id": 6
+          },
+          {
+            "id": 7
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "answer": [
+          {
+            "id": 1
+          }, {
+            "id": 2
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "answer": [
+          {
+            "id": 1
+          }, {
+            "id": 2
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "answer": [
+          {
+            "id": 1
+          }, {
+            "id": 2
+          },   {
+            "id": 3
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          },
+          {
+            "id": 6
+          },
+          {
+            "id": 7
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          },
+          {
+            "id": 6
+          },
+          {
+            "id": 7
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          },
+          {
+            "id": 5
+          },
+          {
+            "id": 6
+          },
+          {
+            "id": 7
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          },
+          {
+            "id": 4
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "answer": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "answer": [
+          {
+            "id": 1
+          },{
+            "id": 2
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "answer": [
+          {
+            "id": 14
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "answer": [
+          {
+            "id": 1
+          } ,{
+            "id": 2
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "answer": [
+          {
+            "id": 1
+          }
+        ]
+      }
+    ]
   ]
 }

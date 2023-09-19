@@ -32,19 +32,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "viết trong cặp thẻ style"
+          "_name": "Viết mã JS trong cặp thẻ style"
         },
         {
           "id": 2,
-          "_name": "viết trong cặp thẻ script"
+          "_name": "Viết mã JS trong cặp thẻ script"
         },
         {
           "id": 3,
-          "_name": "link bằng thẻ script và src"
+          "_name": "Link bằng thẻ script và src"
         },
         {
           "id": 4,
-          "_name": "link bằng thẻ style và src"
+          "_name": "Link bằng thẻ style và src"
         }
       ]
     },
@@ -124,15 +124,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": "2  "
+          "_name": "2"
         },
         {
           "id": 2,
-          "_name": "5 "
+          "_name": "5"
         },
         {
           "id": 3,
-          "_name": "7 "
+          "_name": "7"
         },
         {
           "id": 4,
@@ -176,38 +176,34 @@
       "answer": [
         {
           "id": 1,
-          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo bên trong một hàm"
+          "_name": "Đề cập đến phạm vi hoạt động của biến khi chúng được khai báo bên trong một hàm"
         },
         {
           "id": 2,
-          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên trên một hàm"
+          "_name": "Đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên trên một hàm"
         },
         {
           "id": 3,
-          "_name": "đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên dưới một hàm"
+          "_name": "Đề cập đến phạm vi hoạt động của biến khi chúng được khai báo ngay bên dưới một hàm"
         }
       ]
     },
     {
       "id": 8,
       "group": "VANILLAJS",
-      "type": 0,
-      "title": "Closure là gì ",
+      "type": 1,
+      "title": "Closure là gì",
       "answer": [
         {
           "id": 1,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+          "_name": "Closure đề cập đến khả năng của một hàm nội tại (inner function) được tạo bên trong một hàm bên ngoài (outer function) để truy cập và thay đổi các biến của hàm bên ngoài, ngay cả sau khi hàm bên ngoài đã hoàn thành thực thi"
         },
         {
           "id": 2,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
+          "_name": "Closure cho phép lưu trữ trạng thái và dữ liệu của một hàm trong một ngữ cảnh cụ thể, và nó thường được sử dụng để tạo ra các biến riêng tư và xây dựng các hàm callback."
         },
         {
           "id": 3,
-          "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
-        },
-        {
-          "id": 4,
           "_name": " Nó đề cập đến khả năng của một hàm (function) trong JS để truy cập và lưu trữ biến từ phạm vi cha (enclosing scope) của nó, ngay cả sau khi hàm đã kết thúc thực thi"
         }
       ]
@@ -280,7 +276,7 @@
         },
         {
           "id": 2,
-          "_name": " Sử dụng các phương thức mảng"
+          "_name": "Sử dụng các phương thức mảng"
         },
         {
           "id": 3,
@@ -320,7 +316,7 @@
         },
         {
           "id": 2,
-          "_name": " một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
+          "_name": "một khái niệm để chỉ việc thực hiện các tác vụ mà phải chờ đợi một tác vụ khác hoàn thành trước."
         }
       ]
     },
@@ -352,15 +348,7 @@
         },
         {
           "id": 2,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng tự động phù hợp kích thước khác nhau, nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
-        },
-        {
-          "id": 3,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng chủ động thay đổi cấu trúc , thành phần  nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
-        },
-        {
-          "id": 4,
-          "_name": "Là phương pháp thiết kế và phát triển web có khả năng người dùng tự chọn cách hiển thị cho các thiết bị có kích thước khác nhau, nhằm cung cấp trải nghiệm tốt nhất cho người dùng"
+          "_name": "undefined thường được biểu thị là rỗng còn null thường được biểu thị là không xác định"
         }
       ]
     },
@@ -392,7 +380,7 @@
       "id": 18,
       "group": "VANILLAJS",
       "type": 0,
-      "title": "Toán tử Spread  trong javascript ?",
+      "title": "Toán tử Spread trong javascript ?",
       "answer": [
         {
           "id": 1,
@@ -440,7 +428,7 @@
       "id": 20,
       "group": "VANILLAJS",
       "type": 1,
-      "title": "Sự khác biệt của  Function Declaration và Function Expression là gì",
+      "title": "Sự khác biệt của Function Declaration và Function Expression là gì",
       "answer": [
         {
           "id": 1,
@@ -576,11 +564,11 @@
       "answer": [
         {
           "id": 1,
-          "_name": "this là đối tượng nó dùng"
+          "_name": "this là đối tượng fn nó khai báo"
         },
         {
           "id": 2,
-          "_name": "this là đối tượng fn nó khai báo"
+          "_name": "this là đối tượng nó dùng"
         },
         {
           "id": 3,
@@ -591,8 +579,8 @@
     {
       "id": 26,
       "group": "VANILLAJS",
-      "type": 0,
-      "title": "Các giá trị Falsy trong JS ",
+      "type": 1,
+      "title": "Các giá trị nào sau đây không phải là Falsy trong JS ",
       "answer": [
         {
           "id": 1,
@@ -604,7 +592,7 @@
         },
         {
           "id": 3,
-          "_name": "chuôix rỗng"
+          "_name": "chuỗi rỗng"
         },
         {
           "id": 4,
@@ -625,26 +613,16 @@
         {
           "id": 8,
           "_name": "0n"
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "group": "VANILLAJS",
-      "type": 0,
-      "title": "tác dụng của từ khoá continue ",
-      "answer": [
-        {
-          "id": 1,
-          "_name": " continue bỏ qua một lần lặp nếu một điều kiện nhất định trả về true."
         },
         {
-          "id": 2,
-          "_name": " continue bỏ qua các lần lặp trước đó nếu một điều kiện nhất định trả về true."
-        },
-        {
-          "id": 3,
-          "_name": " continue bỏ qua các lần lặp sau đó nếu một điều kiện nhất định trả về true."
+          "id": 9,
+          "_name": "1"
+        },{
+          "id": 10,
+          "_name": "'false'"
+        },{
+          "id": 11,
+          "_name": "'0'"
         }
       ]
     }
@@ -662,7 +640,9 @@
       "id": 1,
       "answer": [
         {
-          "id": 7
+          "id": 2
+        },{
+          "id": 3
         }
       ]
     },
@@ -670,7 +650,7 @@
       "id": 2,
       "answer": [
         {
-          "id": 5
+          "id": 1
         }
       ]
     },
@@ -678,13 +658,7 @@
       "id": 3,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -693,12 +667,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -707,9 +675,6 @@
       "answer": [
         {
           "id": 9
-        },
-        {
-          "id": 10
         }
       ]
     },
@@ -717,10 +682,12 @@
       "id": 6,
       "answer": [
         {
-          "id": 1
+          "id": 2
         },
         {
-          "id": 2
+          "id": 3
+        }, {
+          "id": 5
         }
       ]
     },
@@ -737,6 +704,8 @@
       "answer": [
         {
           "id": 1
+        },{
+          "id": 2
         }
       ]
     },
@@ -744,7 +713,7 @@
       "id": 9,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -752,7 +721,7 @@
       "id": 10,
       "answer": [
         {
-          "id": 2
+          "id": 1
         }
       ]
     },
@@ -760,7 +729,7 @@
       "id": 11,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -768,7 +737,7 @@
       "id": 12,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -776,7 +745,9 @@
       "id": 13,
       "answer": [
         {
-          "id": 5
+          "id": 1
+        }, {
+          "id": 2
         }
       ]
     },
@@ -784,13 +755,7 @@
       "id": 14,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -799,12 +764,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -812,10 +771,7 @@
       "id": 16,
       "answer": [
         {
-          "id": 9
-        },
-        {
-          "id": 10
+          "id": 1
         }
       ]
     },
@@ -824,9 +780,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
         }
       ]
     },
@@ -850,7 +803,11 @@
       "id": 20,
       "answer": [
         {
-          "id": 4
+          "id": 1
+        },{
+          "id": 2
+        },{
+          "id": 3
         }
       ]
     },
@@ -858,7 +815,7 @@
       "id": 21,
       "answer": [
         {
-          "id": 2
+          "id": 1
         }
       ]
     },
@@ -866,7 +823,7 @@
       "id": 22,
       "answer": [
         {
-          "id": 4
+          "id": 1
         }
       ]
     },
@@ -874,7 +831,7 @@
       "id": 23,
       "answer": [
         {
-          "id": 7
+          "id": 1
         }
       ]
     },
@@ -882,7 +839,11 @@
       "id": 24,
       "answer": [
         {
-          "id": 5
+          "id": 1
+        }, {
+          "id": 2
+        }, {
+          "id": 3
         }
       ]
     },
@@ -890,13 +851,7 @@
       "id": 25,
       "answer": [
         {
-          "id": 4
-        },
-        {
-          "id": 5
-        },
-        {
-          "id": 6
+          "id": 1
         }
       ]
     },
@@ -904,24 +859,13 @@
       "id": 26,
       "answer": [
         {
-          "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "answer": [
-        {
           "id": 9
         },
         {
           "id": 10
+        },
+        {
+          "id": 11
         }
       ]
     }
