@@ -15,6 +15,8 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
   _data: Question = {}
   listQuestion: Question[] = []
 
+  isTest : boolean = false;
+  isList : boolean = false
   constructor(public pageHtmlServices: QuestionServices) {
   }
 
@@ -144,5 +146,16 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
       return 'btn-selected'
     }
     return ''
+  }
+
+  showList() {
+    this.isList = !this.isList
+    this.isTest = false
+  }
+
+  showTest(){
+    this.isTest = !this.isTest
+    this.isList = false
+
   }
 }
