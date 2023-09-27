@@ -27,36 +27,44 @@
     {
       "id": 1,
       "group": "HTML",
-      "type": 0,
-      "title": "Chọn các câu đúng khi nói về ưu điểm của HTMl",
+      "type": 1,
+      "title": "Chọn các câu đúng khi nói về điểm mạnh cho việc phát triển trang web và ứng dụng web của HTML5",
       "answer": [
         {
-          "_name": "Kho tài nguyên khổng lồ với cộng đồng người dùng rộng lớn",
-          "id": 1
+          "id": 1,
+          "_name": "Hỗ trợ đa phương tiện: HTML5 cung cấp hỗ trợ tích hợp cho âm thanh, video, và đồ họa vector thông qua các phần tử như <audio>, <video>, và <canvas>. Điều này cho phép phát triển các trang web và ứng dụng web đa phương tiện mà không cần sử dụng các plugin bên ngoài như Flash."
         },
         {
           "id": 2,
-          "_name": "Sử dụng mã nguồn mở nên người dùng có thể sử dụng miễn phí"
+          "_name": "Hỗ trợ cho thiết bị di động: HTML5 được thiết kế để tương thích tốt với các thiết bị di động và màn hình cảm ứng. Điều này giúp phát triển các ứng dụng web thích hợp cho các thiết bị như điện thoại di động và máy tính bảng."
         },
         {
           "id": 3,
-          "_name": "Hoạt động mượt mà trên hầu hết các trình duyệt"
+          "_name": "Khả năng lưu trữ dưới dạng cục bộ: HTML5 giới thiệu tính năng Local Storage và Session Storage, cho phép ứng dụng lưu trữ dữ liệu trên máy người dùng một cách dễ dàng. Điều này giúp tăng tốc độ tải trang và cải thiện trải nghiệm người dùng."
         },
         {
           "id": 4,
-          "_name": "Cách thức hoạt động đơn giản nên người học có thể dễ dàng nắm bắt được kiến thức để triển khai cho website của mình"
+          "_name": "Khả năng làm việc ngoại tuyến: HTML5 cho phép ứng dụng web hoạt động khi không có kết nối internet. Sử dụng Application Cache và các công nghệ liên quan, ứng dụng có thể lưu trữ dữ liệu và trang web để người dùng có thể truy cập khi không có mạng."
         },
         {
-          "_name": "Có thể tích hợp với nhiều ngôn ngữ khác nhau",
-          "id": 5
+          "id": 5,
+          "_name": "Tích hợp API địa điểm và định vị: HTML5 cung cấp hỗ trợ tích hợp dễ dàng cho các ứng dụng liên quan đến định vị và địa điểm. Các API như Geolocation cho phép ứng dụng truy cập thông tin vị trí của người dùng."
         },
         {
-          "_name": "Sử dụng các markup ngắn gọn và có tính đồng nhất cao",
-          "id": 6
+          "id": 6,
+          "_name": "Hỗ trợ các tính năng động: HTML5 hỗ trợ tính năng động và tương tác trên trang web thông qua JavaScript. Điều này cho phép phát triển các ứng dụng web đa dạng với trải nghiệm người dùng tốt hơn."
         },
         {
-          "_name": "Tính tương các với người dùng cao",
-          "id": 7
+          "id": 7,
+          "_name": "Khả năng tương thích trình duyệt tốt hơn: Mặc dù vẫn có sự khác biệt trong việc hỗ trợ tính năng HTML5 trên các trình duyệt, nhưng sự tiêu chuẩn hóa đã giúp cải thiện tính tương thích so với các phiên bản trước đó."
+        },
+        {
+          "id": 8,
+          "_name": "Tích hợp tiện ích phụ: HTML5 cho phép tích hợp các tiện ích phụ bên ngoài dễ dàng hơn thông qua các phần tử như <embed> và <object>, giúp tạo ra các trải nghiệm đa phương tiện đa dạng."
+        },
+        {
+          "id": 9,
+          "_name": ""
         }
       ]
     },
@@ -64,91 +72,95 @@
       "id": 2,
       "group": "HTML",
       "type": 1,
-      "title": "Chọn câu đúng khi nói về nhược điểm của HTML",
+      "title": "Chọn câu đúng khi nói về điểm yếu và hạn chế của HTML",
       "answer": [
         {
           "id": 1,
-          "_name": "Chỉ áp dụng được cho web tĩnh, không có sự tương tác với người dùng."
+          "_name": "Tương thích trình duyệt không đồng nhất: Mặc dù HTML5 đã trở thành một tiêu chuẩn, nhưng việc hỗ trợ các tính năng HTML5 trên các trình duyệt khác nhau vẫn không đồng đều. Một số tính năng có thể hoạt động tốt trên một trình duyệt như Chrome nhưng không tương thích trên trình duyệt Internet Explorer cũ hơn. Điều này đòi hỏi phải kiểm tra và xử lý tương thích trình duyệt."
         },
         {
           "id": 2,
-          "_name": "Một số trình duyệt còn cập nhật chậm để hỗ trợ các phiên bản mới của HTML, đặc biệt là HTML5"
+          "_name": "Bảo mật: HTML5 đưa ra nhiều tính năng mới, nhưng nó cũng mở cửa cho một số vấn đề bảo mật. Ví dụ, các tính năng như Geolocation, Local Storage và WebSockets có thể trở thành điểm yếu và tạo điều kiện cho các tấn công bảo mật."
         },
         {
           "id": 3,
-          "_name": "Việc kiểm soát cách đọc và hiển thị file HTML của trình duyệt khó thực hiện"
+          "_name": "Hiệu suất không ổn định: Sử dụng quá nhiều tính năng HTML5 có thể làm giảm hiệu suất trang web, đặc biệt trên các thiết bị có tài nguyên hạn chế. Sử dụng nhiều đồ họa, video và âm thanh có thể làm cho trang web trở nên chậm và tốn nhiều băng thông hơn."
         },
         {
           "id": 4,
-          "_name": "Chỉ áp dụng với cấu trúc nhất định, không có khả năng sáng tạo"
+          "_name": "Khả năng bảo trì khó khăn: Các tính năng mới trong HTML5 có thể làm cho mã nguồn trở nên phức tạp hơn và khó bảo trì, đặc biệt khi trang web hoặc ứng dụng phát triển đa dạng."
         },
         {
           "id": 5,
-          "_name": "Chỉ có thể sử dụng ngôn ngữ javascript để xây dựng các tính năng"
+          "_name": "Học cách sử dụng: HTML5 đưa ra nhiều tính năng và API mới, và việc học cách sử dụng chúng có thể đòi hỏi thời gian và công sức. Điều này có thể làm cho việc phát triển với HTML5 trở thành một thách thức đối với người mới học lập trình web."
+        },
+        {
+          "id": 6,
+          "_name": "Sự phụ thuộc vào JavaScript: Mặc dù HTML5 cung cấp nhiều tính năng mới, nhưng để tận dụng hoàn toàn sức mạnh của nó thường đòi hỏi sự kết hợp với JavaScript. Điều này có nghĩa là bạn cần có kiến thức về lập trình JavaScript để phát triển các ứng dụng web phức tạp."
+        },
+        {
+          "id": 7,
+          "_name": ""
         }
       ]
     },
     {
       "id": 3,
       "group": "HTML",
-      "type": 1,
-      "title": "Các loại HTMl phổ biến hiện tại ",
+      "type": 0,
+      "title": "Phiên bản HTML được sử dụng rộng rãi để phát triển trang web và ứng dụng hiện nay",
       "answer": [
         {
           "id": 1,
-          "_name": "HTML 1.0"
+          "_name": "HTML5 (2014): HTML5 là phiên bản mới nhất của HTML và đã được phát hành với nhiều tính năng mới và cải tiến. Nó mang lại hỗ trợ cho đa phương tiện như audio và video, đồ họa vector thông qua thẻ <canvas>, tích hợp API địa điểm và định vị, cải tiến trong xử lý biểu đồ, và nhiều tính năng khác."
         },
         {
           "id": 2,
-          "_name": "HTML 2.0"
+          "_name": "HTML 2.0 (1995): Phiên bản này đã được mở rộng và cải tiến hơn so với HTML 1.0, bao gồm các tính năng như hỗ trợ cho màu sắc và hình ảnh."
         },
         {
           "id": 3,
-          "_name": "HTML 3.2"
+          "_name": "HTML 3.2 (1997): HTML 3.2 là một bản phát triển tiếp theo của HTML 2.0 và đưa vào nhiều tính năng mới như bảng, biểu đồ, và hình ảnh nền."
         },
         {
           "id": 4,
-          "_name": "HTML 4.01"
+          "_name": "HTML 4.01 (1999): HTML 4.01 định nghĩa các luật và quy tắc rõ ràng hơn cho việc sử dụng HTML và bao gồm nhiều cải tiến về biểu đồ, biểu mẫu và khung iframe"
         },
         {
           "id": 5,
-          "_name": "XHTML"
+          "_name": "XHTML 1.0 (2000): XHTML (Extensible HyperText Markup Language) là một phiên bản của HTML được viết lại dưới dạng XML. Nó mang lại sự nghiêm ngặt hơn về cú pháp và tính tương thích với XML."
         },
         {
           "id": 6,
-          "_name": "HTML 5"
-        },
-        {
-          "id": 7,
-          "_name": "HTML 6"
+          "_name": "HTML 1.0 (1989): Phiên bản đầu tiên của HTML, được tạo ra bởi Tim Berners-Lee và Robert Cailliau tại CERN. Nó định nghĩa cấu trúc cơ bản của trang web và chỉ bao gồm một số thẻ cơ bản."
         }
       ]
     },
     {
       "id": 4,
       "group": "HTML",
-      "type": 1,
-      "title": "Các ưu điểm XHTML so với HTML4",
+      "type": 0,
+      "title": "4",
       "answer": [
         {
           "id": 1,
-          "_name": "Yêu cầu mọi phần tử được đóng bằng thẻ đóng hoặc cú pháp tự đóng riêng và phân biệt được chữ in hoa hoặc chữ in thường"
+          "_name": ""
         },
         {
           "id": 2,
-          "_name": "Có thể sử dụng nhiều ngôn ngữ để tạo các chức năng linh hoạt"
+          "_name": ""
         },
         {
           "id": 3,
-          "_name": "Cộng đồng sử dụng lớn ,dễ học ,tìm hiểu và phát triển"
+          "_name": ""
         },
         {
           "id": 4,
-          "_name": "Tương thích với XML"
+          "_name": ""
         },
         {
           "id": 5,
-          "_name": "Hiệu suất tốt hơn"
+          "_name": ""
         }
       ]
     },
@@ -156,51 +168,43 @@
       "id": 5,
       "group": "HTML",
       "type": 1,
-      "title": "Câu nào dưới đây là không đúng khi nói về các ưu điểm của HTML5 so với HTML4",
+      "title": "Các ưu điểm của HTML5 so với HTML4",
       "answer": [
         {
           "id": 1,
-          "_name": "Hỗ trợ đa phương tiện tốt hơn"
+          "_name": "Hỗ trợ đa phương tiện: HTML5 cung cấp hỗ trợ tích hợp cho audio và video mà không cần sử dụng các plugin bên ngoài như Flash. Điều này giúp tạo ra trải nghiệm đa phương tiện trên web dễ dàng hơn và giảm sự phụ thuộc vào các công nghệ bên ngoài."
         },
         {
           "id": 2,
-          "_name": "Hỗ trợ vẽ đồ họa và tạo hiệu ứng thú vị trên trang web "
+          "_name": "Hỗ trợ đồ họa và đồ họa vector: HTML5 cung cấp phần tử <canvas> cho phép vẽ đồ họa và xử lý hình ảnh trên trình duyệt. Ngoài ra, SVG (Scalable Vector Graphics) cũng được tích hợp, cho phép tạo ra đồ họa vector và biểu đồ phức tạp."
         },
         {
           "id": 3,
-          "_name": "Hỗ trợ cho việc tạo hình ảnh vector thể hiện rõ ràng"
+          "_name": "Hỗ trợ Local Storage và Session Storage: HTML5 giới thiệu tính năng Local Storage và Session Storage, cho phép lưu trữ dữ liệu trên máy người dùng một cách dễ dàng và hiệu quả hơn so với cookies."
         },
         {
           "id": 4,
-          "_name": "Cung cấp localStorage và sessionStorage để lưu dữ liêu trên máy khách"
+          "_name": "Tích hợp API địa điểm và định vị: HTML5 cung cấp các API như Geolocation cho phép truy cập thông tin vị trí của người dùng, mở ra các cơ hội cho các ứng dụng dựa trên vị trí."
         },
         {
           "id": 5,
-          "_name": "Cho phép trang web truy vẫn vị trí địa lý người dùng"
+          "_name": "Hỗ trợ các phần tử mới và tiện ích phụ: HTML5 giới thiệu nhiều phần tử mới như <header>, <nav>, <section>, <article>, <footer> để tạo ra cấu trúc trang web rõ ràng hơn. Ngoài ra, có nhiều tích hợp tiện ích phụ như <video>, <audio>, <datalist>, và nhiều khả năng mở rộng khác."
         },
         {
           "id": 6,
-          "_name": "Được hỗ trợ tao ra các trang web thích nghi với các kích thước màn hình khác nhau"
+          "_name": "Hỗ trợ tự động kiểm tra và sửa lỗi: HTML5 có khả năng tự động kiểm tra cú pháp và cảnh báo lỗi, giúp người phát triển phát hiện và sửa lỗi dễ dàng hơn."
         },
         {
           "id": 7,
-          "_name": "Cho phép tạo các ứng dụng ngoại tuyến"
+          "_name": "Hỗ trợ cho các thiết bị di động: HTML5 được thiết kế để tương thích tốt với các thiết bị di động, cung cấp khả năng đáp ứng (responsive design) và hỗ trợ các sự kiện cảm ứng."
         },
         {
           "id": 8,
-          "_name": "Cung cấp các công nghệ tạo kết nối thời gian thực giữa máy khách và máy chủ"
+          "_name": "Hỗ trợ cho khả năng làm việc ngoại tuyến: HTML5 cho phép ứng dụng web hoạt động khi không có kết nối internet thông qua Application Cache."
         },
         {
           "id": 9,
-          "_name": "Tính tương thích , hỗ trợ và thực thi các tính năng HTML trên các trình duyệt cao hơn"
-        },
-        {
-          "id": 10,
-          "_name": "Các cú pháp , tính năng dễ tiếp cận , không cần các kiến thức sâu "
-        },
-        {
-          "id": 11,
-          "_name": "HTML5 tải trang nhanh chóng , ít tốn tài nguyên hơn HTML4"
+          "_name": ""
         }
       ]
     },
@@ -208,23 +212,43 @@
       "id": 6,
       "group": "HTML",
       "type": 1,
-      "title": "Thẻ Meta được dùng để làm gì trong hmtl?",
+      "title": "Chọn các câu đúng khi nói về thẻ <meta> trong HTML",
       "answer": [
         {
           "id": 1,
-          "_name": "Thẻ <meta> trong html được  sử dụng để báo cho trình duyệt về mô tả trang, tác giả, tập ký tự, các từ khóa và nhiều thứ khác."
+          "_name": "<meta> được sử dụng để cung cấp thông tin về trang web hoặc tài liệu HTML"
         },
         {
           "id": 2,
-          "_name": "Thẻ <meta> trong html được sử dụng cho việc tối ưu hóa công cụ tìm kiếm để nói cho công cụ tìm kiếm về nội dung trang."
+          "_name": "Thông tin mà <meta> cung cấp thường không hiển thị trực tiếp trên trình duyệt web, mà được sử dụng để cung cấp các dữ liệu mô tả và thiết lập cho trang web"
         },
         {
           "id": 3,
-          "_name": "Thẻ <meta> trong html có thể cải thiện SEO mà không cần nội dung chất lượng"
+          "_name": "<meta> được thêm vào trong phần <head> của trang web và không ảnh hưởng trực tiếp đến nội dung hiển thị trên trang web mà chỉ cung cấp thông tin và thiết lập cho trình duyệt và các công cụ khác."
         },
         {
           "id": 4,
-          "_name": "Thẻ <meta> trong html dùng để cho trang web xuất hiện trên các công cụ tìm kiếm"
+          "_name": "Thuộc tính charset được sử dụng để xác định bộ mã ký tự (character encoding) của trang web. Nó giúp trình duyệt biết cách đọc và hiển thị các ký tự đặc biệt đúng cách"
+        },
+        {
+          "id": 5,
+          "_name": "Các cặp thuộc tính name và content được sử dụng để cung cấp các thông tin mô tả cho trang web, chẳng hạn như tiêu đề, tác giả, mô tả trang, từ khóa, và nhiều thông tin khác"
+        },
+        {
+          "id": 6,
+          "_name": "http-equiv: Thuộc tính http-equiv được sử dụng để mô phỏng các header HTTP thông qua các tên giống header"
+        },
+        {
+          "id": 7,
+          "_name": "viewport: Đối với các trang web tương thích với thiết bị di động, thuộc tính viewport được sử dụng để thiết lập khung nhìn (viewport) của trang. Nó giúp kiểm soát việc thu phóng và hiển thị trang web trên các thiết bị di động"
+        },
+        {
+          "id": 8,
+          "_name": "robots: Thuộc tính robots được sử dụng để hướng dẫn các công cụ tìm kiếm như Googlebot về cách xử lý trang web. Bạn có thể sử dụng nó để chỉ định liệu trang web có được lập chỉ mục (index) và được tìm thấy trong kết quả tìm kiếm hay không."
+        },
+        {
+          "id": 9,
+          "_name": ""
         }
       ]
     },
@@ -232,47 +256,47 @@
       "id": 7,
       "group": "HTML",
       "type": 0,
-      "title": "Tác dụng của thẻ iframe trong HTML",
+      "title": "Thẻ iframe trong HTML 5 có công dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Là một văn bản Html, được nhúng vào một trang Html khác"
+          "_name": "Thẻ <iframe> trong HTML 5 được sử dụng để nhúng một tài liệu hoặc trang web vào trong một trang web khác. Điều này cho phép bạn hiển thị nội dung từ một trang web khác hoặc nhúng các tài liệu như video, bản đồ, hoặc ứng dụng web vào trang web của bạn"
         },
         {
           "id": 2,
-          "_name": "Là một thẻ tối ưu hoá SEO"
+          "_name": "Thẻ <iframe> trong HTML 5 được sử dụng để nhúng một video hoặc một tài liệu vào trong một trang web khác. Điều này cho phép bạn hiển thị nội dung từ một trang web khác hoặc nhúng các tài liệu như video, bản đồ, hoặc ứng dụng web vào trang web của bạn"
         },
         {
           "id": 3,
-          "_name": "Là một thẻ văn bản bình thường của Html"
+          "_name": "Thẻ <iframe> trong HTML 5 được sử dụng để nhúng một audio hoặc một tài liệu vào trong một trang web khác. Điều này cho phép bạn hiển thị nội dung từ một trang web khác hoặc nhúng các tài liệu như video, bản đồ, hoặc ứng dụng web vào trang web của bạn"
         },
         {
           "id": 4,
-          "_name": "Là thẻ để dùng code các frame đặc biệt"
+          "_name": "Thẻ <iframe> trong HTML 5 được sử dụng để nhúng một danh sách ảnh hoặc một tài liệu vào trong một trang web khác. Điều này cho phép bạn hiển thị nội dung từ một trang web khác hoặc nhúng các tài liệu như video, bản đồ, hoặc ứng dụng web vào trang web của bạn"
         }
       ]
     },
     {
       "id": 8,
       "group": "HTML",
-      "type": 1,
+      "type": 0,
       "title": "Thuộc tính alt trong thẻ img có tác dụng gì ?",
       "answer": [
         {
           "id": 1,
-          "_name": "Cung cấp thông tin về ảnh trong trường hợp người dùng không xem được ảnh"
+          "_name": "Thuộc tính alt trong thẻ <img> có tác dụng cung cấp một văn bản thay thế cho hình ảnh khi hình ảnh không thể hiển thị hoặc khi trình duyệt không thể hiển thị hình ảnh."
         },
         {
           "id": 2,
-          "_name": "Cung cấp hình ảnh dự phòng trong trường hợp người dùng không xem được ảnh"
+          "_name": "Thuộc tính alt trong thẻ <img> có tác dụng cung cấp một ảnh thay thế cho hình ảnh khi hình ảnh không thể hiển thị hoặc khi trình duyệt không thể hiển thị hình ảnh."
         },
         {
           "id": 3,
-          "_name": "Cung cấp thông tin phụ về ảnh khi nguời dùng xem ảnh"
+          "_name": "Thuộc tính alt trong thẻ <img> có tác dụng cung cấp một video văn bản thay thế cho hình ảnh khi hình ảnh không thể hiển thị hoặc khi trình duyệt không thể hiển thị hình ảnh."
         },
         {
           "id": 4,
-          "_name": "Cung cấp hiệu ứng khi người dùng không xem được ảnh"
+          "_name": "Thuộc tính alt trong thẻ <img> có tác dụng cung cấp một audio thay thế cho hình ảnh khi hình ảnh không thể hiển thị hoặc khi trình duyệt không thể hiển thị hình ảnh."
         }
       ]
     },
@@ -280,7 +304,7 @@
       "id": 9,
       "group": "HTML",
       "type": 0,
-      "title": "Tìm câu sai khi nói về cách để định nghĩa 1 color trong html",
+      "title": "Cú pháp sai khi định nghĩa 1 color trong html",
       "answer": [
         {
           "id": 1,
@@ -308,91 +332,115 @@
       "answer": [
         {
           "id": 1,
-          "_name": "ul,ol,dl"
+          "_name": "ul, ol, dl"
         },
         {
           "id": 2,
-          "_name": "ui,oi,dl,di"
+          "_name": "ui, oi, dl, di"
         },
         {
           "id": 3,
-          "_name": "li,al,dl"
+          "_name": "li, al, dl"
         },
         {
           "id": 4,
-          "_name": "ul,li,la"
+          "_name": "ul, li, la"
         }
       ]
     },
     {
       "id": 11,
       "group": "HTML",
-      "type": 0,
-      "title": "Sự khác biệt giữa các phần tử span và div",
+      "type": 1,
+      "title": "Chọn các câu đúng khi nói về sự khác biệt giữa các phần tử <span> và <div>",
       "answer": [
         {
           "id": 1,
-          "_name": "Thẻ span là thẻ đặc biệt dùng để hiển thị kiểu văn bản đặc biệt ,còn div thì dùng để thể hiện các khối phần tử chính trong trang web"
+          "_name": "<span> là một phần tử inline, điều này có nghĩa rằng nó không tạo ra một khoảng trống hoặc dòng mới sau nó và có kích thước chỉ đúng đủ để bao quanh nội dung bên trong.<div> là một phần tử block, điều này có nghĩa rằng nó tạo ra một khối lớn và mặc định làm xuống dòng sau nó, điều này cho phép bạn tạo ra các khối chứa nhiều phần tử khác bên trong nó."
         },
         {
           "id": 2,
-          "_name": "2 thẻ có cách sử dụng và tác động giống nhau"
+          "_name": "<span> thường được sử dụng để áp dụng các tùy chỉnh như màu sắc hoặc kiểu chữ cho một phần nhỏ của văn bản bên trong nó, hoặc để chọn nội dung cụ thể để xử lý bằng CSS hoặc JavaScript. <div> thường được sử dụng để tạo ra các khối chứa nội dung, như các phần tử <p>, <h1>, <ul>, và nhiều phần tử khác có thể chứa bên trong một <div>."
         },
         {
           "id": 3,
-          "_name": "Thẻ span là thẻ tạo các khối phần tử trong trang web, còn div tạo các phần tử, vùng lớn trong trang web"
+          "_name": "<span> không thể sử dụng  để tạo ra một khối chứa nhiều phần tử khác bên trong. <div> thường được sử dụng để xác định và tạo kiểu cho các phần của trang web hoặc để nhóm các phần tử lại với nhau để xử lý bằng CSS hoặc JavaScript."
         },
         {
           "id": 4,
-          "_name": "Thẻ span thường được sử dụng để định dạng css cho văn bản hoặc sử lỹ mã js, còn div thường được sử dụng để tạo các khối hoặc phần tử lớn trên trang web"
+          "_name": ""
         }
       ]
     },
     {
       "id": 12,
       "group": "HTML",
-      "type": 0,
-      "title": "CSS có vai trò gì trong HTML?",
+      "type": 1,
+      "title": "CSS (Cascading Style Sheets) có vai trò quan trọng trong HTML bằng cách điều chỉnh cách mà các phần tử HTML được hiển thị và được trình bày trên trang web. Các vai trò và chức năng quan trọng của CSS trong HTML là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "CSS dùng để định dạng và trình bày trang web"
+          "_name": "Xác định kiểu dáng và giao diện: CSS cho phép bạn định rõ các thuộc tính như màu sắc, font chữ, kích thước, độ rộng, độ cao, khoảng cách, và nhiều thuộc tính khác của các phần tử HTML. Điều này giúp bạn tạo ra giao diện trực quan và hấp dẫn cho trang web của mình."
         },
         {
           "id": 2,
-          "_name": "CSS là thẻ cơ bản trong HTML"
+          "_name": "Tạo kiểu cho nhiều trang web: CSS cho phép bạn tạo một tập hợp các quy tắc kiểu dáng mà bạn có thể áp dụng cho nhiều trang web hoặc nhiều phần tử trên cùng một trang web. Điều này giúp duy trì kiểu dáng và thay đổi giao diện dễ dàng."
         },
         {
           "id": 3,
-          "_name": "CSS dùng để tạo tính tương tác với trang web"
+          "_name": "Tách biệt nội dung và kiểu dáng: CSS giúp tách biệt nội dung (HTML) và kiểu dáng (CSS) của trang web. Điều này tạo ra sự tương thích và tái sử dụng mã nguồn dễ dàng hơn. Bạn có thể thay đổi kiểu dáng mà không làm ảnh hưởng đến nội dung và ngược lại."
         },
         {
           "id": 4,
-          "_name": "CSS dùng để cấu hình các thông tin SEO"
+          "_name": "Kiểm soát độ phản hồi (responsive): CSS cho phép bạn tạo kiểu cho các trang web phản hồi, nghĩa là có thể hiển thị tốt trên nhiều loại thiết bị và kích thước màn hình khác nhau. Bằng cách sử dụng các phương pháp như media queries và flexible layouts, bạn có thể thay đổi kiểu dáng dựa trên kích thước màn hình và thiết bị."
+        },
+        {
+          "id": 5,
+          "_name": "Hiệu suất tải trang web: CSS giúp tối ưu hóa hiệu suất tải trang web bằng cách giảm kích thước của tệp CSS, loại bỏ các CSS không cần thiết và tối ưu hóa mã hóa. Điều này làm cho trang web tải nhanh hơn và cải thiện trải nghiệm người dùng."
+        },
+        {
+          "id": 6,
+          "_name": "Hỗ trợ trình duyệt đa nền tảng: CSS giúp bạn kiểm soát cách trang web hiển thị trên nhiều trình duyệt khác nhau, đảm bảo tính thống nhất và đồng nhất trên các nền tảng và trình duyệt khác nhau."
+        },
+        {
+          "id": 7,
+          "_name": ""
         }
       ]
     },
     {
       "id": 13,
       "group": "HTML",
-      "type": 0,
-      "title": "Javascript có vai trò gì trong HTMl",
+      "type": 1,
+      "title": "JavaScript là một ngôn ngữ lập trình mạnh mẽ và linh hoạt, thường được sử dụng trong HTML để thêm tính năng động và tương tác vào trang web. JavaScript có các vai trò quan trọng và đa dạng trong HTML là",
       "answer": [
         {
           "id": 1,
-          "_name": "Là ngôn ngữ lập trình dùng để tạo tính tương tác và động trong trang web"
+          "_name": "Tương tác người dùng: JavaScript cho phép bạn tạo ra các tương tác người dùng như nút bấm, biểu mẫu, và các hiệu ứng trang web. Bạn có thể xử lý sự kiện như nhấn chuột, nhấn phím, và chạm để thực hiện các hành động tương ứng trên trang web."
         },
         {
           "id": 2,
-          "_name": "Là ngôn ngữ siêu văn bản để tạo tính tương tác và động trong trang web"
+          "_name": "Thay đổi nội dung trang web: Bạn có thể sử dụng JavaScript để thay đổi nội dung của trang web mà không cần tải lại trang. Điều này giúp tạo ra các ứng dụng web đơn trang (SPA) và cải thiện trải nghiệm người dùng."
         },
         {
           "id": 3,
-          "_name": "Là ngôn ngữ dùng để tạo nên phong cách cho trang web"
+          "_name": "Tương tác với API và dữ liệu từ máy chủ: JavaScript cho phép bạn tương tác với các API (Application Programming Interface) để lấy dữ liệu từ máy chủ và hiển thị nó trên trang web. Điều này cho phép bạn tạo ra các ứng dụng web động và tương tác với các dịch vụ web khác."
         },
         {
           "id": 4,
-          "_name": "Là ngôn ngữ lập trình để tạo nên phong cách cho trang web"
+          "_name": "Kiểm tra và xử lý dữ liệu đầu vào: JavaScript có thể kiểm tra và xử lý dữ liệu mà người dùng nhập vào biểu mẫu trang web. Điều này giúp kiểm tra tính hợp lệ của dữ liệu và cung cấp phản hồi người dùng."
+        },
+        {
+          "id": 5,
+          "_name": "Tạo và quản lý trạng thái của trang: JavaScript có khả năng lưu trữ và quản lý trạng thái của trang web, cho phép bạn tạo ra các ứng dụng có trạng thái và theo dõi tương tác của người dùng."
+        },
+        {
+          "id": 6,
+          "_name": "Tích hợp với các thư viện và framework khác: JavaScript có thể sử dụng cùng với các thư viện và framework khác như React, Angular, hoặc Vue.js để phát triển các ứng dụng web phức tạp và dễ quản lý."
+        },
+        {
+          "id": 7,
+          "_name": ""
         }
       ]
     },
@@ -404,15 +452,15 @@
       "answer": [
         {
           "id": 1,
-          "_name": "<table>:<tr>:<td>/<th>"
+          "_name": "<table> _ <tr> _ <td>/<th>"
         },
         {
           "id": 2,
-          "_name": "<table>:<td>:<tr>/<th>"
+          "_name": "<table> _ <td> _ <tr>/<th>"
         },
         {
           "id": 3,
-          "_name": "<table>:<th>:<td>/<tr>"
+          "_name": "<table> _ <th> _ <td>/<tr>"
         }
       ]
     },
@@ -424,27 +472,27 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Application Cache"
+          "_name": "Cache Manifest (hoặc AppCache): một tệp đặc biệt trong HTML5 được sử dụng để xác định các tệp và dữ liệu cần lưu trữ offline. Điều này cho phép trình duyệt lưu trữ các tệp này trong bộ nhớ và cho phép trang web hoạt động ngoại tuyến khi không có kết nối internet. "
         },
         {
           "id": 2,
-          "_name": "Web Storage (localStorage và sessionStorage)"
+          "_name": "Service Workers : một công nghệ mạnh mẽ trong HTML5 cho phép bạn kiểm soát cách trang web tương tác với mạng và lưu trữ cache dữ liệu. Bạn có thể sử dụng Service Workers để quản lý cache và xử lý các yêu cầu mạng, cho phép trang web hoạt động ngoại tuyến một cách linh hoạt hơn."
         },
         {
           "id": 3,
-          "_name": "IndexedDB"
+          "_name": "Sử dụng Web Storage (localStorage và sessionStorage): HTML5 cung cấp các API như localStorage và sessionStorage để lưu trữ dữ liệu trên máy tính của người dùng. Bạn có thể sử dụng chúng để lưu trữ dữ liệu trang web và truy cập nó khi không có kết nối internet."
         },
         {
           "id": 4,
-          "_name": "Service Workers"
+          "_name": "Sử dụng IndexedDB : một cơ sở dữ liệu trình duyệt cung cấp cho phép bạn lưu trữ dữ liệu phức tạp và thực hiện truy vấn phức tạp trên dữ liệu này. Bạn có thể sử dụng IndexedDB để lưu trữ dữ liệu cho ứng dụng web của mình và truy cập nó khi offline."
         },
         {
           "id": 5,
-          "_name": "Websocket"
+          "_name": "Sử dụng Web Workers: cho phép bạn chạy mã JavaScript trong một luồng nền riêng biệt, giúp tăng hiệu suất và xử lý dữ liệu offline. Bạn có thể sử dụng Web Workers để thực hiện các tác vụ nặng như tải dữ liệu và xử lý nó trong nền."
         },
         {
           "id": 6,
-          "_name": "PWA"
+          "_name": ""
         }
       ]
     },
@@ -452,7 +500,7 @@
       "id": 16,
       "group": "HTML",
       "type": 0,
-      "title": "Các thẻ được dùng thế nào để tạo một trang web sử dụng multiple languages và mã hóa ký tự?",
+      "title": "Các thẻ được dùng để tạo một trang web sử dụng multiple languages và mã hóa ký tự?",
       "answer": [
         {
           "id": 1,
@@ -499,24 +547,32 @@
     {
       "id": 18,
       "group": "HTML",
-      "type": 0,
+      "type": 1,
       "title": "Mục tiêu chính của DOM là gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Để truy cập và thay đổi các phần tử của HTML trên 1 trang web"
+          "_name": "Truy cập và thay đổi nội dung: DOM cho phép bạn truy cập và thay đổi nội dung văn bản, hình ảnh, và các phần tử HTML trên trang web. Điều này cho phép bạn thực hiện các thay đổi động trên trang, như thêm hoặc xóa phần tử, cập nhật nội dung, và thay đổi kiểu dáng."
         },
         {
           "id": 2,
-          "_name": "Tạo tính tương tác trong 1 trang web"
+          "_name": "Tương tác người dùng: DOM cho phép bạn phản ứng với tương tác của người dùng, như xử lý sự kiện nhấp chuột, gõ phím, và chạm. Bạn có thể thực hiện các hành động tương tác như xác định người dùng đã nhấp vào phần tử nào, kiểm tra giá trị của biểu mẫu, và thực hiện các hành động tương ứng."
         },
         {
           "id": 3,
-          "_name": "Trang trí, thay đổi các phần tử trên 1 trang web"
+          "_name": "Xử lý và truy cập dữ liệu: DOM cung cấp khả năng truy cập và xử lý dữ liệu từ các nguồn khác nhau, bao gồm dữ liệu từ máy chủ thông qua các yêu cầu AJAX hoặc Fetch API. Bạn có thể lấy dữ liệu từ máy chủ và hiển thị nó trên trang web hoặc gửi dữ liệu ngược lại máy chủ."
         },
         {
           "id": 4,
-          "_name": "Dùng cấu trúc, thay đổi các thành phần trên 1 trang web"
+          "_name": "Tạo và xóa phần tử: DOM cho phép bạn tạo mới các phần tử HTML và thêm chúng vào tài liệu hoặc xóa các phần tử khỏi tài liệu. Điều này giúp bạn tạo ra nội dung động và thay đổi cấu trúc trang web theo nhu cầu."
+        },
+        {
+          "id": 5,
+          "_name": "Quản lý kiểu dáng (CSS): DOM cho phép bạn thay đổi kiểu dáng của các phần tử HTML, bao gồm màu sắc, font chữ, kích thước, và các thuộc tính CSS khác. Điều này cho phép bạn tạo giao diện người dùng tùy chỉnh và thay đổi kiểu dáng dựa trên tương tác của người dùng."
+        },
+        {
+          "id": 6,
+          "_name": ""
         }
       ]
     },
@@ -528,19 +584,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Lưu trữ thông tin trên máy tính của người dùng thông qua trình duyệt web"
+          "_name": "Lưu trữ thông tin trên máy tính của người dùng dưới dạng văn bản nhỏ và gửi thông tin này khi người dùng truy cập trang web"
         },
         {
           "id": 2,
-          "_name": "Lưu trữ thông tin người dùng trên máy tính thông qua API"
+          "_name": "Lưu trữ thông tin trên máy tính của người dùng dưới dạng ảnh và gửi thông tin này khi người dùng truy cập trang web"
         },
         {
           "id": 3,
-          "_name": "Lưu trữ thông tin trên máy tính người dùng thông qua PWA"
+          "_name": "Lưu trữ thông tin trên máy tính của người dùng dưới dạng âm thanh và gửi thông tin này khi người dùng truy cập trang web"
         },
         {
           "id": 4,
-          "_name": "Lưu trữ thông tin người dùng và máy tính vào API"
+          "_name": "Lưu trữ thông tin trên máy tính của người dùng dưới dạng video và gửi thông tin này khi người dùng truy cập trang web"
         }
       ]
     },
@@ -552,19 +608,19 @@
       "answer": [
         {
           "id": 1,
-          "_name": "Lưu trữ dữ liệu tạm thời trên trình duyệt web của người dùng"
+          "_name": "Là một cách để lưu trữ dữ liệu tạm thời trên trình duyệt của người dùng trong suốt phiên làm việc (session). Dữ liệu được lưu trữ trong sessionStorage chỉ tồn tại trong cửa sổ hoặc tab trình duyệt và sẽ bị xóa khi phiên làm việc kết thúc hoặc khi người dùng đóng cửa sổ hoặc tab đó."
         },
         {
           "id": 2,
-          "_name": "Lưu trữ dữ liệu thông tin web trên máy người dùng người dùng"
+          "_name": "Là một cách để lưu trữ dữ liệu tạm thời trên trình duyệt của người dùng trong suốt phiên làm việc (session). Dữ liệu được lưu trữ trong sessionStorage chỉ tồn tại trong cửa sổ hoặc tab trình duyệt và sẽ bị xóa khi tải lại trang hoặc khi người dùng đóng cửa sổ hoặc tab đó."
         },
         {
           "id": 3,
-          "_name": "Lưu trữ thông tin người dùng trên API"
+          "_name": "Là một cách để lưu trữ dữ liệu tạm thời trên trình duyệt của người dùng trong suốt phiên làm việc (session). Dữ liệu được lưu trữ trong sessionStorage chỉ tồn tại trong cửa sổ hoặc tab trình duyệt và sẽ bị xóa khi thêm tab mới đó."
         },
         {
           "id": 4,
-          "_name": "Lưu trữ dữ liệu người dùng đã xoá trên web"
+          "_name": "Là một cách để lưu trữ dữ liệu tạm thời trên trình duyệt của người dùng trong suốt phiên làm việc (session). Dữ liệu được lưu trữ trong sessionStorage chỉ tồn tại trong cửa sổ hoặc tab trình duyệt và sẽ bị xóa khi chuyển sang tab khác dử dụng"
         }
       ]
     },
@@ -572,23 +628,23 @@
       "id": 21,
       "group": "HTML",
       "type": 0,
-      "title": "LocalStorage trong HTML có tác dụng gì",
+      "title": "LocalStorage trong HTML5 có tác dụng gì",
       "answer": [
         {
           "id": 1,
-          "_name": "Lưu trữ dữ liệu tạm thời trên trình duyệt web của người dùng"
+          "_name": "Là một cơ chế lưu trữ dữ liệu trên trình duyệt của người dùng. Nó cho phép bạn lưu trữ dữ liệu tại địa điểm cục bộ trên máy tính của người dùng "
         },
         {
           "id": 2,
-          "_name": "Lưu trữ dữ liệu thông tin web trên máy người dùng người dùng"
+          "_name": "Là một cơ chế lưu trữ dữ liệu trên trình duyệt của người dùng. Nó cho phép bạn lưu trữ dữ liệu tại bộ nhớ trên máy tính của người dùng "
         },
         {
           "id": 3,
-          "_name": "Lưu trữ thông tin người dùng trên API"
+          "_name": "Là một cơ chế lưu trữ dữ liệu trên trình duyệt của người dùng. Nó cho phép bạn lưu trữ dữ liệu tại API của người sử dụng "
         },
         {
           "id": 4,
-          "_name": "Lưu trữ dữ liệu người dùng đã xoá trên web"
+          "_name": "Là một cơ chế lưu trữ dữ liệu trên trình duyệt của người dùng. Nó cho phép bạn lưu trữ dữ liệu tại bộ nhớ tạm trên máy tính của người dùng "
         }
       ]
     },
@@ -596,23 +652,23 @@
       "id": 22,
       "group": "HTML",
       "type": 0,
-      "title": "Định nghĩa về HTML Templates",
+      "title": "22",
       "answer": [
         {
           "id": 1,
-          "_name": "Là một thẻ dùng để định nghĩa một mẫu hoặc một container cho các phần tử HTML "
+          "_name": ""
         },
         {
           "id": 2,
-          "_name": "Là một thẻ thể hiện văn bản"
+          "_name": ""
         },
         {
           "id": 3,
-          "_name": "Là một thẻ thể hiện dữ liệu"
+          "_name": ""
         },
         {
           "id": 4,
-          "_name": "Là một dùng để cấu trúc các phần tử HTML"
+          "_name": ""
         }
       ]
     },
@@ -620,23 +676,23 @@
       "id": 23,
       "group": "HTML",
       "type": 0,
-      "title": "HTML Drag and Drop API là gì",
+      "title": "23",
       "answer": [
         {
           "id": 1,
-          "_name": " là một tập hợp các sự kiện và phương thức JavaScript được cung cấp bởi HTML5 để hỗ trợ việc kéo và thả (drag and drop) các phần tử trên trang web"
+          "_name": ""
         },
         {
           "id": 2,
-          "_name": " là một tập hợp các sự kiện và phương thức PHP được cung cấp bởi HTML5 để hỗ trợ việc kéo và thả (drag and drop) các phần tử trên trang web"
+          "_name": ""
         },
         {
           "id": 3,
-          "_name": " là một tập hợp các sự kiện và phương thức JavaScript được cung cấp bởi HTML4 để hỗ trợ việc kéo và thả (drag and drop) các phần tử trên trang web"
+          "_name": ""
         },
         {
           "id": 4,
-          "_name": " là một tập hợp các sự kiện và phương thức PHP được cung cấp bởi XHTML để hỗ trợ việc kéo và thả (drag and drop) các phần tử trên trang web"
+          "_name": ""
         }
       ]
     },
@@ -644,23 +700,23 @@
       "id": 24,
       "group": "HTML",
       "type": 0,
-      "title": "(CSP) là từ viết tắt của",
+      "title": "24",
       "answer": [
         {
           "id": 1,
-          "_name": "Content Security Policy"
+          "_name": ""
         },
         {
           "id": 2,
-          "_name": "Component Style Page"
+          "_name": ""
         },
         {
           "id": 3,
-          "_name": "Cascading Style Page"
+          "_name": ""
         },
         {
           "id": 4,
-          "_name": "Content Security Pages"
+          "_name": ""
         }
       ]
     },
@@ -912,12 +968,11 @@
       "id": 36,
       "group": "HTML",
       "type": 1,
-      "title": "Chọn câu sai khi nói về lợi ích của việc thu gọn khoảng trắng trong HTML là gì?",
+      "title": "Chọn các ý đúng khi nói về lợi ích của việc thu gọn khoảng trắng trong HTML là gì?",
       "answer": [
         {
           "id": 1,
           "_name": "Tăng tính liên kết giữa các thẻ"
-
         },
         {
           "id": 2,
@@ -938,6 +993,10 @@
         {
           "id": 6,
           "_name": "Tăng tốc tải trang"
+        },
+        {
+          "id": 7,
+          "_name": ""
         }
       ]
     },
@@ -992,12 +1051,12 @@
     {
       "id": 39,
       "group": "HTML",
-      "type": 0,
-      "title": "Chọn câu sai khi nói về HTML Entities",
+      "type": 1,
+      "title": "Chọn ý đúng khi nói về HTML Entities",
       "answer": [
         {
           "id": 1,
-          "_name": "là một cách để biểu thị các ký tự đặc biệt và các ký tự không thể hiện trực tiếp trong mã HTML mà thay vào đó được sử dụng cho các mục đích khác nhau."
+          "_name": "Là một cách để biểu thị các ký tự đặc biệt và các ký tự không thể hiện trực tiếp trong mã HTML mà thay vào đó được sử dụng cho các mục đích khác nhau."
         },
         {
           "id": 2,
@@ -1009,7 +1068,7 @@
         },
         {
           "id": 4,
-          "_name": "Là một cách để biểu thị các ký tự đặc biệt và các ký tự không thể hiện trực tiếp trong mã HTML mà thay vào đó được sử dụng cho các mục đích khác nhau."
+          "_name": ""
         }
       ]
     },
@@ -1123,9 +1182,28 @@
       "id": 1,
       "answer": [
         {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
           "id": 4
-        },{
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
           "id": 7
+        },
+        {
+          "id": 8
         }
       ]
     },
@@ -1134,16 +1212,13 @@
       "answer": [
         {
           "id": 1
-        },{
+        },
+        {
           "id": 2
-        },{
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "answer": [
+        },
+        {
+          "id": 3
+        },
         {
           "id": 4
         },
@@ -1156,16 +1231,18 @@
       ]
     },
     {
+      "id": 3,
+      "answer": [
+        {
+          "id": 1
+        }
+      ]
+    },
+    {
       "id": 4,
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 4
-        },
-        {
-          "id": 5
         }
       ]
     },
@@ -1173,13 +1250,28 @@
       "id": 5,
       "answer": [
         {
-          "id": 9
+          "id": 1
         },
         {
-          "id": 10
+          "id": 2
         },
         {
-          "id": 11
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
         }
       ]
     },
@@ -1188,6 +1280,27 @@
       "answer": [
         {
           "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
         }
       ]
     },
@@ -1227,7 +1340,13 @@
       "id": 11,
       "answer": [
         {
-          "id": 4
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
         }
       ]
     },
@@ -1236,6 +1355,21 @@
       "answer": [
         {
           "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
         }
       ]
     },
@@ -1244,6 +1378,21 @@
       "answer": [
         {
           "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
         }
       ]
     },
@@ -1269,6 +1418,9 @@
         },
         {
           "id": 4
+        },
+        {
+          "id": 5
         }
       ]
     },
@@ -1381,12 +1533,6 @@
       "answer": [
         {
           "id": 1
-        },
-        {
-          "id": 2
-        },
-        {
-          "id": 3
         }
       ]
     },
@@ -1408,11 +1554,15 @@
     },
     {
       "id": 32,
-      "answer": [ {
-        "id": 1
-      },
+      "answer": [
+        {
+          "id": 1
+        },
         {
           "id": 2
+        },
+        {
+          "id": 3
         }
       ]
     },
@@ -1421,9 +1571,11 @@
       "answer": [
         {
           "id": 1
-        },  {
+        },
+        {
           "id": 2
-        },  {
+        },
+        {
           "id": 3
         }
       ]
@@ -1449,6 +1601,21 @@
       "answer": [
         {
           "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
         }
       ]
     },
@@ -1465,10 +1632,15 @@
       "answer": [
         {
           "id": 1
-        },{
+        },
+        {
           "id": 2
-        },{
+        },
+        {
           "id": 3
+        },
+        {
+          "id": 4
         }
       ]
     },
@@ -1480,6 +1652,9 @@
         },
         {
           "id": 2
+        },
+        {
+          "id": 3
         }
       ]
     },

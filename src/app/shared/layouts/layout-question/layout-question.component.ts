@@ -23,7 +23,7 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
   ngOnInit(): void {
   }
 
-  ngOnChanges(changes: SimpleChanges) {
+  ngOnChanges() {
     this.getListQuestion();
   }
 
@@ -154,8 +154,11 @@ export class LayoutQuestionComponent implements OnInit, OnChanges {
   }
 
   showTest(){
+    this.getListQuestion();
     this.isTest = !this.isTest
     this.isList = false
-
+  }
+  endTest (){
+    this.checkAnswer();
   }
 }
